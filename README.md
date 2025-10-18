@@ -2,7 +2,7 @@
 
 ## *Xersonesus* is an Historical and Critical Encyclopedia of the Ukraine War
 
-It is free to download [here](../blob/main/AHACETFUW.pdf).
+It is free to download [here](AHACETFUW.pdf).
 
 ![Regnum_Bosporanum](Regnum_Bosporanum.jpeg)
 
