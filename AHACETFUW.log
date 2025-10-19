@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  18 OCT 2025 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  18 OCT 2025 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -662,6 +662,16 @@ l/m/n/10 (+20) ·\T1/ppl/m/n/10 (+20) y) \T1/ppl/m/it/10 (+20) Noun $\OMS/cmsy/m
  []
 
 
+Underfull \hbox (badness 7704) in paragraph at lines 93--94
+\T1/ppl/m/n/10 (+20) war, pri-mar-ily be-fore the great
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\T1/ppl/m/n/10 (+20) Ukrainian of-fen-sive in Kharkiv,
+ []
+
+
 
 [2]
 
@@ -672,20 +682,20 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16001 strings out of 473190
- 316107 string characters out of 5715801
- 724102 words of memory out of 5000000
+ 16017 strings out of 473190
+ 316253 string characters out of 5715801
+ 725102 words of memory out of 5000000
  38877 multiletter control sequences out of 15000+600000
- 581716 words of font info for 133 fonts, out of 8000000 for 9000
+ 582399 words of font info for 144 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,11n,107p,1006b,695s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,1671b,695s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/t
 exlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/
 2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on AHACETFUW.pdf (3 pages, 1043487 bytes).
+Output written on AHACETFUW.pdf (3 pages, 1047262 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
