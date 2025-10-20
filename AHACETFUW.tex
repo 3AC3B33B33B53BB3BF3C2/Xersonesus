@@ -26,13 +26,22 @@
 
 \usepackage[T1]{fontenc} % Output font encoding for international characters
 
-\usepackage[T2A]{fontenc}      % Font encoding for Cyrillic
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{Russian,ukrainian,chinese,turkish,arabic,french,italian,spanish}
+\setmainfont{Helvetica}
+\newfontfamily\cyrillicfont[Script=Cyrillic]{Helvetica}
+
+
+\usepackage{fontspec}
+
+% \usepackage[T2A]{fontenc}      % Font encoding for Cyrillic
 % \usepackage[utf8]{inputenc}     % Input encoding for UTF-8
-\usepackage[ukrainian]{babel}   % Ukrainian language support
+% \usepackage[ukrainian]{babel}   % Ukrainian language support
 
-%\usepackage{palatino} % Use the Palatino font
+\usepackage{times} % Use the Palatino font
 
-\usepackage{microtype} % Improves spacing
+\usepackage{microtype} % Improves spacings
 
 \usepackage{multicol} % Required for splitting text into multiple columns
 
@@ -126,7 +135,7 @@
 
 \entry{CIA} {Abbreviation} {Noun} {
 
-It is often claimed in print that the CIA (Central Intelligence Agency) predicted the beginning of the Ukraine war. It is true. The CIA forecast Russia's full-scale invasion less than two weeks in advance. \footnote{“Байден вважає, що Путін може напасти на Україну в найближчі дні – The Guardian,” \emph{Українська правда}, 11 лютого 2022, 22:08} In the publications in Ukrainian, Hebrew, Russian, or English, the majority of the accompanying images are pulled directly from an article published seven years ahead of its time. On Mar 9, 2015, \emph{Stratfor} published its famous article, "Gaming a Russian Offensive." The scenarios the CIA discusses in its forecast are replications of those from \emph{Stratfor}'s article. The arrows in these sets of images follow those in \emph{Stratfor}'s article.  \newline \indent It is interesting how these new images spiral outward from a common source almost like a Fibonacci sequence, adding more arrows with the fractionalization of the original scenarios. 
+It is often claimed in print that the CIA (Central Intelligence Agency) predicted the beginning of the Ukraine war. It is true. The CIA forecast Russia's full-scale invasion less than two weeks in advance. \footnote{ \textukrainian{“Байден вважає, що Путін може напасти на Україну в найближчі дні} – The Guardian,” \textukrainian{\emph{Українська правда}}, 11 лютого 2022, 22:08} In the publications in Ukrainian, Hebrew, Russian, or English, the majority of the accompanying images are pulled directly from an article published seven years ahead of its time. On Mar 9, 2015, \emph{Stratfor} published its famous article, "Gaming a Russian Offensive." The scenarios the CIA discusses in its forecast are replications of those from \emph{Stratfor}'s article. The arrows in these sets of images follow those in \emph{Stratfor}'s article.  \newline \indent It is interesting how these new images spiral outward from a common source almost like a Fibonacci sequence, adding more arrows with the fractionalization of the original scenarios. 
 
 }
 
