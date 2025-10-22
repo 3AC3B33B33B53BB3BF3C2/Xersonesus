@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  21 OCT 2025 21:55
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  21 OCT 2025 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1068,6 +1068,10 @@ Package multicol Warning: I moved some lines to the next page.
 
 [2]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 3 might be wrong on input line 169.
+
+
 [3]
 
 [4] (./AHACETFUW.aux)
@@ -1081,10 +1085,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22254 strings out of 473832
- 516766 string characters out of 5729480
- 963111 words of memory out of 5000000
- 44899 multiletter control sequences out of 15000+600000
+ 22258 strings out of 473832
+ 516822 string characters out of 5729480
+ 963135 words of memory out of 5000000
+ 44903 multiletter control sequences out of 15000+600000
  563906 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,11n,107p,3177b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
