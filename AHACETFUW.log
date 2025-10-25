@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  24 OCT 2025 14:24
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  24 OCT 2025 23:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1056,54 +1056,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--137
 []\TU/phv/b/n/10 Ukrainian offensive in Kharkiv,[]
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 140.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 140.
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 2 might be wrong on input line 141.
+
+
+[2]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Helvetica' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 154.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 154.
-[2]
-Underfull \hbox (badness 6559) in paragraph at lines 171--171
+
+Underfull \hbox (badness 6559) in paragraph at lines 173--173
 [][]\TU/phv/b/n/10 It is often claimed in print[]
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 176--176
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 3 might be wrong on input line 173.
+
+
+[3]
+Underfull \hbox (badness 6332) in paragraph at lines 178--178
 [][]\TU/phv/b/n/10 Putin claimed that intelligent[]
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 3 might be wrong on input line 176.
-
-
-[3]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 4 might be wrong on input line 198.
-
 
 [4]
-Underfull \hbox (badness 5203) in paragraph at lines 237--238
+
+[5]
+Underfull \hbox (badness 5203) in paragraph at lines 253--254
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 5 might be wrong on input line 238.
-
-
-[5]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 6 might be wrong on input line 329.
-
 
 [6]
 
-[7] (./AHACETFUW.aux)
+[7]
+
+[8] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1112,17 +1109,14 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 22297 strings out of 473832
- 517582 string characters out of 5729480
- 963000 words of memory out of 5000000
- 44939 multiletter control sequences out of 15000+600000
+ 22303 strings out of 473832
+ 517666 string characters out of 5729480
+ 966455 words of memory out of 5000000
+ 44945 multiletter control sequences out of 15000+600000
  563906 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,11n,107p,3177b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,3691b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (7 pages).
+Output written on AHACETFUW.pdf (8 pages).
