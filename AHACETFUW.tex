@@ -28,9 +28,12 @@
 
 \usepackage{polyglossia}
 \setdefaultlanguage{english}
-\setotherlanguages{russian,ukrainian,chinese,turkish,arabic,french,italian,spanish}
+\setotherlanguages{russian,ukrainian,chinese,turkish,arabic,french,italian,spanish,german,hebrew}
 \setmainfont{Helvetica} % font book but only system fonts
 \newfontfamily\cyrillicfont[Script=Cyrillic]{Helvetica}
+\newfontfamily\hebrewfont[Script=Hebrew]{NewPeninimMT}
+\newfontfamily\arabicfont[Script=Arabic]{Baghdad}
+
 
 
 \usepackage{fontspec}
@@ -61,6 +64,8 @@
 \usetikzlibrary{calc} % Optional, but useful for more complex calculations
 
 \usepackage{textcomp}
+
+%\usepackage{hyperref}
 
 
 %----------------------------------------------------------------------------------------
@@ -99,31 +104,6 @@
  \end{titlepage}
 
 %----------------------------------------------------------------------------------------
-%	SECTION 1
-%----------------------------------------------------------------------------------------
-
-\section*{1}
-
-\begin{multicols}{2}
-
-\entry{Artemovsk} {Artemovsk} {Noun} {See \textbf{Bakhmut-Artemovsk}.}
-
-\end{multicols}
-
-%----------------------------------------------------------------------------------------
-%	SECTION 2
-%----------------------------------------------------------------------------------------
-
-\section*{2}
-
-\begin{multicols}{2}
-
-\entry{2nd Conquerer of Sevastopol} {Artemovsk} {Noun} {See Erich von Manstein.}
-
-\end{multicols}
-
-
-%----------------------------------------------------------------------------------------
 %	SECTION A
 %----------------------------------------------------------------------------------------
 
@@ -131,13 +111,13 @@
 
 \begin{multicols}{2}
 
-\entry{Artemovsk} {Artemovsk} {Noun} {See \textbf{Bakhmut-Artemovsk}.}
+\entry{Artemovsk} {Donbas} {village} {See \textbf{Bakhmut-Artemovsk}.}
 
-\entry{Artillery} {ar·til·ler·y} {Noun} {Coined by the gravedigger of the revolution, Joseph Stalin, artillery is the god of war. The god of war, however, is now but only a vital component in an evolving array of combined arms in eastern Europe. In the beginning of the Ukraine war the  media focused almost exclusively on parity. The number of Russian artillery guns, calibre, the number of munitions, the type of munitions, or the way in which the Russians accurately targeted Ukrainian targets demonstrated the advantage Russia weaned over its opponent.  \newline \indent In the beginning of the Ukraine war, primarily before the great Ukrainian offensive in Kharkiv, launched on September 6th, 2022 but prepared weeks in advance, until the end of Ukraine's 'Spring' counteroffensive in 2023, artillery played a dominant role on the battlefield. Ukraine's failed 'Spring' counteroffensive witnessed confirmed Russia's seizure of the strategic initiative after the fall of Bakhmut-Artemovsk on May 23rd, 2023. In the winter of 2023 the Ukraine war witnessed a major transformation in the deployment of drones. Ukraine began to mass produce First Person View drones to strengthen its defense of the Donbas in the face of continued Russian advances. Necessity is the mother of invention. Ukraine's FPV drones began to play a dominant role on the battlefield, overtaking but by no means substituting for the role artillery played in the beginning of the war. The first Ukrainian brigades with dedicated, trained, expert drone pilots began to take shape.}
+\entry{Artillery} {weapon} { } {In a phrase coined by the gravedigger of the revolution, Joseph Stalin, artillery is the god of war. The god of war, however, is now but only a vital component in an evolving array of combined arms in eastern Europe. In the beginning of the Ukraine war the  media focused almost exclusively on parity. The number of Russian artillery guns, calibre, the number of munitions, the type of munitions, or the way in which the Russians accurately targeted Ukrainian targets demonstrated the advantage Russia weaned over its opponent. ّIn nearly every category, the Russians managed to demonstrate a noticeable superiority, a superiority not merely in quantity but in quality. The range of Russian calibres for artillery, for instance, far exceeded that of the Ukrainians. Confined to the 155mm M777 howitzers, the Ukrainians could not exercise fire control over battle areas in the way the Russians did. \newline \indent In the beginning of the Ukraine war, primarily before the great Ukrainian offensive in Kharkiv, launched on September 6th but largely until the end of Ukraine's 'Spring' counteroffensive in 2023, artillery played a dominant role on the battlefield. Ukraine's failed 'Spring' counteroffensive witnessed confirmed Russia's seizure of the strategic initiative after the fall of Bakhmut-Artemovsk on May 23rd, 2023. In the winter of 2023 the Ukraine war underwent a major transformation in the deployment of drones. Ukraine began to mass produce First Person View (FPV) drones to strengthen its defense of the Donbas in the face of continued Russian advances. Necessity is the mother of invention but the transformation could have come soon enough for Ukraine's defense of Avdiivka, a major turning point in the Ukraine war after the fall of Bakhmut-Artemovsk for Russian tactics (i.e., tunneling and FAB bombing with ”glide kits”) and Ukraine's deficiencies in artillery. Ukraine's FPV drones began to play a dominant role on the battlefield, overtaking but by no means substituting for the role artillery played in the beginning of the war. The first Ukrainian brigades with dedicated, trained, expert drone pilots began to take shape.}
 
-\entry{Avdiivka} {} {} {}
+\entry{Avdiivka} {Donbas} {village} {Ukraine's defense of Avdiivka, a major turning point in the Ukraine war after the fall of Bakhmut-Artemovsk for Russian tactics (i.e., tunneling and FAB bombing with ”glide kits”) and Ukraine's deficiencies in artillery and its deployment of FPV drones, collapsed on January 17th, 2024.}
 
-\entry{Axe, David} {} {} {One of the more committed journalists of the Ukraine war, whose coverage of the Donbas, especially in the Avdiivka direction from 2023 to the present, eclipsed others. Published primarily in \emph{Forbes}, these articles are an important source of information. At a time when the majority of news from the frontlines comes almost exclusively from 'milbloggers,' Axe's analyses shed light on rarely mentioned or hardly examined aspects of the Ukraine war. \newline \indent \emph{Forbes}, whose annual lists of America's four hundred richest Americans constituted one of the Socialist Equality Party's the primary staples of propaganda in the years preceding the 2008 subprime mortgage crisis, the nine years after the party's launch of the World Socialist Website in 1998\footnote{The SEP's launch preceded the Federal Bureau of Investigation's launch of a Federal Intrusion Detection Network, or FIDNET, modeled after a famous program from Linux's suite of open source security software called Snort, a network intrusion detection system (NIDS). Mentioned in the article published on  August 10th, 1999, under the title "White House plan for FBI Internet spying," FIDNET is one of the earliest precursors to the drag-net surveillance Edward Snowden exposed in his leak of secret documents from the National Security Agency (NSA). Originally exposed in an article published on July 28th, 1999, by the \emph{New York Times} under the title, "The U.S. Drawing Plan That Will Monitor Computer Systems," FIDNET is a part of the pre-history to the U.S. conspiracy to deprive citizens of life, liberty, or the pursuit of happiness through the technological obliteration of the founding father's Bill of Rights, especially the Fourth Amendment. Although the early SEP article makes no mention of the U.S. Constitution, the legal critique would become more apparent as the U.S. conspiracy strengthened its execution.} under the pretense of a Marxian renaissance.\footnote{In an article published on October 31st, 1998 under the title, "International school examines the century’s central problems of history, politics and culture," the International Committee of the Fourth International emphasized how a "central premise guiding the school was that a renaissance of Marxism is fundamental to the development of a perspective that can answer the burning issues of the day—growing social inequality, deepening economic crises, the decline in the cultural level of society and the prevailing political paralysis of the workers movement." } These early articles\footnote{The first appears to be ["Gap between rich and poor is wider than ever," 23 June 1998] but many more follow: ["The Forbes 200 list: billions for the privileged few," June 30, 1999], ["Forbes publishes list of 400 richest Americans," October 6, 2006]. } stand in stark contrast with the present stream of current headlines. It would seem that as opposed to those ten years of doldrums, history's acceleration required expanded coverage, prompting the SEP to abandon its annual review of \emph{Forbes}' lists. \newline \indent Axe's affinity for the representation of events from the Ukraine war in his articles with a relative approximation towards facts, however gained by his ambition for a Ukrainian victory, became a source of unease at the editorial board. Questions like the following likely flashed through \emph{Forbes}'s editorial board: What if an intelligent reader could see through the transparent attempt to portray Ukraine's armed forces in the most positive light imaginable? Might they be able to read between the lines? Wouldn't it be apropos? It would only be a matter of time before \emph{Forbes}, whose aim is to articulate the interest of a wealthy elite, would clash with Axe's propensity for factually based reporting on the highly politicized Ukraine war. \emph{Forbes}, the famous magazine celebrating the top one percent of the nation-state's richest people annually, decided to fire Axe, terminating his coverage before the end of the Ukraine war, the outcome of which has been to deprive posterity of one its auspicious eyes.}
+\entry{Axe, David} {} {} {One of the more committed journalists of the Ukraine war, whose coverage of the Donbas, especially in the Avdiivka direction from 2023 to the present, eclipsed others. Published primarily in \emph{Forbes}, these articles are an important source of information. At a time when the majority of news from the frontlines comes almost exclusively from 'milbloggers,' Axe's analyses shed light on rarely mentioned or hardly examined aspects of the Ukraine war. \newline \indent \emph{Forbes}, whose annual lists of America's four hundred richest Americans constituted one of the Socialist Equality Party's the primary staples of propaganda in the years preceding the 2008 subprime mortgage crisis, the nine years after the party's launch of the World Socialist Website in 1998\footnote{The SEP's launch preceded the Federal Bureau of Investigation's launch of a Federal Intrusion Detection Network, or FIDNET, modeled after a famous program from Linux's suite of open source security software called Snort, a network intrusion detection system (NIDS). Mentioned in the article published on  August 10th, 1999, under the title "White House plan for FBI Internet spying," FIDNET is one of the earliest precursors to the drag-net surveillance Edward Snowden exposed in his leak of secret documents from the National Security Agency (NSA). Originally exposed in an article published on July 28th, 1999, by the \emph{New York Times} under the title, "The U.S. Drawing Plan That Will Monitor Computer Systems," FIDNET is a part of the pre-history to the U.S. conspiracy to deprive citizens of life, liberty, or the pursuit of happiness through the technological obliteration of the founding father's Bill of Rights, especially the Fourth Amendment. Although the early SEP article makes no mention of the U.S. Constitution, the legal critique, so famous now, would only become more provocative as the U.S. conspiracy strengthened its execution.} under the pretense of a Marxian renaissance.\footnote{In an article published on October 31st, 1998 under the title, "International school examines the century’s central problems of history, politics and culture," the International Committee of the Fourth International emphasized how a "central premise guiding the school was that a renaissance of Marxism is fundamental to the development of a perspective that can answer the burning issues of the day—growing social inequality, deepening economic crises, the decline in the cultural level of society and the prevailing political paralysis of the workers movement." } These early articles\footnote{The first appears to be ["Gap between rich and poor is wider than ever," June 23, 1998] but many more follow: ["The Forbes 200 list: billions for the privileged few," June 30, 1999], ["Forbes 400 list of richest Americans: snapshot of a financial oligarchy," September 24th, 2004], ["Forbes reports bonanza for world’s billionaires," May 9th, 2005], ["The very rich in America: “The kind of money you cannot comprehend," April 19, 2006], ["Forbes publishes list of 400 richest Americans," October 6, 2006], ["The filthy rich: Forbes lists America’s top 400 for 2007," November 27th, 2007], ["America’s “Fortunate 400” control vast wealth," March 7th, 2008].} stand in stark contrast with the present stream of current headlines. It would seem that as opposed to those ten years of doldrums, history's acceleration required expanded coverage, prompting the SEP to abandon its annual review of \emph{Forbes}' lists. \newline \indent Axe's affinity for the representation of events from the Ukraine war in his articles with a relative approximation towards facts, however tainted by his ambition for a Ukrainian victory, became a source of unease at the editorial board. Questions like the following likely flashed through \emph{Forbes}'s editorial board: What if an intelligent reader could see through the transparent attempt to portray Ukraine's armed forces in the most positive light imaginable? Might they be able to read between the lines? Wouldn't it be apropos? It would only be a matter of time before \emph{Forbes}, whose aim is to articulate the interest of a wealthy elite, would clash with Axe's propensity for factually based reporting on the highly politicized Ukraine war. \emph{Forbes}, the famous magazine celebrating the top one percent of the nation-state's richest people annually, decided to fire Axe, terminating his coverage before the end of the Ukraine war, the outcome of which has been to deprive posterity of one its auspicious eyes.}
 
 \end{multicols}
 
@@ -151,7 +131,7 @@
 
 \entry{Bakhmut-Artemovsk} {} {} {The city whose fall sounded a death knell for the Ukrainian strategic initiative. Spellt \textukrainian{Бахмут — Артемівськ} in Ukrainian but —  \textrussian{Бахмут — Артемовск} in Russian, the city's history is unique.  }
 
-\entry{Bombing} {bomb·ing} {Gerund} {Bombing has thus far been ineffective from the beginning of the Ukraine war. It alone has not accomplished a single strategic objective for any of the warring parties. \newline \indent The \emph{New York Times} is one of the most fervent advocates of bombing.\footnote{“How to Choke Iraq,” \emph{NYT}, December 7th, 1990.} \footnote{“Bombing Iraq Ins’t Enough,” \emph{NYT}, January 30th, 1998.} \footnote{“American Bombs Make Iraq Stronger,” \emph{NYT}, December 20th, 1998.} \footnote{“Bomb North Korea, Before It’s Too Late,” \emph{NYT}, April 12th, 2013.} \footnote{“Bomb Syria, Even if It is Illegal,” \emph{NYT}, August 27th, 2013. } \footnote{“To Stop Iran’s Bomb, Bomb Iran,” \emph{NYT}, March 26th, 2015.}
+\entry{Bombing} {bomb·ing} {Gerund} {Bombing has thus far been ineffective from the beginning of the Ukraine war. It alone has not accomplished a single strategic objective for any of the warring parties. \newline \indent The \emph{New York Times} is one of the most fervent advocates of bombing.\footnote{[“How to Choke Iraq,” \emph{NYT}, December 7th, 1990.]} \footnote{[“Bombing Iraq Ins’t Enough,” \emph{NYT}, January 30th, 1998.]} \footnote{[“American Bombs Make Iraq Stronger,” \emph{NYT}, December 20th, 1998.]} \footnote{[“Bomb North Korea, Before It’s Too Late,” \emph{NYT}, April 12th, 2013.]} \footnote{[“Bomb Syria, Even if It is Illegal,” \emph{NYT}, August 27th, 2013.]} \footnote{[“To Stop Iran’s Bomb, Bomb Iran,” \emph{NYT}, March 26th, 2015.]} With its well known history of advocating for bombing, the \emph{New York Times}' publication of an article condemning Russia's own bombing campaign during the latter end of 2022 contrasts sharply with its own history of opinion. 
 
 }
 
@@ -236,7 +216,43 @@ It is often claimed in print that the CIA (Central Intelligence Agency) predicte
 
 \begin{multicols}{2}
 
-\entry{Gantz} {} {} {A detailed, thorough, insightful military historian of the eastern front, Gantz is one of the U.S. Army's untapped resources America's intelligence never managed to consult prior to the transformation of Julia Nuland's successful 2014 Maidan \emph{coup d'etat} into a provocation.}
+\entry{Gantz, David M. } {} {} {A detailed, thorough, insightful military historian of the eastern front, Gantz is one of the U.S. Army's untapped resources America's intelligence never managed to consult prior to the transformation of Julia Nuland's successful 2014 Maidan \emph{coup d'etat} into a full-scale provocation. Gantz's book, \emph{Operation Barbarossa: Hitler's Invasion of Russia 1941} provides a detailed historical account of the failed German offensive launched on June 22, 1941 against the Soviet Union. }
+
+\end{multicols}
+
+%----------------------------------------------------------------------------------------
+%	SECTION H
+%----------------------------------------------------------------------------------------
+
+\section*{H}
+
+\begin{multicols}{2}
+
+\entry{ } {} {} {}
+
+\end{multicols}
+
+%----------------------------------------------------------------------------------------
+%	SECTION I
+%----------------------------------------------------------------------------------------
+
+\section*{I}
+
+\begin{multicols}{2}
+
+\entry{ } {} {} {}
+
+\end{multicols}
+
+%----------------------------------------------------------------------------------------
+%	SECTION J
+%----------------------------------------------------------------------------------------
+
+\section*{J}
+
+\begin{multicols}{2}
+
+\entry{June 23rd, 2023} {} {} {In one of the greatest psychological operations in the history of the Western world, Vladimir Putin staged a \emph{coup d'etat} with Evgeny Prigozhin, the head of Russia's Private Military Corporation, Wagner, an elite special force staffed by experienced, well trained, career military men with a long history, most especially in the Middle East and Africa.}
 
 \end{multicols}
 
@@ -248,8 +264,10 @@ It is often claimed in print that the CIA (Central Intelligence Agency) predicte
 
 \begin{multicols}{2}
 
+\entry{Mad Max} {} {} { In an article published on April 6th, 2024 under the title, "Ukraine’s ‘Mad Max’ Trawls Swamps and Minefields for Shells," the \emph{Wall Street Journal} explained how Ukraine's ammunition shortage became so acute that an Ukrainian soldier, who hunts for Russian shells, became an important supplier for some units.}
+
 \entry{Manstein, Erich von, the 2nd Conquerer of Sevastopol} {} {} {Since neither a Roman nor a n Ottoman commander captured the Cimmeria before Prince Grigory Aleksandrovich Potemkin-Tauricheski, Erich von Manstein, the Nazi general, became the 2nd Conquerer of Sevastopol after the city fell on July 4th, 1942. History, however, may call the general the first conquerer, since Manstein is the first to conquer the city, established by Catherine the Great, after its Russification into a naval fortress to assert her Empire's control over the Black Sea. 
-\newline \indent Manstein conquered the Cimmeria with his personal dedication to one of the underlying principles of Blitzkrieg. He observed how the battle, which had raged for the better part of a year, began to tip the scales in the Nazi's favor.\footnote{During World War II, the U.S. Army's Military Intelligence Service initiated a series of reports on the Axis' powers. Among these reports is one dedicated to \emph{The German Armored Army}. The author expounds on the core tactical doctrine of German armor, explaining how "both from a tactical as well as from a strategical point of view, the selection of the maneuver to be carried out must always be inspired by the desire to disconcert the enemy command through its very boldness and rapidity. If necessary, 'what seems most improbable must be accomplished at the improbable place,' as remarked an officer of the staff of the 1st Armored Division in justification of the maneuver at Sedan." The author continues, stating: "By spectacular and even horrible combat methods, one must annihilate any will to resist on the part of the enemy. The fury of the "Stukas," the whizzing of their bombs, the din of their machine guns, the onrush of the tanks, the thunder of their march and of their fire, the spurt of the flames from the flame throwers, the explosion of melanin charges, everything must be brought into play to affect the morale of the combatant and give him the impression of an "apocalyptic" scene." Published on August 10th, 1942, Special Series \textnumero{ 2} is one of the U.S. Army's first explications of the Nazi's lightening warfare.} At precisely the moment when the scales began to weigh more heavily on the Nazis than the Soviets, Manstein commanded elements of his 11th Army to make the improbable possible with a cross-channel raid on Severnaya Bay where the Soviets estimated the chances for a successful attack to be highly improbable. In a reverberation of Manstein's sense for the appropriate place at the most opportune time like his modification of \emph{Fall Gelb}'s plan to pass through the Ardennes on May 10th, 1940, Manstein's correct appreciation for Napoleon's advice to maneuver according to circumstance prevailed.\footnote{It stands to mention that one of the unmentioned principles of \emph{Blitzkrieg} is harmony. In the Special Series \textnumero{ 2}, the author emphasizes how "it would be an error to compare one weapon with another. Far from encouraging rivalry among the various weapons, the new organization has developed their \underline{harmonious} association, and utilizes the motor to give them previously unrealized possibilities of speed. Armored weapons (light or heavy), infantry, artillery, engineers, signal communications, not to mention the air forces-all these arms contribute to the common aim: overcoming the adversary by an irresistible assault, followed by a complete destruction."}
+\newline \indent Manstein conquered the Cimmeria with his personal dedication to one of the underlying principles of Blitzkrieg. He observed how the battle, which had raged for the better part of a year, began to tip the scales in the Nazi's favor.\footnote{During World War II, the U.S. Army's Military Intelligence Service initiated a series of reports on the Axis' powers. Among these reports is one dedicated to \emph{The German Armored Army}. The author expounds on the core tactical doctrine of German armor, explaining how "both from a tactical as well as from a strategical point of view, the selection of the maneuver to be carried out must always be inspired by the desire to disconcert the enemy command through its very boldness and rapidity. If necessary, 'what seems most improbable must be accomplished at the improbable place,' as remarked an officer of the staff of the 1st Armored Division in justification of the maneuver at Sedan." The author continues, stating: "By spectacular and even horrible combat methods, one must annihilate any will to resist on the part of the enemy. The fury of the "Stukas," the whizzing of their bombs, the din of their machine guns, the onrush of the tanks, the thunder of their march and of their fire, the spurt of the flames from the flame throwers, the explosion of melanin charges, everything must be brought into play to affect the morale of the combatant and give him the impression of an "apocalyptic" scene." Published on August 10th, 1942, Special Series \textnumero{ 2} is one of the U.S. Army's first explications of the Nazi's lightening warfare.} At precisely the moment when the scales began to weigh more heavily on the Nazis's side than the Soviets', Manstein commanded elements of his 11th Army to make the improbable possible with a cross-channel raid on Severnaya Bay where the Soviets estimated the chances for a successful attack to be highly improbable. In a reverberation of Manstein's sense for the appropriate place at the most opportune time like his modification of \emph{Fall Gelb}'s plan to pass through the Ardennes on May 10th, 1940, Manstein's correct appreciation for Napoleon's advice to maneuver according to circumstance prevailed.\footnote{It stands to mention that one of the unmentioned principles of \emph{Blitzkrieg} is harmony. In the Special Series \textnumero{ 2}, the author emphasizes how "it would be an error to compare one weapon with another. Far from encouraging rivalry among the various weapons, the new organization has developed their \underline{harmonious} association, and utilizes the motor to give them previously unrealized possibilities of speed. Armored weapons (light or heavy), infantry, artillery, engineers, signal communications, not to mention the air forces-all these arms contribute to the common aim: overcoming the adversary by an irresistible assault, followed by a complete destruction." \newline \indent Over the years, Sevastopol witnessed fewer conquerers than Jerusalem, the famous center of the world.}
 }
 
 \end{multicols}
@@ -319,6 +337,12 @@ Russia is one of the belligerents in the Ukraine war. In comparison to Ukraine, 
 
 }
 
+\entry{rats} {} {} {Responsible for the malfunctioning French Ceasar 155mm mobilized artillery, rats eat the delicious corn wiring. 
+
+}
+
+
+
 \end{multicols}
 
 
@@ -333,7 +357,8 @@ Russia is one of the belligerents in the Ukraine war. In comparison to Ukraine, 
 
 \entry{Sanctions} {Sanct·ions} {Noun} {
 
-The collapse of Syria's Assad regime, a fifty year old dynasty, is a result of the Ukraine war. 
+Sanctions, imposed on Russia after Russia launched its full-scale invasion of the Ukraine on February 24th, 2022, failed to produce the effect the U.S.-led NATO alliance sought. In the immediate aftermath of its imposition of sanctions, hundreds of thousands of Western businesses profiting from Russia's domestic market withdrew, causing billions of dollars in losses. Russia continued to sell oil. At the time, the price of oil skyrocketed. Russia earned no fewer than 93 billion Euros from profits on oil exports alone.\footnote{[\texthebrew{״סנקציות? רוסיה מכרה מאז הפלישה לאוקראינה נפט בשווי 93 מיליארד יורו. רק גרמניה קנתה נפט רוסי ב-12 מיליארד יורו.״}]}
+ 
 
 }
 
@@ -344,10 +369,27 @@ Russia launched its first Shahed, one of the most important evolving weapons in 
 
 }
 
+\entry{Surovikin, Sergey} {} {} {Sergey Surovikin, the Commander-in-Chief of the Russian Aerospace Forces from 2017 until he was reportedly sacked by Vladimir Putin, oversaw the battle of Bakhmut-Artemovsk from the withdrawal of Russia's armed forces from Kherson to the east bank of the Dnipro to the construction of the most famous Surovikin line, stretching from Belarus, a contractor for Russia's defense industry specialized in repair, maintenance, and restoration\footnote{[\texthebrew{המערך הצבאי של בלו רוסיה הפך לעורף הלוגיסטי של הצבא הרוסי הנלחם באוקראינה. משפץ מטוסים, טנקים, מערכות כ״מ ומכ״ם שנפגעו במלחה. תיק דבקה, אוג 22, 2022}]}, to the Dnipro delta. Appointed to the overall command of the Donbas theater immediately after Ukraine's great 2022 Kharkiv counteroffensive launched on September 6th, 2022, Surovikin began construction of the complex network of defenses immediately. In its concluding remarks on an analysis of the Surovikin lines, the Center for Strategic and International Studies stated: "Russia has constructed some of the most extensive systems of military defensive works seen anywhere in the world for many decades."\footnote{["Ukraine’s Offensive Operations: Shifting the Offense-Defense Balance," \emph{CSIS}, June 2nd, 2023.]} Composed of layers of defenses such as minefields, dragon's teeth\footnote{[\textarabic{أسنان التنين تكتيك روسي "قديم" لصد الهجوم الأوكراني المضاد،العربية،  : ٢٩ يوليو ٢٠٢٣}]}, anti-tank ditches, trenches, pill boxes, and other barriers designed specifically to entrap the incoming Ukrainian 'Spring' counteroffensive, the construction of the Surovikin lines relayed heavily a Russian advantage in equipment. The Russian BTM-3, a high speed, tracked, trench-digging vehicle based on a heavy artillery prime-mover chassis, digs trenches several feet deep. It is capable of digging 800 meters of man-sized trench in one hour in 3rd gear. The minimum radius is 25 meters. The Russian BTM-3, whose implementation in the construction of the Surovikin line exceeds all other equipment, is unparalleled; few, if any other nations, have vehicles such as these. 
+\newline \indent A Russified response to warfare on the eastern front, the Surovikin line recalls the networks of fortifications the Russians utilized throughout the more than three centuries of warfare for protecting the road to Moscow. A series of ten  redoubts, defensive earthworks, designed to trap the Swedes in marshes during the battle of Pultova in 1709 is the first. The great redoubt at Borodino constructed under the auspices of one of Russia's most colorful generals, Mikhail Kutuzov, whose famous ability to defeat enemies, especially the Turks, in retreat cemented his preeminence in annals of Western warfare, upset Napoleon Bonaparte's bid to compel the Russians to capitulate in 1812. The earthworks one of Leon Trotsky's subordinates, Georgy Zhukov\footnote{\emph{The Great Commanders} (2003), an award winning expert portrait of six men, places Zhukov after Alexander the Great, Julius Caesar, Horatio Nelson, Napoleon Bonaparte, and Ulysses S Grant.}, one of the greatest Russian and Soviet military leaders of all time, built to prepare the Russian victory against the Nazis at Kursk on July 5th, 1943. Surovikin's construction of a major defensive network of earthworks thus places his generalship firmly and thoroughly within the line of the great Russian generals of the 18th, 19th, and 20th century. It is no wonder that Vladimir Putin sacked Surovikin, for Surovikin's preeminence unquestionably rivals all others in Russia right now, including Sergei Shoigu, Valery Gerasimov, and any other member of the Russian \textrussian{ставка}, not to mention any politicians. 
+
+}
+
 \entry{Syria} {Syr·ia} {Noun} {
 The collapse of Syria's Assad regime, a fifty year old dynasty, is a result of the Ukraine war. 
 
 }
+
+\entry{Stones} {} {} {At the height of Ukraine's crisis in artillery, a German speaking commentator, who sympathized with Ukraine's lack of munitions, declared how the Ukrainians would sooner start throwing stones than fire artillery shells at the rate the U.S.-led NATO alliance insisted European and Western nations contribute to the country's stocks.  Marc Thys, \textgerman{pensionierter Generalleutnant und früher der stellvertretende Chef der belgischen Armee}, made the statement in an interview to Bayerischer Rundfunk (BR) on February 3rd, 2024, just a few weeks before the third anniversary of the Ukraine war on February 24, 2024. \newline \indent Coming on the heel of the fall of Avdiivka, one of Russia's long-sought targets in Ukraine's collapsing manifest of a defense belt in the Donbas, on January 17th, 2024, the commentators describe Ukraine's munitions not in terms of numbers but time. Published on February 29th, 2024, five days after the third anniversary of the Ukraine war, the video Ukraine-Krieg: Gehen dem Westen die Waffen aus? Describes how "\textgerman{Die ukrainischen Truppen verschiessen jeden Tag Unmengen a Munition an der Front. Deutschland hat jetzt erst ein Flugabwehrsystem vom Typ geliefert und Artilleriemunition: 10,000 Schuss. Das reicht für zwei Tage. Denn die Ukraine bräuchte zwei bis 2, 4 Millionen Artilleriegranaten - pro Jahr. Das sind Schätzungen}." These measurements, which are based on Ukraine's rate of fire for a particular weapon system, symbolize how artillery is not a matter of stones, throwing, or throwing stones but time. 
+
+}
+
+% \href{https://www.youtube.com/watch?v=8MQdW00Jc4M}{Ukraine-Krieg: Gehen dem Westen die Waffen aus?}
+
+\entry{Switchblade} {} {} {The American Switchblade-300, Dead-on-Arrival on the Ukrainian battlefield, is an example of the Western belief in its superior firepower. Essential kit for America's special forces in Iraq and Afghanistan, the Middle East, the Switchblade-300 demonstrated its obsoletion in a way reflective of the times. As opposed to other types of weapons, a drone's effect is in its destruction; hence a drone's ability to disrupt, damage, or destroy a target must outweigh not only this but its own cost by an order of magnitude many times greater. The Switchblade-300, whose production facilities are overseas, costs many times more than an average FPV drone but without an immunity to Russia's electronic warfare. In an article published on October 23rd, 2025, Viktor Dolgopiatov, who heads Burevii, a design bureau pioneering [an] emergent class of [weapons], "average ground drone (UGV) in Ukraine, for example, has a life expectancy of just one week."\footnote{["Western drones are underwhelming on the Ukrainian battlefield," \emph{The Economist}]} With a lifespan far shorter than expected for the Switchblade-300, the weapon suddenly became obsolete. \newline \indent The rapid evolution of drone warfare prompted the U.S. Army to take note of its obsoletion. In February 2022, the U.S. Army issued its first notice, requesting sources to supply Switchblade 300s, perhaps indicating a desire to strike a balance in a cost benefit ratio. In November 2022 the Army issued its second notice, submitting a Request for Information (RFI) on loitering munitions, directly referencing the conflict in Ukraine, which “has clearly demonstrated the ability of unmanned systems at increasingly lower echelons of employment,” especially for “[delivering] lethal effects.” \newline \indent In contrast with the Shahed, whose versions, modifications or models are studied in detail by both sides, the United States has not developed a loitering munition with a degree of intensity comparable to the Russo-Iranian project's emphasis on iteration. 
+
+}
+
+
 
 
 \end{multicols}
@@ -367,6 +409,34 @@ It is to be determined which of the most prized possessions in warfare, time or 
 
 }
 
+
+\end{multicols}
+
+%----------------------------------------------------------------------------------------
+%	SECTION U
+%----------------------------------------------------------------------------------------
+
+\section*{U}
+
+\begin{multicols}{2}
+
+\entry{Undergrowth} {} {} {During Ukraine's 'Spring' counteroffensive, which neither happened in 'Spring' nor amounted to an offensive,' the premier British intelligence service, the cream of the crop from Oxford, Cambridge, King's College London, and Sandhurst, issued an alarming report, accounting for the Ukraine's mounting difficulties in overcoming the massive undergrowth characterizing the length of the line, the great Russian general, Surovikin, constructed during the battle of Bakhmut-Artemovsk. \newline \indent Published by her majesty's Defense Intelligence on August 3rd, 2023, the intelligence updated manifested three bullet points. The first stated: "[undergrowth] regrowing across the battlefields of southern Ukraine is likely one factor contributing to the generally slow progress of combat in the area." The second stated: "[the] predominately arable land in the combat zone has now been left fallow for 18 months, with the return of weeds and shrubs accelerating under the warm, damp summer conditions. The extra cover helps camouflage Russian defensive positions and makes defensive mine fields harder to clear." The third stated "Although undergrowth can also provide cover for small stealthy infantry assaults, the net effect has been to make it harder for either side to make advances." 
+
+
+}
+
+
+\end{multicols}
+
+%----------------------------------------------------------------------------------------
+%	SECTION Z
+%----------------------------------------------------------------------------------------
+
+\section*{Z}
+
+\begin{multicols}{2}
+
+\entry{Zhukov, Gregory} {} {} {} 
 
 \end{multicols}
 
