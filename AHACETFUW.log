@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  25 OCT 2025 23:14
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  26 OCT 2025 20:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1162,41 +1162,54 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
+! Extra }, or forgotten \endgroup.
+l.141 }
+       
+? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 3 might be wrong on input line 136.
+(multicol)                Footnotes on page 3 might be wrong on input line 145.
 
 
 [3]
-Underfull \hbox (badness 6559) in paragraph at lines 153--153
+Underfull \hbox (badness 6559) in paragraph at lines 162--162
 [][]\TU/phv/b/n/10 It is often claimed in print[]
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 158--158
+Underfull \hbox (badness 6332) in paragraph at lines 167--167
 [][]\TU/phv/b/n/10 Putin claimed that intelligent[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 4 might be wrong on input line 158.
+(multicol)                Footnotes on page 4 might be wrong on input line 167.
 
 
 [4]
 
 [5]
+Overfull \vbox (3.79425pt too high) has occurred while \output is active []
+
+
 
 [6]
-Underfull \hbox (badness 5203) in paragraph at lines 271--272
+Underfull \hbox (badness 5203) in paragraph at lines 329--330
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
 
-Underfull \vbox (badness 1960) has occurred while \output is active []
-
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 7 might be wrong on input line 330.
 
 
 [7]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 8 might be wrong on input line 410.
+
+
+[8]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NewPeninimMT' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1282,6 +1295,13 @@ Package microtype Info: Character `\textexclamdown ' is missing
 Package microtype Info: Character `\textquestiondown ' is missing
 (microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 9 might be wrong on input line 444.
+
+
+[9]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1406,31 +1426,30 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 8 might be wrong on input line 375.
+(multicol)                Footnotes on page 10 might be wrong on input line 455
+.
 
-
-[8]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 9 might be wrong on input line 384.
-
-
-[9]
-Underfull \hbox (badness 5274) in paragraph at lines 390--390
+[10]
+Underfull \hbox (badness 5274) in paragraph at lines 459--459
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 11 might be wrong on input line 459
+.
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 426--426
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 504--504
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
 
-[11] (./AHACETFUW.aux)
+[12]
+
+[13] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1439,14 +1458,17 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 22838 strings out of 473832
- 531951 string characters out of 5729480
- 979866 words of memory out of 5000000
- 45448 multiletter control sequences out of 15000+600000
+ 22841 strings out of 473832
+ 531989 string characters out of 5729480
+ 979888 words of memory out of 5000000
+ 45451 multiletter control sequences out of 15000+600000
  563986 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,11n,107p,4632b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,4632b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (11 pages).
+Output written on AHACETFUW.pdf (13 pages).
