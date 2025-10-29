@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  27 OCT 2025 20:56
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  29 OCT 2025 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1156,12 +1156,19 @@ Underfull \hbox (badness 7064) in paragraph at lines 121--122
 [][]\TU/ptm/b/n/10 Axe’s ability to achieve T.S.[]
  []
 
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 2 might be wrong on input line 122.
+
+
 [2]
+
+[3]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Helvetica' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [3]
+
 Underfull \hbox (badness 6559) in paragraph at lines 163--163
 [][]\TU/phv/b/n/10 It is often claimed in print[]
  []
@@ -1179,7 +1186,7 @@ Package multicol Warning: I moved some lines to the next page.
 [4]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 5 might be wrong on input line 194.
+(multicol)                Footnotes on page 5 might be wrong on input line 189.
 
 
 [5]
@@ -1188,11 +1195,6 @@ Package multicol Warning: I moved some lines to the next page.
 Underfull \hbox (badness 5203) in paragraph at lines 341--342
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 7 might be wrong on input line 342.
-
 
 [7]
 
@@ -1289,6 +1291,12 @@ Package multicol Warning: I moved some lines to the next page.
 
 
 [9]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 10 might be wrong on input line 477
+.
+
+[10]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1413,30 +1421,34 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 10 might be wrong on input line 482
+(multicol)                Footnotes on page 11 might be wrong on input line 482
 .
 
-[10]
+[11]
 Underfull \hbox (badness 5274) in paragraph at lines 486--486
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 11 might be wrong on input line 486
+(multicol)                Footnotes on page 12 might be wrong on input line 519
 .
 
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 548--548
+[12]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 13 might be wrong on input line 544
+.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 557--557
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
 
-[12]
-
-[13] (./AHACETFUW.aux)
+[14] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1447,12 +1459,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22841 strings out of 473832
- 531990 string characters out of 5729480
- 982187 words of memory out of 5000000
- 45451 multiletter control sequences out of 15000+600000
+ 22849 strings out of 473832
+ 532093 string characters out of 5729480
+ 983995 words of memory out of 5000000
+ 45459 multiletter control sequences out of 15000+600000
  563986 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,11n,107p,4875b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,5570b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (13 pages).
+Output written on AHACETFUW.pdf (14 pages).
