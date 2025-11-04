@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  2 NOV 2025 22:47
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  4 NOV 2025 10:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1125,43 +1125,295 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 114.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 114.
+
+Missing character: There is no 𝑎 (U+1D44E) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑑 (U+1D451) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no ℎ (U+210E) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no 𝑜 (U+1D45C) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑚 (U+1D45A) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑖 (U+1D456) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑛 (U+1D45B) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑒 (U+1D452) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑚 (U+1D45A) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑆 (U+1D446) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑜 (U+1D45C) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑝 (U+1D45D) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no ℎ (U+210E) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no 𝑖 (U+1D456) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑠 (U+1D460) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑡 (U+1D461) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑖 (U+1D456) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑐 (U+1D450) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑎 (U+1D44E) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑙 (U+1D459) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑅 (U+1D445) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑒 (U+1D452) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑓 (U+1D453) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑢 (U+1D462) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑡 (U+1D461) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑎 (U+1D44E) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑡 (U+1D461) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑖 (U+1D456) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑜 (U+1D45C) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑛 (U+1D45B) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑠 (U+1D460) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑟 (U+1D45F) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑖 (U+1D456) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑠 (U+1D460) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑢 (U+1D462) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑠 (U+1D460) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑠 (U+1D460) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑜 (U+1D45C) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑝 (U+1D45D) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no ℎ (U+210E) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no 𝑖 (U+1D456) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑠 (U+1D460) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑡 (U+1D461) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑖 (U+1D456) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑐 (U+1D450) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑢 (U+1D462) in font [lmroman8-regular]:mapping=t
+ex-text;!
+Missing character: There is no 𝑠 (U+1D460) in font [lmroman8-regular]:mapping=t
+ex-text;!
+! Undefined control sequence.
+<argument> ...ed the view. He stated: "\textgreek 
+                                                  {πάντων χρημάτων μέτρον ἐσ...
+l.114 ...ictions commensurate with intelligence. }
+                                                  
+? 
+Missing character: There is no π (U+03C0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ά (U+03AC) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ω (U+03C9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no χ (U+03C7) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no η (U+03B7) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no μ (U+03BC) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ά (U+03AC) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ω (U+03C9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no μ (U+03BC) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no έ (U+03AD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ἐ (U+1F10) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὶ (U+1F76) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ἄ (U+1F04) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no θ (U+03B8) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ρ (U+03C1) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ω (U+03C9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no π (U+03C0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ῶ (U+1FF6) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no μ (U+03BC) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὲ (U+1F72) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὄ (U+1F44) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ω (U+03C9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὡ (U+1F61) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ἔ (U+1F14) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ῶ (U+1FF6) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no δ (U+03B4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὲ (U+1F72) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὐ (U+1F50) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no κ (U+03BA) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὄ (U+1F44) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ω (U+03C9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὡ (U+1F61) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ς (U+03C2) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ο (U+03BF) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ὐ (U+1F50) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no κ (U+03BA) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ἔ (U+1F14) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no σ (U+03C3) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no τ (U+03C4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ι (U+03B9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
+x-text;!
 Missing character: There is no ّ (U+0651) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 7397) in paragraph at lines 116--117
+Underfull \hbox (badness 7397) in paragraph at lines 118--119
 []\TU/ptm/b/n/10 war, primarily before the great[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 []\TU/ptm/b/n/10 Ukrainian offensive in Kharkiv,[]
  []
 
 
-Underfull \hbox (badness 6236) in paragraph at lines 116--117
+Underfull \hbox (badness 6236) in paragraph at lines 118--119
 []\TU/ptm/b/n/10 launched on September 6th but[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 [][]\TU/ptm/b/n/10 Avdiivka (Donbas) village $\OMS/cmsy/m/n/10 ^^O$[]
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 121.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 121.
-
-Underfull \hbox (badness 7064) in paragraph at lines 121--122
-[][]\TU/ptm/b/n/10 Axe’s ability to achieve T.S.[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 2 might be wrong on input line 122.
+(multicol)                Footnotes on page 2 might be wrong on input line 121.
 
 
 [2]
+Underfull \hbox (badness 7064) in paragraph at lines 123--124
+[][]\TU/phv/b/n/10 Axe’s ability to achieve T.S.[]
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 3 might be wrong on input line 124.
+
 
 [3]
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1169,43 +1421,37 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 6559) in paragraph at lines 163--163
+
+[4]
+Underfull \hbox (badness 6559) in paragraph at lines 165--165
 [][]\TU/phv/b/n/10 It is often claimed in print[]
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 168--168
+Underfull \hbox (badness 6332) in paragraph at lines 170--170
 [][]\TU/phv/b/n/10 Putin claimed that intelligent[]
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 4 might be wrong on input line 168.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-[4]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 5 might be wrong on input line 189.
 
 
 [5]
 
-[6]
-
-[7]
-Underfull \hbox (badness 5203) in paragraph at lines 347--348
+[6] [7] [8]
+Underfull \hbox (badness 5203) in paragraph at lines 349--350
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 8 might be wrong on input line 348.
+(multicol)                Footnotes on page 9 might be wrong on input line 350.
 
-
-[8]
 
 [9]
+
+[10]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NewPeninimMT' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1294,16 +1540,16 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 10 might be wrong on input line 480
-.
-
-[10]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 11 might be wrong on input line 486
+(multicol)                Footnotes on page 11 might be wrong on input line 482
 .
 
 [11]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 12 might be wrong on input line 492
+.
+
+[12]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1428,20 +1674,17 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 12 might be wrong on input line 497
+(multicol)                Footnotes on page 13 might be wrong on input line 503
 .
 
-[12]
-Underfull \hbox (badness 5274) in paragraph at lines 501--501
+[13]
+Underfull \hbox (badness 5274) in paragraph at lines 503--503
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
-
-[13]
-
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 534
+(multicol)                Footnotes on page 14 might be wrong on input line 536
 .
 
 [14]
@@ -1450,24 +1693,24 @@ b;language=dflt;!
 Missing character: There is no T (U+0054) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--573
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 15 might be wrong on input line 549
+.
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 575--576
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 573
+(multicol)                Footnotes on page 16 might be wrong on input line 590
 .
 
-[15]
-Underfull \vbox (badness 3179) has occurred while \output is active []
+[16] [17]
 
-
-
-[16]
-
-[17] (./AHACETFUW.aux)
+[18] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1478,12 +1721,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22852 strings out of 473832
- 532132 string characters out of 5729480
- 987326 words of memory out of 5000000
- 45462 multiletter control sequences out of 15000+600000
+ 22860 strings out of 473832
+ 532236 string characters out of 5729480
+ 986224 words of memory out of 5000000
+ 45470 multiletter control sequences out of 15000+600000
  563986 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,11n,107p,5570b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,5570b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (17 pages).
+Output written on AHACETFUW.pdf (18 pages).
