@@ -2,9 +2,9 @@
 
 ## *Xersonesus* is an Historical and Critical Encyclopedia of the Ukraine War
 
-[![my badge]](https://img.shields.io/badge/github-repo-blue?logo=github)
+![my badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-[![my badge]](https://badgen.net/badge/Retweet/Now/red?icon=twitter)
+![my badge](https://badgen.net/badge/Retweet/Now/red?icon=twitter)
 
 
 It is free to download [here](AHACETFUW.pdf).
