@@ -4,7 +4,7 @@
 
 ![my badge](https://img.shields.io/badge/github-repo-blue?logo=github)
 
-![my badge](https://badgen.net/badge/Retweet/Now/red?icon=twitter)
+![my badge](https://img.shields.io/twitter/follow/:user)
 
 
 It is free to download [here](AHACETFUW.pdf).
