@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  17 NOV 2025 22:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  18 NOV 2025 13:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1448,11 +1448,11 @@ Package multicol Warning: I moved some lines to the next page.
 [8]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 9 might be wrong on input line 363.
+(multicol)                Footnotes on page 9 might be wrong on input line 362.
 
 
 [9]
-Underfull \hbox (badness 5203) in paragraph at lines 366--367
+Underfull \hbox (badness 5203) in paragraph at lines 365--366
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
@@ -1463,7 +1463,16 @@ Overfull \vbox (0.34023pt too high) has occurred while \output is active []
 
 [11]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 12 might be wrong on input line 422
+.
+
 [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[13]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NewPeninimMT' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1552,16 +1561,16 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 13 might be wrong on input line 501
-.
-
-[13]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 507
+(multicol)                Footnotes on page 14 might be wrong on input line 504
 .
 
 [14]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 15 might be wrong on input line 510
+.
+
+[15]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1686,34 +1695,34 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 518
+(multicol)                Footnotes on page 16 might be wrong on input line 521
 .
 
-[15]
-Underfull \hbox (badness 5274) in paragraph at lines 522--522
+[16]
+Underfull \hbox (badness 5274) in paragraph at lines 525--525
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 16 might be wrong on input line 537
-.
-
-[16]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 17 might be wrong on input line 555
+(multicol)                Footnotes on page 17 might be wrong on input line 540
 .
 
 [17]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 18 might be wrong on input line 558
+.
+
+[18]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 18 might be wrong on input line 583
+(multicol)                Footnotes on page 19 might be wrong on input line 586
 .
 
-[18]
+[19]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -2926,18 +2935,18 @@ Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 612--613
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 615--616
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
-[20]
+[21]
 Overfull \vbox (0.7758pt too high) has occurred while \output is active []
 
 
 
-[21] (./AHACETFUW.aux)
+[22] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -2948,12 +2957,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22890 strings out of 473832
- 532639 string characters out of 5729480
- 986447 words of memory out of 5000000
- 45500 multiletter control sequences out of 15000+600000
+ 22897 strings out of 473832
+ 532733 string characters out of 5729480
+ 987489 words of memory out of 5000000
+ 45507 multiletter control sequences out of 15000+600000
  563986 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,11n,107p,6143b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (21 pages).
+Output written on AHACETFUW.pdf (22 pages).
