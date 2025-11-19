@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  18 NOV 2025 13:16
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  18 NOV 2025 20:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1438,33 +1438,33 @@ Package multicol Warning: I moved some lines to the next page.
 [5]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 6 might be wrong on input line 206.
+(multicol)                Footnotes on page 6 might be wrong on input line 204.
 
 
 [6]
 
 [7]
 
-[8]
-
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 9 might be wrong on input line 362.
+(multicol)                Footnotes on page 8 might be wrong on input line 280.
 
 
-[9]
-Underfull \hbox (badness 5203) in paragraph at lines 365--366
+[8] [9]
+Underfull \hbox (badness 5203) in paragraph at lines 368--369
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 10 might be wrong on input line 369
+.
+
 [10]
-Overfull \vbox (0.34023pt too high) has occurred while \output is active []
-
-
 
 [11]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 12 might be wrong on input line 422
+(multicol)                Footnotes on page 12 might be wrong on input line 425
 .
 
 [12]
@@ -1561,13 +1561,13 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 504
+(multicol)                Footnotes on page 14 might be wrong on input line 507
 .
 
 [14]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 510
+(multicol)                Footnotes on page 15 might be wrong on input line 513
 .
 
 [15]
@@ -1695,23 +1695,23 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 16 might be wrong on input line 521
+(multicol)                Footnotes on page 16 might be wrong on input line 524
 .
 
 [16]
-Underfull \hbox (badness 5274) in paragraph at lines 525--525
+Underfull \hbox (badness 5274) in paragraph at lines 528--528
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 17 might be wrong on input line 540
+(multicol)                Footnotes on page 17 might be wrong on input line 543
 .
 
 [17]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 18 might be wrong on input line 558
+(multicol)                Footnotes on page 18 might be wrong on input line 561
 .
 
 [18]
@@ -1719,7 +1719,7 @@ Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ar
 b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 19 might be wrong on input line 586
+(multicol)                Footnotes on page 19 might be wrong on input line 589
 .
 
 [19]
@@ -2936,7 +2936,7 @@ ex-text;!
 
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 615--616
+Underfull \hbox (badness 10000) in paragraph at lines 618--619
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
@@ -2957,10 +2957,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22897 strings out of 473832
- 532733 string characters out of 5729480
- 987489 words of memory out of 5000000
- 45507 multiletter control sequences out of 15000+600000
+ 22901 strings out of 473832
+ 532789 string characters out of 5729480
+ 987641 words of memory out of 5000000
+ 45511 multiletter control sequences out of 15000+600000
  563986 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,11n,107p,6143b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
