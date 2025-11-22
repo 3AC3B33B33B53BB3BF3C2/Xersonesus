@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  18 NOV 2025 20:45
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  22 NOV 2025 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1436,6 +1436,8 @@ Package multicol Warning: I moved some lines to the next page.
 
 
 [5]
+Missing character: There is no ф (U+0444) in font [lmroman10-regular]:mapping=t
+ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 6 might be wrong on input line 204.
@@ -1446,20 +1448,26 @@ Package multicol Warning: I moved some lines to the next page.
 [7]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 8 might be wrong on input line 280.
+(multicol)                Footnotes on page 8 might be wrong on input line 284.
 
 
-[8] [9]
-Underfull \hbox (badness 5203) in paragraph at lines 368--369
+[8]
+
+[9]
+Underfull \hbox (badness 5203) in paragraph at lines 372--373
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 10 might be wrong on input line 369
+(multicol)                Footnotes on page 10 might be wrong on input line 373
 .
 
 [10]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 11 might be wrong on input line 395
+.
 
 [11]
 
@@ -1468,11 +1476,18 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [12]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 13 might be wrong on input line 425
+.
 
 [13]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 14 might be wrong on input line 429
+.
+
+[14]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NewPeninimMT' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1561,16 +1576,16 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 507
-.
-
-[14]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 513
+(multicol)                Footnotes on page 15 might be wrong on input line 495
 .
 
 [15]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 16 might be wrong on input line 511
+.
+
+[16]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1695,34 +1710,34 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 16 might be wrong on input line 524
+(multicol)                Footnotes on page 17 might be wrong on input line 528
 .
 
-[16]
-Underfull \hbox (badness 5274) in paragraph at lines 528--528
+[17]
+Underfull \hbox (badness 5274) in paragraph at lines 532--532
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 17 might be wrong on input line 543
-.
-
-[17]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 18 might be wrong on input line 561
+(multicol)                Footnotes on page 18 might be wrong on input line 532
 .
 
 [18]
-Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
-b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 19 might be wrong on input line 589
+(multicol)                Footnotes on page 19 might be wrong on input line 565
 .
 
 [19]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 20 might be wrong on input line 574
+.
+
+[20]
+Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
+b;language=dflt;!
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -2345,6 +2360,12 @@ Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 21 might be wrong on input line 593
+.
+
+[21]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
@@ -2934,19 +2955,16 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
+Underfull \hbox (badness 10000) in paragraph at lines 622--623
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
-[21]
-Overfull \vbox (0.7758pt too high) has occurred while \output is active []
+[22]
 
+[23]
 
-
-[22] (./AHACETFUW.aux)
+[24] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -2957,12 +2975,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 22901 strings out of 473832
- 532789 string characters out of 5729480
- 987641 words of memory out of 5000000
- 45511 multiletter control sequences out of 15000+600000
+ 22906 strings out of 473832
+ 532855 string characters out of 5729480
+ 995487 words of memory out of 5000000
+ 45516 multiletter control sequences out of 15000+600000
  563986 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,11n,107p,6143b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,9475b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (22 pages).
+Output written on AHACETFUW.pdf (24 pages).
