@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  22 NOV 2025 14:50
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  22 NOV 2025 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1463,6 +1463,9 @@ Underfull \hbox (badness 5203) in paragraph at lines 372--373
  []
 
 [11]
+Overfull \vbox (0.34023pt too high) has occurred while \output is active []
+
+
 
 [12]
 
@@ -2965,15 +2968,12 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 22906 strings out of 473832
- 532855 string characters out of 5729480
+ 22907 strings out of 473832
+ 532865 string characters out of 5729480
  993457 words of memory out of 5000000
- 45516 multiletter control sequences out of 15000+600000
+ 45517 multiletter control sequences out of 15000+600000
  563986 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,11n,107p,9475b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
