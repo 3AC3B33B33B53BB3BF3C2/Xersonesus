@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  26 NOV 2025 22:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  27 NOV 2025 10:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1623,19 +1623,19 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 21 might be wrong on input line 526
+(multicol)                Footnotes on page 21 might be wrong on input line 514
 .
 
 [21]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 22 might be wrong on input line 530
+(multicol)                Footnotes on page 22 might be wrong on input line 533
 .
 
 [22]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 23 might be wrong on input line 540
+(multicol)                Footnotes on page 23 might be wrong on input line 539
 .
 
 [23]
@@ -1761,23 +1761,33 @@ Package microtype Info: Character `\textquestiondown ' is missing
 (microtype)             in font `\TU/Baghdad(0)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 5274) in paragraph at lines 550--550
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 24 might be wrong on input line 549
+.
+
+[24]
+Underfull \hbox (badness 5274) in paragraph at lines 553--553
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 24 might be wrong on input line 550
+(multicol)                Footnotes on page 25 might be wrong on input line 567
 .
 
-[24]
+[25]
 
-[25] [26]
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 26 might be wrong on input line 585
+.
+
+[26]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 27 might be wrong on input line 610
+(multicol)                Footnotes on page 27 might be wrong on input line 613
 .
 
 [27]
@@ -2992,16 +3002,17 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 641--642
+Underfull \hbox (badness 10000) in paragraph at lines 644--645
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 28 might be wrong on input line 645
+.
 
-[28] [29]
-
-[30]
+[28] [29] [30]
 
 [31] (./AHACETFUW.aux)
  ***********
@@ -3011,6 +3022,9 @@ L3 programming layer <2025-01-18>
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
