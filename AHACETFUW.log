@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  28 NOV 2025 19:39
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  30 NOV 2025 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1538,13 +1538,19 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 19 might be wrong on input line 458
 .
 
-[19] [20]
+[19]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 21 might be wrong on input line 471
+(multicol)                Footnotes on page 20 might be wrong on input line 464
 .
 
-[21]
+[20] [21]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 22 might be wrong on input line 472
+.
+
+[22]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `NewPeninimMT' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1633,16 +1639,22 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 22 might be wrong on input line 550
+(multicol)                Footnotes on page 23 might be wrong on input line 555
 .
 
-[22] [23]
+[23]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 24 might be wrong on input line 570
+(multicol)                Footnotes on page 24 might be wrong on input line 565
 .
 
 [24]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 25 might be wrong on input line 571
+.
+
+[25]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1767,58 +1779,52 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 25 might be wrong on input line 580
+(multicol)                Footnotes on page 26 might be wrong on input line 581
 .
 
-[25]
-Underfull \hbox (badness 5274) in paragraph at lines 584--584
+[26]
+Underfull \hbox (badness 5274) in paragraph at lines 585--585
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 26 might be wrong on input line 584
-.
-
-[26]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 27 might be wrong on input line 616
+(multicol)                Footnotes on page 27 might be wrong on input line 599
 .
 
 [27]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 28 might be wrong on input line 629
+(multicol)                Footnotes on page 28 might be wrong on input line 617
 .
 
 [28]
-Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
-b;language=dflt;!
-
-LaTeX Warning: Reference `footdir@127' on page 29 undefined on input line 647.
-
-
-LaTeX Warning: Reference `footdir@128' on page 29 undefined on input line 647.
-
-
-LaTeX Warning: Reference `footdir@129' on page 29 undefined on input line 647.
-
-
-LaTeX Warning: Reference `footdir@130' on page 29 undefined on input line 647.
-
-
-LaTeX Warning: Reference `footdir@131' on page 29 undefined on input line 647.
-
-
-LaTeX Warning: Reference `footdir@132' on page 29 undefined on input line 647.
-
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 29 might be wrong on input line 647
+(multicol)                Footnotes on page 29 might be wrong on input line 630
 .
 
 [29]
+Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
+b;language=dflt;!
+
+LaTeX Warning: Reference `footdir@133' on page 30 undefined on input line 648.
+
+
+LaTeX Warning: Reference `footdir@134' on page 30 undefined on input line 648.
+
+
+LaTeX Warning: Reference `footdir@135' on page 30 undefined on input line 648.
+
+
+LaTeX Warning: Reference `footdir@136' on page 30 undefined on input line 648.
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 30 might be wrong on input line 648
+.
+
+[30]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -3030,18 +3036,21 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 678--679
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 31 might be wrong on input line 697
+.
 
-[30] [31]
+[31] [32]
 
-[32]
+[33]
 
-[33] (./AHACETFUW.aux)
+[34] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -3058,12 +3067,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22946 strings out of 473832
- 533423 string characters out of 5729480
- 1013238 words of memory out of 5000000
- 45556 multiletter control sequences out of 15000+600000
+ 22952 strings out of 473832
+ 533503 string characters out of 5729480
+ 1029779 words of memory out of 5000000
+ 45562 multiletter control sequences out of 15000+600000
  563986 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,12n,107p,13114b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (33 pages).
+Output written on AHACETFUW.pdf (34 pages).
