@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  30 NOV 2025 17:19
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  3 DEC 2025 22:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1115,21 +1115,189 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 114.
+(Font)              using `TU/ptm/m/n' instead on input line 115.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 114.
+(Font)              <7> on input line 115.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 114.
+(Font)              <5> on input line 115.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `NewPeninimMT' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 114.
+(Font)              <8> on input line 115.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 114.
+(Font)              <6> on input line 115.
+Package microtype Info: Character `A' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `F' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `J' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `K' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `L' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `T' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `V' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `W' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `X' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `Y' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `k' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `r' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `v' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `w' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `x' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `y' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `@' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `~ (= ~)' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `_' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
 
+Missing character: There is no A (U+0041) in font New Peninim MT/OT:script=hebr
+;language=dflt;!
 Missing character: There is no 𝑎 (U+1D44E) in font [lmroman8-regular]:mapping=t
 ex-text;!
 Missing character: There is no 𝑑 (U+1D451) in font [lmroman8-regular]:mapping=t
@@ -1227,7 +1395,7 @@ ex-text;!
 ! Undefined control sequence.
 <argument> ...ed the view. He stated: "\textgreek 
                                                   {πάντων χρημάτων μέτρον ἐσ...
-l.114 ...ictions commensurate with intelligence. }
+l.117 ...ictions commensurate with intelligence. }
                                                   
 ? 
 Missing character: There is no π (U+03C0) in font [lmroman8-regular]:mapping=te
@@ -1380,48 +1548,50 @@ Missing character: There is no ν (U+03BD) in font [lmroman8-regular]:mapping=te
 x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 2 might be wrong on input line 118.
+(multicol)                Footnotes on page 2 might be wrong on input line 121.
 
 
 [2]
 Missing character: There is no ّ (U+0651) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 7397) in paragraph at lines 122--123
+Underfull \hbox (badness 7397) in paragraph at lines 125--126
 []\TU/phv/b/n/10 war, primarily before the great[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 []\TU/phv/b/n/10 Ukrainian offensive in Kharkiv,[]
  []
 
 
-Underfull \hbox (badness 6236) in paragraph at lines 122--123
+Underfull \hbox (badness 6236) in paragraph at lines 125--126
 []\TU/phv/b/n/10 launched on September 6th but[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 3 might be wrong on input line 123.
+(multicol)                Footnotes on page 3 might be wrong on input line 126.
 
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 [][]\TU/phv/b/n/10 Avdiivka (Donbas) village $\OMS/cmsy/m/n/10 ^^O$[]
  []
 
 
-Underfull \hbox (badness 7064) in paragraph at lines 127--128
+Underfull \hbox (badness 7064) in paragraph at lines 130--131
 [][]\TU/phv/b/n/10 Axe’s ability to achieve T.S.[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 4 might be wrong on input line 128.
+(multicol)                Footnotes on page 4 might be wrong on input line 131.
 
 
 [4]
+
+[5]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Helvetica' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1429,39 +1599,32 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 5 might be wrong on input line 145.
-
-
-[5]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 6 might be wrong on input line 184.
 
 
 [6]
-Underfull \hbox (badness 6559) in paragraph at lines 189--189
+Underfull \hbox (badness 6559) in paragraph at lines 192--192
 [][]\TU/phv/b/n/10 It is often claimed in print[]
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 194--194
-[][]\TU/phv/b/n/10 Putin claimed that intelligent[]
- []
-
-
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 7 might be wrong on input line 194.
+(multicol)                Footnotes on page 7 might be wrong on input line 192.
 
 
 [7]
+Underfull \hbox (badness 6332) in paragraph at lines 197--197
+[][]\TU/phv/b/n/10 Putin claimed that intelligent[]
+ []
+
 ! Undefined control sequence.
-l.214 \entity
+l.217 \entity
              {Davis, Sam} {} {} {Known primarily for his penetrating lecture...
 
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 8 might be wrong on input line 215.
+(multicol)                Footnotes on page 8 might be wrong on input line 218.
 
 
 [8]
@@ -1469,189 +1632,97 @@ Missing character: There is no ф (U+0444) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 9 might be wrong on input line 226.
+(multicol)                Footnotes on page 9 might be wrong on input line 225.
 
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 []\TU/phv/b/n/10 Offray’s publication entitled La[]
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 10 might be wrong on input line 262
-.
-
-[10]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 11 might be wrong on input line 306
-.
 
 [11]
+
+[12]
 Missing character: There is no ≡ (U+2261) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Overfull \hbox (0.16756pt too wide) in paragraph at lines 360--360
+Overfull \hbox (0.16756pt too wide) in paragraph at lines 363--363
 []\TU/phv/b/n/10 present day design for photonic proces-[]
  []
 
-[12]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 13 might be wrong on input line 360
+(multicol)                Footnotes on page 13 might be wrong on input line 363
 .
 
-[13]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 397
-.
-
-[14]
-Underfull \hbox (badness 5203) in paragraph at lines 400--401
+[13] [14]
+Underfull \hbox (badness 5203) in paragraph at lines 403--404
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 403
+(multicol)                Footnotes on page 15 might be wrong on input line 404
 .
 
 [15]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 16 might be wrong on input line 431
+.
+
 [16]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 17 might be wrong on input line 458
+(multicol)                Footnotes on page 17 might be wrong on input line 461
 .
 
 [17]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 18 might be wrong on input line 458
+(multicol)                Footnotes on page 18 might be wrong on input line 461
 .
 
 [18]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 19 might be wrong on input line 458
+(multicol)                Footnotes on page 19 might be wrong on input line 461
 .
 
 [19]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 20 might be wrong on input line 464
+(multicol)                Footnotes on page 20 might be wrong on input line 461
 .
 
-[20] [21]
+[20]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 22 might be wrong on input line 472
+(multicol)                Footnotes on page 21 might be wrong on input line 467
+.
+
+[21]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 22 might be wrong on input line 475
 .
 
 [22]
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `NewPeninimMT' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-Package microtype Info: Character `A' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `F' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `J' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `K' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `L' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `T' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `V' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `W' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `X' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `Y' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `k' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `r' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `v' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `w' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `x' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `y' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `@' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `~ (= ~)' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\AE ' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `_' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\quotesinglbase ' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglleft ' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guilsinglright ' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotleft ' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\guillemotright ' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textexclamdown ' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `\textquestiondown ' is missing
-(microtype)             in font `\TU/NewPeninimMT(0)/m/n/8'.
-(microtype)             Ignoring protrusion settings for this character.
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 23 might be wrong on input line 555
-.
 
 [23]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 24 might be wrong on input line 565
+(multicol)                Footnotes on page 24 might be wrong on input line 564
 .
 
 [24]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 25 might be wrong on input line 571
+(multicol)                Footnotes on page 25 might be wrong on input line 568
 .
 
 [25]
@@ -1779,49 +1850,43 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 26 might be wrong on input line 581
+(multicol)                Footnotes on page 26 might be wrong on input line 584
 .
 
 [26]
-Underfull \hbox (badness 5274) in paragraph at lines 585--585
+Underfull \hbox (badness 5274) in paragraph at lines 588--588
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 27 might be wrong on input line 599
+(multicol)                Footnotes on page 27 might be wrong on input line 588
 .
 
 [27]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 28 might be wrong on input line 617
+(multicol)                Footnotes on page 28 might be wrong on input line 624
 .
 
 [28]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 29 might be wrong on input line 630
+(multicol)                Footnotes on page 29 might be wrong on input line 633
 .
 
 [29]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
-LaTeX Warning: Reference `footdir@133' on page 30 undefined on input line 648.
+LaTeX Warning: Reference `footdir@137' on page 30 undefined on input line 655.
 
 
-LaTeX Warning: Reference `footdir@134' on page 30 undefined on input line 648.
-
-
-LaTeX Warning: Reference `footdir@135' on page 30 undefined on input line 648.
-
-
-LaTeX Warning: Reference `footdir@136' on page 30 undefined on input line 648.
+LaTeX Warning: Reference `footdir@138' on page 30 undefined on input line 655.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 30 might be wrong on input line 648
+(multicol)                Footnotes on page 30 might be wrong on input line 655
 .
 
 [30]
@@ -3036,19 +3101,17 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 679--680
+Underfull \hbox (badness 10000) in paragraph at lines 686--687
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 31 might be wrong on input line 697
+(multicol)                Footnotes on page 31 might be wrong on input line 687
 .
 
-[31] [32]
-
-[33]
+[31] [32] [33]
 
 [34] (./AHACETFUW.aux)
  ***********
@@ -3067,11 +3130,11 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22952 strings out of 473832
- 533503 string characters out of 5729480
- 1029779 words of memory out of 5000000
- 45562 multiletter control sequences out of 15000+600000
- 563986 words of font info for 85 fonts, out of 8000000 for 9000
+ 22959 strings out of 473832
+ 533656 string characters out of 5729480
+ 1032876 words of memory out of 5000000
+ 45568 multiletter control sequences out of 15000+600000
+ 563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,11n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
