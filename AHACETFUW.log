@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  4 DEC 2025 20:43
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  4 DEC 2025 23:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1673,10 +1673,6 @@ Package multicol Warning: I moved some lines to the next page.
 
 [15]
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 16 might be wrong on input line 403
-.
-
 [16]
 Underfull \hbox (badness 5203) in paragraph at lines 408--409
 []\TU/phv/b/n/10 commander captured the Cimme-[]
@@ -1689,13 +1685,11 @@ Package multicol Warning: I moved some lines to the next page.
 
 [17]
 
-[18]
-
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 19 might be wrong on input line 466
+(multicol)                Footnotes on page 18 might be wrong on input line 411
 .
 
-[19]
+[18] [19]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 20 might be wrong on input line 466
@@ -1719,21 +1713,12 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 23 might be wrong on input line 472
 .
 
-[23]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 24 might be wrong on input line 480
-.
-
-[24]
-Overfull \vbox (0.51079pt too high) has occurred while \output is active []
-
-
+[23] [24]
 
 [25]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 26 might be wrong on input line 569
+(multicol)                Footnotes on page 26 might be wrong on input line 563
 .
 
 [26]
@@ -1743,6 +1728,12 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [27]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 28 might be wrong on input line 583
+.
+
+[28]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1867,23 +1858,17 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 28 might be wrong on input line 589
+(multicol)                Footnotes on page 29 might be wrong on input line 589
 .
 
-[28]
+[29]
 Underfull \hbox (badness 5274) in paragraph at lines 593--593
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 29 might be wrong on input line 593
-.
-
-[29]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 30 might be wrong on input line 629
+(multicol)                Footnotes on page 30 might be wrong on input line 611
 .
 
 [30]
@@ -1893,14 +1878,14 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [31]
-Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
-b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 32 might be wrong on input line 660
+(multicol)                Footnotes on page 32 might be wrong on input line 642
 .
 
 [32]
+Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
+b;language=dflt;!
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -2523,6 +2508,12 @@ Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 33 might be wrong on input line 660
+.
+
+[33]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
@@ -3118,11 +3109,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 691--692
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 33 might be wrong on input line 692
-.
+Overfull \vbox (0.55801pt too high) has occurred while \output is active []
 
-[33] [34] [35]
+
+Overfull \vbox (0.55801pt too high) has occurred while \output is active []
+
+
+
+[34] [35]
 
 [36] (./AHACETFUW.aux)
  ***********
@@ -3133,12 +3127,15 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 22971 strings out of 473832
- 533826 string characters out of 5729480
- 1034149 words of memory out of 5000000
- 45580 multiletter control sequences out of 15000+600000
+ 22972 strings out of 473832
+ 533846 string characters out of 5729480
+ 1037193 words of memory out of 5000000
+ 45581 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,11n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
