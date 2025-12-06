@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  5 DEC 2025 21:33
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  6 DEC 2025 00:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1712,6 +1712,10 @@ Package multicol Warning: I moved some lines to the next page.
 
 [19]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 20 might be wrong on input line 443
+.
+
 [20]
 
 Package multicol Warning: I moved some lines to the next page.
@@ -1736,16 +1740,280 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 24 might be wrong on input line 478
 .
 
-[24] [25]
+[24]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 25 might be wrong on input line 478
+.
+
+[25]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 26 might be wrong on input line 486
 .
 
 [26]
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ت (U+062A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ت (U+062A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ع (U+0639) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ي (U+064A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ه (U+0647) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ف (U+0641) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ي (U+064A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no أ (U+0623) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ك (U+0643) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ن (U+0646) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ي (U+064A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no م (U+0645) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ذ (U+0630) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no أ (U+0623) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ت (U+062A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ي (U+064A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no إ (U+0625) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ي (U+064A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ن (U+0646) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no أ (U+0623) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ح (U+062D) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ة (U+0629) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no و (U+0648) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no م (U+0645) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ع (U+0639) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no د (U+062F) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ت (U+062A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no غ (U+063A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ب (U+0628) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ي (U+064A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ة (U+0629) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ؟ (U+061F) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ق (U+0642) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ن (U+0646) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ة (U+0629) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ل (U+0644) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ج (U+062C) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ز (U+0632) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ي (U+064A) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ر (U+0631) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ة (U+0629) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no א (U+05D0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no א (U+05D0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no א (U+05D0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no א (U+05D0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no א (U+05D0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no א (U+05D0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no א (U+05D0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no א (U+05D0) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no י (U+05D9) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman8-regular]:mapping=te
+x-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
+x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 27 might be wrong on input line 569
+(multicol)                Footnotes on page 27 might be wrong on input line 535
 .
 
 [27]
@@ -1757,7 +2025,7 @@ Package multicol Warning: I moved some lines to the next page.
 [28]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 29 might be wrong on input line 585
+(multicol)                Footnotes on page 29 might be wrong on input line 583
 .
 
 [29]
@@ -1885,39 +2153,56 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 30 might be wrong on input line 595
+(multicol)                Footnotes on page 30 might be wrong on input line 599
 .
 
 [30]
-Underfull \hbox (badness 5274) in paragraph at lines 599--599
+Underfull \hbox (badness 5274) in paragraph at lines 603--603
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 31 might be wrong on input line 617
+(multicol)                Footnotes on page 31 might be wrong on input line 603
 .
 
 [31]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 32 might be wrong on input line 635
+(multicol)                Footnotes on page 32 might be wrong on input line 639
 .
 
 [32]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 33 might be wrong on input line 648
+(multicol)                Footnotes on page 33 might be wrong on input line 639
 .
 
 [33]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
-LaTeX Warning: Reference `footdir@151' on page 34 undefined on input line 666.
+LaTeX Warning: Reference `footdir@153' on page 34 undefined on input line 670.
 
 
-LaTeX Warning: Reference `footdir@152' on page 34 undefined on input line 666.
+LaTeX Warning: Reference `footdir@154' on page 34 undefined on input line 670.
+
+
+LaTeX Warning: Reference `footdir@155' on page 34 undefined on input line 670.
+
+
+LaTeX Warning: Reference `footdir@156' on page 34 undefined on input line 670.
+
+
+LaTeX Warning: Reference `footdir@157' on page 34 undefined on input line 670.
+
+
+LaTeX Warning: Reference `footdir@158' on page 34 undefined on input line 670.
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 34 might be wrong on input line 670
+.
 
 [34]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
@@ -3131,19 +3416,17 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--698
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 35 might be wrong on input line 715
+(multicol)                Footnotes on page 35 might be wrong on input line 702
 .
 
-[35] [36]
-
-[37]
+[35] [36] [37]
 
 [38] (./AHACETFUW.aux)
  ***********
@@ -3162,12 +3445,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 22976 strings out of 473832
- 533896 string characters out of 5729480
- 1029954 words of memory out of 5000000
- 45585 multiletter control sequences out of 15000+600000
+ 22983 strings out of 473832
+ 533996 string characters out of 5729480
+ 1030999 words of memory out of 5000000
+ 45592 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,11n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on AHACETFUW.pdf (38 pages).
