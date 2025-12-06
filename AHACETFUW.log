@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  6 DEC 2025 12:23
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  6 DEC 2025 12:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2143,34 +2143,40 @@ Package microtype Info: Character `\textquestiondown ' is missing
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 31 might be wrong on input line 601
+(multicol)                Footnotes on page 31 might be wrong on input line 605
 .
 
 [31]
-Underfull \hbox (badness 5274) in paragraph at lines 605--605
+Underfull \hbox (badness 5274) in paragraph at lines 609--609
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 32 might be wrong on input line 623
+(multicol)                Footnotes on page 32 might be wrong on input line 609
 .
 
 [32]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 33 might be wrong on input line 641
+(multicol)                Footnotes on page 33 might be wrong on input line 645
 .
 
 [33]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 34 might be wrong on input line 654
+(multicol)                Footnotes on page 34 might be wrong on input line 658
 .
 
 [34]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 35 might be wrong on input line 676
+.
+
+[35]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -2793,12 +2799,6 @@ Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 35 might be wrong on input line 672
-.
-
-[35]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
@@ -3388,17 +3388,17 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 703--704
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
+
+Underfull \vbox (badness 1400) has occurred while \output is active []
+
+
+
 [36] [37]
-Overfull \vbox (0.7758pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (12.7758pt too high) has occurred while \output is active []
-
 
 [38]
 
@@ -3410,6 +3410,9 @@ L3 programming layer <2025-01-18>
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
