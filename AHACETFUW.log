@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  8 DEC 2025 19:16
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  8 DEC 2025 22:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1704,6 +1704,10 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [19]
+
+LaTeX Warning: Citation `https://doi.org/10.1023/A:1005328611460' on page 20 un
+defined on input line 420.
+
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 20 might be wrong on input line 421
@@ -3413,9 +3417,15 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 37 might be wrong on input line 730
 .
 
-[37] [38] [39]
+[37] [38]
 
-[40] (./AHACETFUW.aux)
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 39 might be wrong on input line 752
+.
+
+[39] [40]
+
+[41] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -3425,16 +3435,16 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 22989 strings out of 473832
- 534076 string characters out of 5729480
- 1031074 words of memory out of 5000000
- 45598 multiletter control sequences out of 15000+600000
+ 22996 strings out of 473832
+ 534169 string characters out of 5729480
+ 1032130 words of memory out of 5000000
+ 45605 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,11n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (40 pages).
+Output written on AHACETFUW.pdf (41 pages).
