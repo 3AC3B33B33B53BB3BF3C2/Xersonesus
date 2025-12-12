@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  11 DEC 2025 19:25
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  11 DEC 2025 19:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1719,7 +1719,9 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 21 might be wrong on input line 425
 .
 
-[21] [22]
+[21]
+
+[22]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 23 might be wrong on input line 480
@@ -1744,6 +1746,9 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [26] [27]
+Overfull \vbox (3.66513pt too high) has occurred while \output is active []
+
+
 
 [28]
 Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
@@ -2162,7 +2167,7 @@ Underfull \hbox (badness 5274) in paragraph at lines 618--618
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 34 might be wrong on input line 636
+(multicol)                Footnotes on page 34 might be wrong on input line 618
 .
 
 [34]
@@ -3403,9 +3408,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 716--717
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 38 might be wrong on input line 734
-.
 
 [38] [39]
 
@@ -3414,10 +3416,6 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [40]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 41 might be wrong on input line 801
-.
 
 [41]
 
@@ -3440,7 +3438,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  22996 strings out of 473832
  534179 string characters out of 5729480
- 1038828 words of memory out of 5000000
+ 1038925 words of memory out of 5000000
  45605 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
