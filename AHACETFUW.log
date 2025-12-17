@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  16 DEC 2025 21:18
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  17 DEC 2025 10:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1678,49 +1678,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 278--278
 [13]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 302
+(multicol)                Footnotes on page 14 might be wrong on input line 295
 .
 
 [14]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 328
+(multicol)                Footnotes on page 15 might be wrong on input line 306
 .
 
 [15]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 16 might be wrong on input line 331
+(multicol)                Footnotes on page 16 might be wrong on input line 335
 .
 
 [16]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 17 might be wrong on input line 331
+(multicol)                Footnotes on page 17 might be wrong on input line 335
 .
 
 [17]
 
-[18]
-
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 19 might be wrong on input line 385
+(multicol)                Footnotes on page 18 might be wrong on input line 335
 .
 
+[18]
+
 [19]
-Missing character: There is no ≡ (U+2261) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
-Overfull \hbox (0.16756pt too wide) in paragraph at lines 397--397
-[]\TU/phv/b/n/10 present day design for photonic proces-[]
- []
-
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 20 might be wrong on input line 397
+(multicol)                Footnotes on page 20 might be wrong on input line 389
 .
 
 [20]
+Missing character: There is no ≡ (U+2261) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+Overfull \hbox (0.16756pt too wide) in paragraph at lines 401--401
+[]\TU/phv/b/n/10 present day design for photonic proces-[]
+ []
+
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 21 might be wrong on input line 401
@@ -1729,36 +1729,474 @@ Package multicol Warning: I moved some lines to the next page.
 [21]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 22 might be wrong on input line 432
+(multicol)                Footnotes on page 22 might be wrong on input line 405
 .
 
 [22]
-Underfull \hbox (badness 5203) in paragraph at lines 437--438
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 23 might be wrong on input line 437
+.
+
+[23]
+Underfull \hbox (badness 5203) in paragraph at lines 441--442
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 23 might be wrong on input line 438
-.
-
-[23]
-
-LaTeX Warning: Citation `https://doi.org/10.1023/A:1005328611460' on page 24 un
-defined on input line 442.
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 24 might be wrong on input line 443
+(multicol)                Footnotes on page 24 might be wrong on input line 442
 .
 
 [24]
 
+LaTeX Warning: Citation `https://doi.org/10.1023/A:1005328611460' on page 25 un
+defined on input line 446.
+
+
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 25 might be wrong on input line 443
+(multicol)                Footnotes on page 25 might be wrong on input line 447
 .
 
 [25]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 26 might be wrong on input line 449
+.
+
+[26]
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ج (U+062C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ق (U+0642) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ط (U+0637) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ص (U+0635) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ك (U+0643) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no خ (U+062E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ط (U+0637) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ح (U+062D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ق (U+0642) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ض (U+0636) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ى (U+0649) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no د (U+062F) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ئ (U+0626) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ح (U+062D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ط (U+0637) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ب (U+0628) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no أ (U+0623) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no س (U+0633) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ح (U+062D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ع (U+0639) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ذ (U+0630) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no إ (U+0625) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ك (U+0643) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ص (U+0635) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ح (U+062D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ك (U+0643) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ن (U+0646) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no م (U+0645) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no خ (U+062E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ئ (U+0626) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no و (U+0648) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ش (U+0634) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ف (U+0641) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ي (U+064A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ذ (U+0630) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ل (U+0644) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ق (U+0642) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ص (U+0635) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ة (U+0629) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no 👇 (U+1F447) in font [lmroman10-regular]:mapping=
+tex-text;!
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1881,56 +2319,58 @@ Package microtype Info: Character `\textquestiondown ' is missing
 (microtype)             in font `\TU/Baghdad(0)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 
-
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 26 might be wrong on input line 471
+(multicol)                Footnotes on page 27 might be wrong on input line 482
 .
 
-[26]
+[27] [28]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 27 might be wrong on input line 471
+(multicol)                Footnotes on page 29 might be wrong on input line 488
 .
-
-[27]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 28 might be wrong on input line 477
-.
-
-[28]
 
 [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 30 might be wrong on input line 515
-.
+
 
 [30]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 31 might be wrong on input line 515
+(multicol)                Footnotes on page 31 might be wrong on input line 526
 .
 
 [31]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 32 might be wrong on input line 515
+(multicol)                Footnotes on page 32 might be wrong on input line 526
 .
 
 [32]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 33 might be wrong on input line 518
+(multicol)                Footnotes on page 33 might be wrong on input line 526
 .
 
-[33] [34]
+[33]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 35 might be wrong on input line 532
+(multicol)                Footnotes on page 34 might be wrong on input line 529
+.
+
+[34]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 35 might be wrong on input line 535
 .
 
 [35]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 36 might be wrong on input line 543
+.
+
+[36]
 Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
@@ -2191,54 +2631,60 @@ Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
 x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 36 might be wrong on input line 569
+(multicol)                Footnotes on page 37 might be wrong on input line 580
 .
 
-[36]
+[37]
+
+[38]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 37 might be wrong on input line 621
-.
-
-[37] [38]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 39 might be wrong on input line 643
+(multicol)                Footnotes on page 39 might be wrong on input line 644
 .
 
 [39]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 40 might be wrong on input line 651
+(multicol)                Footnotes on page 40 might be wrong on input line 648
 .
 
 [40]
-Underfull \hbox (badness 5274) in paragraph at lines 661--661
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 41 might be wrong on input line 662
+.
+
+[41]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 42 might be wrong on input line 668
+.
+
+[42]
+Underfull \hbox (badness 5274) in paragraph at lines 672--672
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 41 might be wrong on input line 661
-.
-
-[41]
-
-[42]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 43 might be wrong on input line 699
+(multicol)                Footnotes on page 43 might be wrong on input line 693
 .
 
 [43]
-Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
-b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 44 might be wrong on input line 730
+(multicol)                Footnotes on page 44 might be wrong on input line 710
 .
 
 [44]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 45 might be wrong on input line 723
+.
+
+[45]
+Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
+b;language=dflt;!
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -2861,6 +3307,12 @@ Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 46 might be wrong on input line 741
+.
+
+[46]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
@@ -3450,22 +3902,21 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 761--762
+Underfull \hbox (badness 10000) in paragraph at lines 772--773
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
-[46] [47]
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 48 might be wrong on input line 818
-.
 
-[48]
+[47] [48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[49] (./AHACETFUW.aux)
+
+
+[49]
+
+[50] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -3482,12 +3933,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23055 strings out of 473832
- 535017 string characters out of 5729480
- 1039716 words of memory out of 5000000
- 45664 multiletter control sequences out of 15000+600000
+ 23058 strings out of 473832
+ 535067 string characters out of 5729480
+ 1040747 words of memory out of 5000000
+ 45667 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,12n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,16660b,723s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (49 pages).
+Output written on AHACETFUW.pdf (50 pages).
