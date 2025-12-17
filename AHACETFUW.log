@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  16 DEC 2025 20:52
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  16 DEC 2025 21:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2234,12 +2234,6 @@ Package multicol Warning: I moved some lines to the next page.
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
-LaTeX Warning: Reference `footdir@213' on page 44 undefined on input line 730.
-
-
-LaTeX Warning: Reference `footdir@214' on page 44 undefined on input line 730.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 44 might be wrong on input line 730
 .
@@ -3463,14 +3457,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 761--762
 []
  []
 
-[46]
-
-LaTeX Warning: Reference `footdir@215' on page 47 undefined on input line 801.
-
-
-LaTeX Warning: Reference `footdir@216' on page 47 undefined on input line 801.
-
-[47]
+[46] [47]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 48 might be wrong on input line 818
@@ -3497,7 +3484,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  23055 strings out of 473832
  535017 string characters out of 5729480
- 1039688 words of memory out of 5000000
+ 1039716 words of memory out of 5000000
  45664 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
