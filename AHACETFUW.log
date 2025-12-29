@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  29 DEC 2025 01:56
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  29 DEC 2025 02:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1777,7 +1777,7 @@ Package multicol Warning: I moved some lines to the next page.
 
 [30]
 
-LaTeX Warning: Reference `footdir@148' on page 31 undefined on input line 447.
+LaTeX Warning: Reference `footdir@152' on page 31 undefined on input line 447.
 
 
 Package multicol Warning: I moved some lines to the next page.
@@ -3996,12 +3996,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 833--834
  []
 
 
-LaTeX Warning: Reference `footdir@285' on page 61 undefined on input line 852.
-
-
-LaTeX Warning: Reference `footdir@286' on page 61 undefined on input line 852.
-
-
 Overfull \vbox (2.43692pt too high) has occurred while \output is active []
 
 
@@ -4014,12 +4008,6 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [61] [62]
-
-LaTeX Warning: Reference `footdir@287' on page 63 undefined on input line 880.
-
-
-LaTeX Warning: Reference `footdir@288' on page 63 undefined on input line 880.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 63 might be wrong on input line 880
@@ -4041,15 +4029,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 23142 strings out of 473832
- 536247 string characters out of 5729480
- 1044231 words of memory out of 5000000
- 45751 multiletter control sequences out of 15000+600000
+ 23143 strings out of 473832
+ 536252 string characters out of 5729480
+ 1043256 words of memory out of 5000000
+ 45752 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,16660b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
