@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  30 DEC 2025 14:28
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  31 DEC 2025 18:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1561,41 +1561,43 @@ Package multicol Warning: I moved some lines to the next page.
 Missing character: There is no ّ (U+0651) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 7397) in paragraph at lines 127--128
+Underfull \hbox (badness 7397) in paragraph at lines 129--130
 []\TU/phv/b/n/10 war, primarily before the great[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 []\TU/phv/b/n/10 Ukrainian offensive in Kharkiv,[]
  []
 
 
-Underfull \hbox (badness 6236) in paragraph at lines 127--128
+Underfull \hbox (badness 6236) in paragraph at lines 129--130
 []\TU/phv/b/n/10 launched on September 6th but[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 4 might be wrong on input line 128.
+(multicol)                Footnotes on page 4 might be wrong on input line 130.
 
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 [][]\TU/phv/b/n/10 Avdiivka (Donbas) village $\OMS/cmsy/m/n/10 ^^O$[]
  []
 
 
-Underfull \hbox (badness 7064) in paragraph at lines 140--141
+Underfull \hbox (badness 7064) in paragraph at lines 142--143
 [][]\TU/phv/b/n/10 Axe’s ability to achieve T.S.[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 5 might be wrong on input line 141.
+(multicol)                Footnotes on page 5 might be wrong on input line 143.
 
 
 [5]
+
+[6]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Helvetica' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -1604,85 +1606,82 @@ Package microtype Info: Loading generic protrusion settings for font family
 ! Undefined control sequence.
 <argument> ...embers of the Galician SS,\footname 
                                                   {Nazi generals considered ...
-l.158 }
+l.160 }
        
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 6 might be wrong on input line 158.
-
-
-[6]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 7 might be wrong on input line 161.
+(multicol)                Footnotes on page 7 might be wrong on input line 163.
 
 
 [7]
 ! Extra }, or forgotten \endgroup.
-l.164 }
+l.166 }
        
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 8 might be wrong on input line 189.
+(multicol)                Footnotes on page 8 might be wrong on input line 191.
 
 
 [8]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 9 might be wrong on input line 193.
+(multicol)                Footnotes on page 9 might be wrong on input line 195.
 
 
 [9]
+Overfull \vbox (0.3225pt too high) has occurred while \output is active []
+
+
 
 [10]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 11 might be wrong on input line 207
+(multicol)                Footnotes on page 11 might be wrong on input line 209
 .
 
 [11]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 12 might be wrong on input line 215
+(multicol)                Footnotes on page 12 might be wrong on input line 217
 .
 
 [12]
-Underfull \hbox (badness 6559) in paragraph at lines 225--225
+Underfull \hbox (badness 6559) in paragraph at lines 227--227
 [][]\TU/phv/b/n/10 It is often claimed in print[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 13 might be wrong on input line 225
+(multicol)                Footnotes on page 13 might be wrong on input line 227
 .
 
 [13]
-Underfull \hbox (badness 6332) in paragraph at lines 230--230
+Underfull \hbox (badness 6332) in paragraph at lines 232--232
 [][]\TU/phv/b/n/10 Putin claimed that intelligent[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 14 might be wrong on input line 236
+(multicol)                Footnotes on page 14 might be wrong on input line 238
 .
 
 [14]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 15 might be wrong on input line 239
+(multicol)                Footnotes on page 15 might be wrong on input line 238
 .
 
 [15]
 ! Undefined control sequence.
-l.256 \entity
+l.258 \entity
              {Davis, Sam} {} {} {Known primarily for his penetrating lecture...
 
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 16 might be wrong on input line 257
+(multicol)                Footnotes on page 16 might be wrong on input line 259
 .
 
 [16]
@@ -1690,149 +1689,149 @@ Missing character: There is no ф (U+0444) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 17 might be wrong on input line 267
+(multicol)                Footnotes on page 17 might be wrong on input line 269
 .
 
 [17]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 18 might be wrong on input line 281
+(multicol)                Footnotes on page 18 might be wrong on input line 278
 .
 
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 311--311
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
 []\TU/phv/b/n/10 Offray’s publication entitled La[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 19 might be wrong on input line 311
+(multicol)                Footnotes on page 19 might be wrong on input line 313
 .
 
 [19]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 20 might be wrong on input line 329
+(multicol)                Footnotes on page 20 might be wrong on input line 331
 .
 
 [20]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 21 might be wrong on input line 340
+(multicol)                Footnotes on page 21 might be wrong on input line 342
 .
 
 [21]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 22 might be wrong on input line 342
+(multicol)                Footnotes on page 22 might be wrong on input line 344
 .
 
 [22]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 23 might be wrong on input line 363
+(multicol)                Footnotes on page 23 might be wrong on input line 365
 .
 
 [23]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 24 might be wrong on input line 380
+(multicol)                Footnotes on page 24 might be wrong on input line 382
 .
 
 [24]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 25 might be wrong on input line 380
+(multicol)                Footnotes on page 25 might be wrong on input line 382
 .
 
 [25]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 26 might be wrong on input line 380
+(multicol)                Footnotes on page 26 might be wrong on input line 382
 .
 
 [26]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 27 might be wrong on input line 395
+(multicol)                Footnotes on page 27 might be wrong on input line 397
 .
 
 [27]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 28 might be wrong on input line 400
+(multicol)                Footnotes on page 28 might be wrong on input line 402
 .
 
 [28]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 29 might be wrong on input line 415
+(multicol)                Footnotes on page 29 might be wrong on input line 417
 .
 
 [29]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 30 might be wrong on input line 441
+(multicol)                Footnotes on page 30 might be wrong on input line 443
 .
 
 [30]
 
-LaTeX Warning: Reference `footdir@152' on page 31 undefined on input line 447.
+LaTeX Warning: Reference `footdir@152' on page 31 undefined on input line 449.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 31 might be wrong on input line 448
+(multicol)                Footnotes on page 31 might be wrong on input line 450
 .
 
 [31]
 Missing character: There is no ≡ (U+2261) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Overfull \hbox (0.16756pt too wide) in paragraph at lines 462--462
+Overfull \hbox (0.16756pt too wide) in paragraph at lines 464--464
 []\TU/phv/b/n/10 present day design for photonic proces-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 32 might be wrong on input line 462
+(multicol)                Footnotes on page 32 might be wrong on input line 464
 .
 
 [32]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 33 might be wrong on input line 466
+(multicol)                Footnotes on page 33 might be wrong on input line 468
 .
 
 [33]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 34 might be wrong on input line 498
+(multicol)                Footnotes on page 34 might be wrong on input line 499
 .
 
 [34]
-Underfull \hbox (badness 5203) in paragraph at lines 502--503
+Underfull \hbox (badness 5203) in paragraph at lines 504--505
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 35 might be wrong on input line 503
+(multicol)                Footnotes on page 35 might be wrong on input line 505
 .
 
 [35]
 
 LaTeX Warning: Citation `https://doi.org/10.1023/A:1005328611460' on page 36 un
-defined on input line 507.
+defined on input line 509.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 36 might be wrong on input line 508
+(multicol)                Footnotes on page 36 might be wrong on input line 510
 .
 
 [36]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 37 might be wrong on input line 510
+(multicol)                Footnotes on page 37 might be wrong on input line 512
 .
 
 [37]
@@ -2391,53 +2390,69 @@ Package microtype Info: Character `\textquestiondown ' is missing
 (microtype)             Ignoring protrusion settings for this character.
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 38 might be wrong on input line 543
+(multicol)                Footnotes on page 38 might be wrong on input line 545
 .
 
-[38] [39]
+[38]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 40 might be wrong on input line 549
+(multicol)                Footnotes on page 39 might be wrong on input line 545
+.
+
+[39]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 40 might be wrong on input line 551
 .
 
 [40]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \vbox (2.99187pt too high) has occurred while \output is active []
 
 
 
 [41]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 42 might be wrong on input line 580
+.
+
 [42]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 43 might be wrong on input line 590
+(multicol)                Footnotes on page 43 might be wrong on input line 594
 .
 
 [43]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 44 might be wrong on input line 590
+(multicol)                Footnotes on page 44 might be wrong on input line 594
 .
 
 [44]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 45 might be wrong on input line 590
+(multicol)                Footnotes on page 45 might be wrong on input line 594
 .
 
 [45]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 46 might be wrong on input line 593
+(multicol)                Footnotes on page 46 might be wrong on input line 594
 .
 
-[46] [47]
+[46]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 48 might be wrong on input line 608
+(multicol)                Footnotes on page 47 might be wrong on input line 604
 .
 
-[48]
+[47] [48]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 49 might be wrong on input line 612
+.
+
+[49]
 Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
@@ -2698,70 +2713,70 @@ Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
 x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 49 might be wrong on input line 645
-.
-
-[49]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 50 might be wrong on input line 697
+(multicol)                Footnotes on page 50 might be wrong on input line 649
 .
 
 [50]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 51 might be wrong on input line 700
+(multicol)                Footnotes on page 51 might be wrong on input line 701
 .
 
-[51] [52]
+[51]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 53 might be wrong on input line 718
+(multicol)                Footnotes on page 52 might be wrong on input line 712
+.
+
+[52]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 53 might be wrong on input line 722
 .
 
 [53]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 54 might be wrong on input line 732
+(multicol)                Footnotes on page 54 might be wrong on input line 728
 .
 
-[54]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 55 might be wrong on input line 738
-.
-
-[55]
-Underfull \hbox (badness 5274) in paragraph at lines 742--742
+[54] [55]
+Underfull \hbox (badness 5274) in paragraph at lines 746--746
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 56 might be wrong on input line 746
+.
 
 [56]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 57 might be wrong on input line 774
+(multicol)                Footnotes on page 57 might be wrong on input line 771
 .
 
 [57]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 58 might be wrong on input line 787
+(multicol)                Footnotes on page 58 might be wrong on input line 778
 .
 
 [58]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 59 might be wrong on input line 794
+.
+
+[59]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 59 might be wrong on input line 806
+(multicol)                Footnotes on page 60 might be wrong on input line 810
 .
 
-[59]
+[60]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -3973,43 +3988,46 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 835--836
+Underfull \hbox (badness 10000) in paragraph at lines 839--840
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 60 might be wrong on input line 838
+(multicol)                Footnotes on page 61 might be wrong on input line 846
 .
 
-[60]
+[61]
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 61 might be wrong on input line 860
-.
+[62]
 
-[61] [62]
+LaTeX Warning: Reference `footdir@293' on page 63 undefined on input line 886.
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 63 might be wrong on input line 882
-.
+
+LaTeX Warning: Reference `footdir@294' on page 63 undefined on input line 886.
 
 [63]
 
-LaTeX Warning: Reference `footdir@291' on page 64 undefined on input line 931.
-
-
-LaTeX Warning: Reference `footdir@292' on page 64 undefined on input line 931.
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 64 might be wrong on input line 932
-.
-
 [64]
 
-[65] (./AHACETFUW.aux)
+LaTeX Warning: Reference `footdir@295' on page 65 undefined on input line 915.
+
+
+LaTeX Warning: Reference `footdir@296' on page 65 undefined on input line 915.
+
+
+
+[65]
+
+LaTeX Warning: Reference `footdir@297' on page 66 undefined on input line 935.
+
+
+LaTeX Warning: Reference `footdir@298' on page 66 undefined on input line 935.
+
+
+
+[66] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -4026,12 +4044,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23145 strings out of 473832
- 536292 string characters out of 5729480
- 1040271 words of memory out of 5000000
- 45754 multiletter control sequences out of 15000+600000
+ 23152 strings out of 473832
+ 536392 string characters out of 5729480
+ 1048285 words of memory out of 5000000
+ 45761 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,12n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,16660b,723s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (65 pages).
+Output written on AHACETFUW.pdf (66 pages).
