@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  31 DEC 2025 18:24
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  31 DEC 2025 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2419,37 +2419,37 @@ Package multicol Warning: I moved some lines to the next page.
 [42]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 43 might be wrong on input line 594
+(multicol)                Footnotes on page 43 might be wrong on input line 593
 .
 
 [43]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 44 might be wrong on input line 594
+(multicol)                Footnotes on page 44 might be wrong on input line 593
 .
 
 [44]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 45 might be wrong on input line 594
+(multicol)                Footnotes on page 45 might be wrong on input line 593
 .
 
 [45]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 46 might be wrong on input line 594
+(multicol)                Footnotes on page 46 might be wrong on input line 593
 .
 
 [46]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 47 might be wrong on input line 604
+(multicol)                Footnotes on page 47 might be wrong on input line 598
 .
 
 [47] [48]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 49 might be wrong on input line 612
+(multicol)                Footnotes on page 49 might be wrong on input line 611
 .
 
 [49]
@@ -2713,59 +2713,59 @@ Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
 x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 50 might be wrong on input line 649
+(multicol)                Footnotes on page 50 might be wrong on input line 648
 .
 
 [50]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 51 might be wrong on input line 701
+(multicol)                Footnotes on page 51 might be wrong on input line 700
 .
 
 [51]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 52 might be wrong on input line 712
+(multicol)                Footnotes on page 52 might be wrong on input line 708
 .
 
 [52]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 53 might be wrong on input line 722
+(multicol)                Footnotes on page 53 might be wrong on input line 721
 .
 
 [53]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 54 might be wrong on input line 728
+(multicol)                Footnotes on page 54 might be wrong on input line 727
 .
 
 [54] [55]
-Underfull \hbox (badness 5274) in paragraph at lines 746--746
+Underfull \hbox (badness 5274) in paragraph at lines 745--745
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 56 might be wrong on input line 746
+(multicol)                Footnotes on page 56 might be wrong on input line 745
 .
 
 [56]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 57 might be wrong on input line 771
+(multicol)                Footnotes on page 57 might be wrong on input line 770
 .
 
 [57]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 58 might be wrong on input line 778
+(multicol)                Footnotes on page 58 might be wrong on input line 777
 .
 
 [58]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 59 might be wrong on input line 794
+(multicol)                Footnotes on page 59 might be wrong on input line 790
 .
 
 [59]
@@ -2773,7 +2773,7 @@ Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ar
 b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 60 might be wrong on input line 810
+(multicol)                Footnotes on page 60 might be wrong on input line 809
 .
 
 [60]
@@ -3988,44 +3988,23 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 839--840
+Underfull \hbox (badness 10000) in paragraph at lines 838--839
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 61 might be wrong on input line 846
+(multicol)                Footnotes on page 61 might be wrong on input line 845
 .
 
 [61]
 
-[62]
-
-LaTeX Warning: Reference `footdir@293' on page 63 undefined on input line 886.
-
-
-LaTeX Warning: Reference `footdir@294' on page 63 undefined on input line 886.
-
-[63]
+[62] [63]
 
 [64]
 
-LaTeX Warning: Reference `footdir@295' on page 65 undefined on input line 915.
-
-
-LaTeX Warning: Reference `footdir@296' on page 65 undefined on input line 915.
-
-
-
 [65]
-
-LaTeX Warning: Reference `footdir@297' on page 66 undefined on input line 935.
-
-
-LaTeX Warning: Reference `footdir@298' on page 66 undefined on input line 935.
-
-
 
 [66] (./AHACETFUW.aux)
  ***********
@@ -4044,12 +4023,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23152 strings out of 473832
- 536392 string characters out of 5729480
- 1048285 words of memory out of 5000000
- 45761 multiletter control sequences out of 15000+600000
+ 23154 strings out of 473832
+ 536412 string characters out of 5729480
+ 1049329 words of memory out of 5000000
+ 45763 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,12n,107p,16660b,723s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on AHACETFUW.pdf (66 pages).
