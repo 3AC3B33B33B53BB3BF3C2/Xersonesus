@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  1 JAN 2026 22:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  1 JAN 2026 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1631,6 +1631,10 @@ Package multicol Warning: I moved some lines to the next page.
 
 
 [9]
+
+LaTeX Warning: Reference `footdir@48' on page 10 undefined on input line 196.
+
+
 Overfull \vbox (0.3225pt too high) has occurred while \output is active []
 
 
@@ -1771,7 +1775,7 @@ Package multicol Warning: I moved some lines to the next page.
 
 [30]
 
-LaTeX Warning: Reference `footdir@152' on page 31 undefined on input line 452.
+LaTeX Warning: Reference `footdir@156' on page 31 undefined on input line 452.
 
 [31]
 Missing character: There is no ≡ (U+2261) in font [lmroman10-regular]:mapping=t
@@ -2734,7 +2738,7 @@ Package multicol Warning: I moved some lines to the next page.
 [54]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 55 might be wrong on input line 738
+(multicol)                Footnotes on page 55 might be wrong on input line 734
 .
 
 [55]
@@ -2762,7 +2766,7 @@ Package multicol Warning: I moved some lines to the next page.
 [58]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 59 might be wrong on input line 793
+(multicol)                Footnotes on page 59 might be wrong on input line 782
 .
 
 [59]
@@ -3985,52 +3989,32 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[61]
 Underfull \hbox (badness 10000) in paragraph at lines 841--842
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 61 might be wrong on input line 842
-.
 
-[61]
+[62]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 62 might be wrong on input line 866
+(multicol)                Footnotes on page 63 might be wrong on input line 884
 .
 
-[62] [63]
-
-LaTeX Warning: Reference `footdir@299' on page 64 undefined on input line 888.
-
-
-LaTeX Warning: Reference `footdir@300' on page 64 undefined on input line 888.
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 64 might be wrong on input line 888
-.
-
-[64]
-
-LaTeX Warning: Reference `footdir@301' on page 65 undefined on input line 917.
-
-
-LaTeX Warning: Reference `footdir@302' on page 65 undefined on input line 917.
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 65 might be wrong on input line 918
-.
+[63] [64]
 
 [65]
 
-LaTeX Warning: Reference `footdir@303' on page 66 undefined on input line 937.
+LaTeX Warning: Reference `footdir@305' on page 66 undefined on input line 937.
 
 
-LaTeX Warning: Reference `footdir@304' on page 66 undefined on input line 937.
+LaTeX Warning: Reference `footdir@306' on page 66 undefined on input line 937.
 
 
 
@@ -4051,10 +4035,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23162 strings out of 473832
- 536527 string characters out of 5729480
- 1042335 words of memory out of 5000000
- 45771 multiletter control sequences out of 15000+600000
+ 23161 strings out of 473832
+ 536518 string characters out of 5729480
+ 1042361 words of memory out of 5000000
+ 45770 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,16660b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
