@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  6 JAN 2026 00:40
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  6 JAN 2026 00:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4201,20 +4201,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 886--886
  []
 
 [70]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 [71]
 
 [72]
-
-LaTeX Warning: Reference `footdir@339' on page 73 undefined on input line 935.
-
-
-LaTeX Warning: Reference `footdir@340' on page 73 undefined on input line 935.
-
-
 
 [73] (./AHACETFUW.aux)
  ***********
@@ -4228,15 +4218,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 23202 strings out of 473832
- 537099 string characters out of 5729480
- 1048584 words of memory out of 5000000
- 45811 multiletter control sequences out of 15000+600000
+ 23201 strings out of 473832
+ 537089 string characters out of 5729480
+ 1048601 words of memory out of 5000000
+ 45810 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,16660b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
