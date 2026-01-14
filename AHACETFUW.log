@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  12 JAN 2026 20:21
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  13 JAN 2026 20:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4363,32 +4363,51 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [81]
+! You can't use `macro parameter character #' in horizontal mode.
+<argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
+                                                  المتحري يكشف جذور اهتمام إ...
+l.968 }
+       
+? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 82 might be wrong on input line 966
+(multicol)                Footnotes on page 82 might be wrong on input line 969
 .
 
 [82]
 
-LaTeX Warning: Reference `footdir@379' on page 83 undefined on input line 967.
+LaTeX Warning: Reference `footdir@383' on page 83 undefined on input line 974.
 
 
-LaTeX Warning: Reference `footdir@380' on page 83 undefined on input line 967.
+LaTeX Warning: Reference `footdir@384' on page 83 undefined on input line 974.
 
 
-LaTeX Warning: Reference `footdir@381' on page 83 undefined on input line 987.
+LaTeX Warning: Reference `footdir@385' on page 83 undefined on input line 974.
 
 
-LaTeX Warning: Reference `footdir@382' on page 83 undefined on input line 987.
+LaTeX Warning: Reference `footdir@386' on page 83 undefined on input line 974.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 83 might be wrong on input line 988
+(multicol)                Footnotes on page 83 might be wrong on input line 975
 .
 
 [83]
 
-[84] (./AHACETFUW.aux)
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 84 might be wrong on input line 975
+.
+
+[84]
+
+LaTeX Warning: Reference `footdir@387' on page 85 undefined on input line 995.
+
+
+LaTeX Warning: Reference `footdir@388' on page 85 undefined on input line 995.
+
+
+
+[85] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -4405,12 +4424,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23255 strings out of 473832
- 537839 string characters out of 5729480
- 1042678 words of memory out of 5000000
- 45864 multiletter control sequences out of 15000+600000
+ 23261 strings out of 473832
+ 537929 string characters out of 5729480
+ 1042706 words of memory out of 5000000
+ 45870 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (84 pages).
+Output written on AHACETFUW.pdf (85 pages).
