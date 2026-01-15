@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  14 JAN 2026 22:55
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  14 JAN 2026 23:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3113,14 +3113,14 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [76]
-Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
-b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 77 might be wrong on input line 909
 .
 
 [77]
+Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
+b;language=dflt;!
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -3743,600 +3743,601 @@ Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 78 might be wrong on input line 909
+.
 
 [78]
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
 Underfull \hbox (badness 10000) in paragraph at lines 938--939
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
@@ -4376,6 +4377,10 @@ Package multicol Warning: I moved some lines to the next page.
 
 [83]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 84 might be wrong on input line 100
+2.
+
 [84]
 ! You can't use `macro parameter character #' in horizontal mode.
 <argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
@@ -4390,42 +4395,16 @@ Package multicol Warning: I moved some lines to the next page.
 
 [85]
 
-LaTeX Warning: Reference `footdir@399' on page 86 undefined on input line 1024.
-
-
-
-LaTeX Warning: Reference `footdir@400' on page 86 undefined on input line 1024.
-
-
-
-LaTeX Warning: Reference `footdir@401' on page 86 undefined on input line 1024.
-
-
-
-LaTeX Warning: Reference `footdir@402' on page 86 undefined on input line 1024.
-
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 86 might be wrong on input line 102
 5.
 
 [86]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 87 might be wrong on input line 104
-1.
+
 
 [87]
-
-LaTeX Warning: Reference `footdir@403' on page 88 undefined on input line 1045.
-
-
-
-LaTeX Warning: Reference `footdir@404' on page 88 undefined on input line 1045.
-
-
-
 
 [88] (./AHACETFUW.aux)
  ***********
@@ -4444,12 +4423,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23280 strings out of 473832
- 538198 string characters out of 5729480
- 1046911 words of memory out of 5000000
- 45889 multiletter control sequences out of 15000+600000
+ 23282 strings out of 473832
+ 538218 string characters out of 5729480
+ 1046953 words of memory out of 5000000
+ 45891 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,11n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,16660b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on AHACETFUW.pdf (88 pages).
