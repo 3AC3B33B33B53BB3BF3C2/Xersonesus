@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  19 JAN 2026 18:18
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  20 JAN 2026 00:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2948,6 +2948,27 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [73]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.750 }
+       
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
+[][]\TU/phv/b/n/10 The obsession with quantum[]
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 74 might be wrong on input line 751
+.
+
+[74]
 Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
@@ -3208,81 +3229,91 @@ Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
 x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 74 might be wrong on input line 770
-.
-
-[74]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 75 might be wrong on input line 810
+(multicol)                Footnotes on page 75 might be wrong on input line 775
 .
 
 [75]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 76 might be wrong on input line 824
+(multicol)                Footnotes on page 76 might be wrong on input line 819
 .
 
 [76]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 77 might be wrong on input line 829
+(multicol)                Footnotes on page 77 might be wrong on input line 832
 .
 
 [77]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 78 might be wrong on input line 837
+(multicol)                Footnotes on page 78 might be wrong on input line 838
 .
 
 [78]
-Underfull \hbox (badness 7925) in paragraph at lines 843--844
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 79 might be wrong on input line 848
+.
+
+[79]
+Underfull \hbox (badness 7925) in paragraph at lines 850--851
 [][]\TU/phv/b/n/10 Solomon, King ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 King
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 79 might be wrong on input line 844
+(multicol)                Footnotes on page 80 might be wrong on input line 854
 .
 
-[79]
+[80]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 80 might be wrong on input line 853
+(multicol)                Footnotes on page 81 might be wrong on input line 860
 .
 
-[80] [81]
-Underfull \hbox (badness 5274) in paragraph at lines 872--872
+[81]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 82 might be wrong on input line 875
+.
+
+[82]
+Underfull \hbox (badness 5274) in paragraph at lines 879--879
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 82 might be wrong on input line 872
+(multicol)                Footnotes on page 83 might be wrong on input line 879
 .
 
-[82]
-Underfull \hbox (badness 5316) in paragraph at lines 874--875
+[83]
+Underfull \hbox (badness 5316) in paragraph at lines 881--882
 [][]\TU/phv/b/n/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 Syntopi
 con,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 83 might be wrong on input line 875
+(multicol)                Footnotes on page 84 might be wrong on input line 882
 .
-
-[83]
 
 [84]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 85 might be wrong on input line 904
+(multicol)                Footnotes on page 85 might be wrong on input line 906
 .
 
 [85]
-Overfull \hbox (166.93018pt too wide) in paragraph at lines 911--911
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 86 might be wrong on input line 911
+.
+
+[86]
+Overfull \hbox (166.93018pt too wide) in paragraph at lines 918--918
 [][][]\TU/ptm/b/n/8 [”China’s Trade Surplus Reaches a Record of Nearly $\OT1/cm
 r/m/n/8 1\OML/cmm/m/it/8 Trillion; [][]January\OT1/cmr/m/n/8 12\OML/cmm/m/it/8 
 th; \OT1/cmr/m/n/8 2025]\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 [[]\OML/cmm/m/it/8 Chi
@@ -3291,34 +3322,29 @@ na[]sTradeSurplusClimbsPast$\TU/ptm/b/n/8 1[]
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 86 might be wrong on input line 911
-.
-
-[86]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 87 might be wrong on input line 911
+(multicol)                Footnotes on page 87 might be wrong on input line 918
 .
 
 [87]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 88 might be wrong on input line 913
+(multicol)                Footnotes on page 88 might be wrong on input line 918
 .
 
 [88]
-Underfull \hbox (badness 5119) in paragraph at lines 918--919
+Underfull \hbox (badness 5119) in paragraph at lines 925--926
 []\TU/phv/b/n/10 mark, Norway, Sweden, Finland,[]
  []
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 89 might be wrong on input line 925
-.
 
 [89]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 90 might be wrong on input line 948
+.
+
+[90]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -3941,12 +3967,6 @@ Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 90 might be wrong on input line 941
-.
-
-[90]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
@@ -4536,72 +4556,103 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 970--971
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[91]
+Underfull \hbox (badness 10000) in paragraph at lines 977--978
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 91 might be wrong on input line 977
-.
-
-[91]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 92 might be wrong on input line 977
+(multicol)                Footnotes on page 92 might be wrong on input line 984
 .
 
 [92]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 93 might be wrong on input line 995
+(multicol)                Footnotes on page 93 might be wrong on input line 984
 .
 
-[93] [94]
-Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+[93]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 94 might be wrong on input line 100
+2.
+
+[94] [95]
+! Extra }, or forgotten \endgroup.
+l.1021 }
+        
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
 [][]\TU/phv/b/n/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1017--1017
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1025
 []\TU/phv/b/n/10 Leibniz’ binary number system[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 95 might be wrong on input line 101
-7.
-
-[95]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 96 might be wrong on input line 103
-4.
+(multicol)                Footnotes on page 96 might be wrong on input line 102
+5.
 
 [96]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 97 might be wrong on input line 104
+2.
+
+[97]
 ! You can't use `macro parameter character #' in horizontal mode.
 <argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
                                                   المتحري يكشف جذور اهتمام إ...
-l.1050 }
+l.1058 }
         
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 97 might be wrong on input line 105
-1.
-
-[97]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 98 might be wrong on input line 105
-7.
+9.
 
 [98]
 
+LaTeX Warning: Reference `footdir@471' on page 99 undefined on input line 1064.
+
+
+
+LaTeX Warning: Reference `footdir@472' on page 99 undefined on input line 1064.
+
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 99 might be wrong on input line 106
+5.
+
 [99]
 
-[100] (./AHACETFUW.aux)
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 100 might be wrong on input line 10
+65.
+
+[100]
+
+LaTeX Warning: Reference `footdir@473' on page 101 undefined on input line 1085
+.
+
+
+LaTeX Warning: Reference `footdir@474' on page 101 undefined on input line 1085
+.
+
+
+
+[101] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -4618,12 +4669,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23357 strings out of 473832
- 539298 string characters out of 5729480
+ 23361 strings out of 473832
+ 539359 string characters out of 5729480
  1061125 words of memory out of 5000000
- 45966 multiletter control sequences out of 15000+600000
+ 45970 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,20523b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (100 pages).
+Output written on AHACETFUW.pdf (101 pages).
