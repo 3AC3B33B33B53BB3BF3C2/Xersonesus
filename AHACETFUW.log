@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  22 JAN 2026 21:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  23 JAN 2026 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3286,10 +3286,14 @@ Package multicol Warning: I moved some lines to the next page.
 [83]
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/b/n' instead on input line 1084.
+(Font)              using `TU/ptm/b/n' instead on input line 1086.
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 1084--1084
+LaTeX Warning: Reference `footdir@400' on page 84 undefined on input line 1086.
+
+
+
+Underfull \hbox (badness 7925) in paragraph at lines 1086--1086
 [][]\TU/phv/b/n/10 Solomon, King ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 King
 []
  []
@@ -3297,30 +3301,25 @@ Underfull \hbox (badness 7925) in paragraph at lines 1084--1084
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 84 might be wrong on input line 108
-4.
+6.
 
 
 LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
-(Font)              using `TU/phv/m/n' instead on input line 1084.
+(Font)              using `TU/phv/m/n' instead on input line 1086.
 
 [84]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 85 might be wrong on input line 108
-4.
+6.
 
-[85] [86]
-Underfull \hbox (badness 5274) in paragraph at lines 1084--1084
+[85] [86] [87]
+Underfull \hbox (badness 5274) in paragraph at lines 1086--1086
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 87 might be wrong on input line 108
-4.
-
-[87]
-Underfull \hbox (badness 5316) in paragraph at lines 1084--1084
+Underfull \hbox (badness 5316) in paragraph at lines 1086--1086
 [][]\TU/phv/b/n/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 Syntopi
 con,[]
  []
@@ -3328,28 +3327,34 @@ con,[]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 88 might be wrong on input line 108
-4.
+6.
 
 [88]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 89 might be wrong on input line 108
+6.
+
+[89]
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1084 }
+l.1086 }
         
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 89 might be wrong on input line 108
-4.
-
-[89]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 90 might be wrong on input line 108
-4.
+6.
 
 [90]
-Overfull \hbox (166.93018pt too wide) in paragraph at lines 1084--1084
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 91 might be wrong on input line 108
+6.
+
+[91]
+Overfull \hbox (166.93018pt too wide) in paragraph at lines 1086--1086
 [][][]\TU/ptm/b/n/8 [”China’s Trade Surplus Reaches a Record of Nearly $\OT1/cm
 r/m/n/8 1\OML/cmm/m/it/8 Trillion; [][]January\OT1/cmr/m/n/8 12\OML/cmm/m/it/8 
 th; \OT1/cmr/m/n/8 2025]\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 [[]\OML/cmm/m/it/8 Chi
@@ -3358,34 +3363,29 @@ na[]sTradeSurplusClimbsPast$\TU/ptm/b/n/8 1[]
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 91 might be wrong on input line 108
-4.
-
-[91]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 92 might be wrong on input line 108
-4.
+6.
 
 [92]
-Underfull \hbox (badness 5119) in paragraph at lines 1084--1084
-[]\TU/phv/b/n/10 mark, Norway, Sweden, Finland,[]
- []
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 93 might be wrong on input line 108
-4.
+6.
 
 [93]
+Underfull \hbox (badness 5119) in paragraph at lines 1086--1086
+[]\TU/phv/b/n/10 mark, Norway, Sweden, Finland,[]
+ []
+
+[94]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 94 might be wrong on input line 108
-4.
+(multicol)                Footnotes on page 95 might be wrong on input line 108
+6.
 
-[94]
+[95]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -4597,9 +4597,7 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-
-[95]
-Underfull \hbox (badness 10000) in paragraph at lines 1084--1084
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1086
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
@@ -4607,84 +4605,89 @@ Underfull \hbox (badness 10000) in paragraph at lines 1084--1084
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 96 might be wrong on input line 108
-4.
+6.
 
 [96]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 97 might be wrong on input line 108
-4.
+6.
 
 [97]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 98 might be wrong on input line 108
-4.
+6.
 
-[98] [99]
+[98]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 99 might be wrong on input line 108
+6.
+
+[99]
 ! Extra }, or forgotten \endgroup.
 \entry ...\ {(#2)}\ \textit {#3}\ $\bullet $\ {#4}
                                                   
-l.1084 }
+l.1086 }
         
 ? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
+[100]
+Underfull \hbox (badness 10000) in paragraph at lines 1092--1092
 [][]\TU/phv/b/n/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
+Underfull \hbox (badness 10000) in paragraph at lines 1092--1092
 []\TU/phv/b/n/10 Leibniz’ binary number system[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 100 might be wrong on input line 10
-90.
-
-[100]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 101 might be wrong on input line 11
-07.
+(multicol)                Footnotes on page 101 might be wrong on input line 10
+92.
 
 [101]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 102 might be wrong on input line 11
+12.
+
+[102]
 ! You can't use `macro parameter character #' in horizontal mode.
 <argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
                                                   المتحري يكشف جذور اهتمام إ...
-l.1126 }
+l.1128 }
         
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 102 might be wrong on input line 11
-27.
-
-[102]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 103 might be wrong on input line 11
-30.
+29.
 
 [103]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 104 might be wrong on input line 11
-33.
+35.
 
 [104]
+Overfull \vbox (7.44249pt too high) has occurred while \output is active []
 
-LaTeX Warning: Reference `footdir@487' on page 105 undefined on input line 1153
+
+
+[105]
+
+LaTeX Warning: Reference `footdir@489' on page 106 undefined on input line 1155
 .
 
 
-LaTeX Warning: Reference `footdir@488' on page 105 undefined on input line 1153
+LaTeX Warning: Reference `footdir@490' on page 106 undefined on input line 1155
 .
 
 
 
-[105] (./AHACETFUW.aux)
+[106] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -4701,12 +4704,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23383 strings out of 473832
- 539663 string characters out of 5729480
- 1126646 words of memory out of 5000000
- 45992 multiletter control sequences out of 15000+600000
+ 23384 strings out of 473832
+ 539678 string characters out of 5729480
+ 1129801 words of memory out of 5000000
+ 45993 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,23129b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (105 pages).
+Output written on AHACETFUW.pdf (106 pages).
