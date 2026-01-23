@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  22 JAN 2026 12:14
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  22 JAN 2026 21:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -948,14 +948,6 @@ LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
 (Font)              using `TU/lmr/m/n' instead on input line 73.
 
 (./AHACETFUW.aux)
-Runaway argument?
-{footdi 
-! File ended while scanning use of \@newl@bel.
-<inserted text> 
-                \par 
-l.73 \begin{document}
-                     
-? 
 \openout1 = `AHACETFUW.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
@@ -974,6 +966,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
 LaTeX Font Info:    ... okay on input line 73.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1767,26 +1760,11 @@ l.293 }
        
 ? 
 
-LaTeX Warning: Reference `footdir@98' on page 20 undefined on input line 293.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 20 might be wrong on input line 294
 .
 
 [20]
-
-LaTeX Warning: Reference `footdir@99' on page 21 undefined on input line 311.
-
-
-LaTeX Warning: Reference `footdir@100' on page 21 undefined on input line 311.
-
-
-LaTeX Warning: Reference `footdir@101' on page 21 undefined on input line 311.
-
-
-LaTeX Warning: Reference `footdir@102' on page 21 undefined on input line 311.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 21 might be wrong on input line 312
@@ -1798,36 +1776,6 @@ l.317 \entity
              {Davis, Sam} {} {} {Known primarily for his penetrating lecture...
 
 ? 
-
-LaTeX Warning: Reference `footdir@103' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@104' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@105' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@106' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@107' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@108' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@109' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@110' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@111' on page 22 undefined on input line 317.
-
-
-LaTeX Warning: Reference `footdir@112' on page 22 undefined on input line 317.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 22 might be wrong on input line 318
@@ -1843,60 +1791,11 @@ Package multicol Warning: I moved some lines to the next page.
 Missing character: There is no ф (U+0444) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-LaTeX Warning: Reference `footdir@113' on page 24 undefined on input line 328.
-
-
-LaTeX Warning: Reference `footdir@114' on page 24 undefined on input line 328.
-
-
-LaTeX Warning: Reference `footdir@115' on page 24 undefined on input line 328.
-
-
-LaTeX Warning: Reference `footdir@116' on page 24 undefined on input line 328.
-
-
-LaTeX Warning: Reference `footdir@117' on page 24 undefined on input line 333.
-
-
-LaTeX Warning: Reference `footdir@118' on page 24 undefined on input line 333.
-
-
-LaTeX Warning: Reference `footdir@119' on page 24 undefined on input line 333.
-
-
-LaTeX Warning: Reference `footdir@120' on page 24 undefined on input line 333.
-
-
-LaTeX Warning: Reference `footdir@121' on page 24 undefined on input line 333.
-
-
-LaTeX Warning: Reference `footdir@122' on page 24 undefined on input line 333.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 24 might be wrong on input line 333
 .
 
 [24]
-
-LaTeX Warning: Reference `footdir@123' on page 25 undefined on input line 344.
-
-
-LaTeX Warning: Reference `footdir@124' on page 25 undefined on input line 344.
-
-
-LaTeX Warning: Reference `footdir@125' on page 25 undefined on input line 344.
-
-
-LaTeX Warning: Reference `footdir@126' on page 25 undefined on input line 344.
-
-
-LaTeX Warning: Reference `footdir@127' on page 25 undefined on input line 344.
-
-
-LaTeX Warning: Reference `footdir@128' on page 25 undefined on input line 344.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 344--345
 []\TU/phv/b/n/10 https://www.cbsnews.com/news/the-[]
  []
@@ -1978,35 +1877,17 @@ Package multicol Warning: I moved some lines to the next page.
 
 [25]
 
-LaTeX Warning: Reference `footdir@129' on page 26 undefined on input line 348.
-
-
-LaTeX Warning: Reference `footdir@130' on page 26 undefined on input line 348.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 26 might be wrong on input line 348
 .
 
 [26] [27]
-
-LaTeX Warning: Reference `footdir@131' on page 28 undefined on input line 364.
-
-
-LaTeX Warning: Reference `footdir@132' on page 28 undefined on input line 364.
-
 Missing character: There is no Р (U+0420) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no Б (U+0411) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no К (U+041A) in font [lmroman8-regular]:mapping=te
 x-text;!
-
-LaTeX Warning: Reference `footdir@133' on page 28 undefined on input line 388.
-
-
-LaTeX Warning: Reference `footdir@134' on page 28 undefined on input line 388.
-
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2033,12 +1914,6 @@ Type  H <return>  for immediate help.
 l.388 }
        
 ? 
-
-LaTeX Warning: Reference `footdir@135' on page 29 undefined on input line 388.
-
-
-LaTeX Warning: Reference `footdir@136' on page 29 undefined on input line 388.
-
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2101,31 +1976,6 @@ l.388 }
        
 ? 
 [30]
-
-LaTeX Warning: Reference `footdir@137' on page 31 undefined on input line 392.
-
-
-LaTeX Warning: Reference `footdir@138' on page 31 undefined on input line 392.
-
-
-LaTeX Warning: Reference `footdir@139' on page 31 undefined on input line 392.
-
-
-LaTeX Warning: Reference `footdir@140' on page 31 undefined on input line 392.
-
-
-LaTeX Warning: Reference `footdir@141' on page 31 undefined on input line 392.
-
-
-LaTeX Warning: Reference `footdir@142' on page 31 undefined on input line 392.
-
-
-LaTeX Warning: Reference `footdir@143' on page 31 undefined on input line 410.
-
-
-LaTeX Warning: Reference `footdir@144' on page 31 undefined on input line 410.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 410--410
 []\TU/phv/b/n/10 Offray’s publication entitled La[]
  []
@@ -2137,35 +1987,11 @@ Package multicol Warning: I moved some lines to the next page.
 
 [31]
 
-LaTeX Warning: Reference `footdir@145' on page 32 undefined on input line 413.
-
-
-LaTeX Warning: Reference `footdir@146' on page 32 undefined on input line 413.
-
-
-LaTeX Warning: Reference `footdir@147' on page 32 undefined on input line 413.
-
-
-LaTeX Warning: Reference `footdir@148' on page 32 undefined on input line 413.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 32 might be wrong on input line 414
 .
 
 [32]
-
-LaTeX Warning: Reference `footdir@149' on page 33 undefined on input line 416.
-
-
-LaTeX Warning: Reference `footdir@150' on page 33 undefined on input line 416.
-
-
-LaTeX Warning: Reference `footdir@151' on page 33 undefined on input line 416.
-
-
-LaTeX Warning: Reference `footdir@152' on page 33 undefined on input line 416.
-
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Baghdad' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
@@ -2288,11 +2114,6 @@ Package microtype Info: Character `\textquestiondown ' is missing
 (microtype)             in font `\TU/Baghdad(0)/m/n/8'.
 (microtype)             Ignoring protrusion settings for this character.
 
-LaTeX Warning: Reference `footdir@153' on page 33 undefined on input line 416.
-
-
-LaTeX Warning: Reference `footdir@154' on page 33 undefined on input line 416.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 33 might be wrong on input line 417
@@ -2300,41 +2121,11 @@ Package multicol Warning: I moved some lines to the next page.
 
 [33]
 
-LaTeX Warning: Reference `footdir@155' on page 34 undefined on input line 431.
-
-
-LaTeX Warning: Reference `footdir@156' on page 34 undefined on input line 431.
-
-
-LaTeX Warning: Reference `footdir@157' on page 34 undefined on input line 438.
-
-
-LaTeX Warning: Reference `footdir@158' on page 34 undefined on input line 438.
-
-
-LaTeX Warning: Reference `footdir@159' on page 34 undefined on input line 438.
-
-
-LaTeX Warning: Reference `footdir@160' on page 34 undefined on input line 438.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 34 might be wrong on input line 439
 .
 
 [34]
-
-LaTeX Warning: Reference `footdir@161' on page 35 undefined on input line 441.
-
-
-LaTeX Warning: Reference `footdir@162' on page 35 undefined on input line 441.
-
-
-LaTeX Warning: Reference `footdir@163' on page 35 undefined on input line 443.
-
-
-LaTeX Warning: Reference `footdir@164' on page 35 undefined on input line 443.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 35 might be wrong on input line 444
@@ -2342,23 +2133,11 @@ Package multicol Warning: I moved some lines to the next page.
 
 [35]
 
-LaTeX Warning: Reference `footdir@165' on page 36 undefined on input line 449.
-
-
-LaTeX Warning: Reference `footdir@166' on page 36 undefined on input line 449.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 36 might be wrong on input line 450
 .
 
 [36]
-
-LaTeX Warning: Reference `footdir@167' on page 37 undefined on input line 454.
-
-
-LaTeX Warning: Reference `footdir@168' on page 37 undefined on input line 454.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 37 might be wrong on input line 455
@@ -2366,68 +2145,13 @@ Package multicol Warning: I moved some lines to the next page.
 
 [37]
 
-LaTeX Warning: Reference `footdir@169' on page 38 undefined on input line 473.
-
-
-LaTeX Warning: Reference `footdir@170' on page 38 undefined on input line 473.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 38 might be wrong on input line 477
 .
 
 [38]
 
-LaTeX Warning: Reference `footdir@171' on page 39 undefined on input line 480.
-
-
-LaTeX Warning: Reference `footdir@172' on page 39 undefined on input line 480.
-
-
-LaTeX Warning: Reference `footdir@173' on page 39 undefined on input line 485.
-
-
-LaTeX Warning: Reference `footdir@174' on page 39 undefined on input line 485.
-
-
-
 [39]
-
-LaTeX Warning: Reference `footdir@175' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@176' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@177' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@178' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@179' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@180' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@181' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@182' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@183' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@184' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@185' on page 40 undefined on input line 502.
-
-
-LaTeX Warning: Reference `footdir@186' on page 40 undefined on input line 502.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 40 might be wrong on input line 503
@@ -2441,42 +2165,6 @@ Package multicol Warning: I moved some lines to the next page.
 
 [41]
 
-LaTeX Warning: Reference `footdir@187' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@188' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@189' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@190' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@191' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@192' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@193' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@194' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@195' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@196' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@197' on page 42 undefined on input line 519.
-
-
-LaTeX Warning: Reference `footdir@198' on page 42 undefined on input line 519.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 42 might be wrong on input line 520
 .
@@ -2489,53 +2177,17 @@ Package multicol Warning: I moved some lines to the next page.
 
 [43]
 
-LaTeX Warning: Reference `footdir@199' on page 44 undefined on input line 521.
-
-
-LaTeX Warning: Reference `footdir@200' on page 44 undefined on input line 521.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 44 might be wrong on input line 522
 .
 
 [44]
 
-LaTeX Warning: Reference `footdir@201' on page 45 undefined on input line 543.
-
-
-LaTeX Warning: Reference `footdir@202' on page 45 undefined on input line 543.
-
-
-LaTeX Warning: Reference `footdir@203' on page 45 undefined on input line 543.
-
-
-LaTeX Warning: Reference `footdir@204' on page 45 undefined on input line 543.
-
-
-LaTeX Warning: Reference `footdir@205' on page 45 undefined on input line 543.
-
-
-LaTeX Warning: Reference `footdir@206' on page 45 undefined on input line 543.
-
-
-LaTeX Warning: Reference `footdir@207' on page 45 undefined on input line 543.
-
-
-LaTeX Warning: Reference `footdir@208' on page 45 undefined on input line 543.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 45 might be wrong on input line 544
 .
 
 [45]
-
-LaTeX Warning: Reference `footdir@209' on page 46 undefined on input line 575.
-
-
-LaTeX Warning: Reference `footdir@210' on page 46 undefined on input line 575.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 46 might be wrong on input line 576
@@ -2549,34 +2201,7 @@ Package multicol Warning: I moved some lines to the next page.
 
 [47]
 
-LaTeX Warning: Reference `footdir@211' on page 48 undefined on input line 584.
-
-
-LaTeX Warning: Reference `footdir@212' on page 48 undefined on input line 584.
-
-
-LaTeX Warning: Reference `footdir@213' on page 48 undefined on input line 584.
-
-
-LaTeX Warning: Reference `footdir@214' on page 48 undefined on input line 584.
-
-
-LaTeX Warning: Reference `footdir@215' on page 48 undefined on input line 584.
-
-
-LaTeX Warning: Reference `footdir@216' on page 48 undefined on input line 584.
-
-
-LaTeX Warning: Reference `footdir@217' on page 48 undefined on input line 584.
-
-
 LaTeX Warning: Reference `footdir@218' on page 48 undefined on input line 584.
-
-
-LaTeX Warning: Reference `footdir@219' on page 48 undefined on input line 584.
-
-
-LaTeX Warning: Reference `footdir@220' on page 48 undefined on input line 584.
 
 
 Package multicol Warning: I moved some lines to the next page.
@@ -2584,20 +2209,8 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [48]
-
-LaTeX Warning: Reference `footdir@221' on page 49 undefined on input line 597.
-
-
-LaTeX Warning: Reference `footdir@222' on page 49 undefined on input line 597.
-
 Missing character: There is no ≡ (U+2261) in font [lmroman10-regular]:mapping=t
 ex-text;!
-
-LaTeX Warning: Reference `footdir@223' on page 49 undefined on input line 597.
-
-
-LaTeX Warning: Reference `footdir@224' on page 49 undefined on input line 597.
-
 
 Overfull \hbox (0.16756pt too wide) in paragraph at lines 597--597
 []\TU/phv/b/n/10 present day design for photonic proces-[]
@@ -2609,42 +2222,6 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [49]
-
-LaTeX Warning: Reference `footdir@225' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@226' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@227' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@228' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@229' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@230' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@231' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@232' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@233' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@234' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@235' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@236' on page 50 undefined on input line 600.
-
 Missing character: There is no М (U+041C) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no е (U+0435) in font [lmroman8-regular]:mapping=te
@@ -2760,18 +2337,6 @@ x-text;!
 Missing character: There is no м (U+043C) in font [lmroman8-regular]:mapping=te
 x-text;!
 
-LaTeX Warning: Reference `footdir@237' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@238' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@239' on page 50 undefined on input line 600.
-
-
-LaTeX Warning: Reference `footdir@240' on page 50 undefined on input line 600.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 50 might be wrong on input line 601
 .
@@ -2784,48 +2349,11 @@ Package multicol Warning: I moved some lines to the next page.
 
 [51]
 
-LaTeX Warning: Reference `footdir@241' on page 52 undefined on input line 606.
-
-
-LaTeX Warning: Reference `footdir@242' on page 52 undefined on input line 606.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 52 might be wrong on input line 631
 .
 
 [52]
-
-LaTeX Warning: Reference `footdir@243' on page 53 undefined on input line 632.
-
-
-LaTeX Warning: Reference `footdir@244' on page 53 undefined on input line 632.
-
-
-LaTeX Warning: Reference `footdir@245' on page 53 undefined on input line 632.
-
-
-LaTeX Warning: Reference `footdir@246' on page 53 undefined on input line 632.
-
-
-LaTeX Warning: Reference `footdir@247' on page 53 undefined on input line 634.
-
-
-LaTeX Warning: Reference `footdir@248' on page 53 undefined on input line 634.
-
-
-LaTeX Warning: Reference `footdir@249' on page 53 undefined on input line 637.
-
-
-LaTeX Warning: Reference `footdir@250' on page 53 undefined on input line 637.
-
-
-LaTeX Warning: Reference `footdir@251' on page 53 undefined on input line 637.
-
-
-LaTeX Warning: Reference `footdir@252' on page 53 undefined on input line 637.
-
-
 Underfull \hbox (badness 5203) in paragraph at lines 637--638
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
@@ -2836,31 +2364,6 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [53]
-
-LaTeX Warning: Reference `footdir@253' on page 54 undefined on input line 640.
-
-
-LaTeX Warning: Reference `footdir@254' on page 54 undefined on input line 640.
-
-
-LaTeX Warning: Reference `footdir@255' on page 54 undefined on input line 640.
-
-
-LaTeX Warning: Reference `footdir@256' on page 54 undefined on input line 640.
-
-
-LaTeX Warning: Reference `footdir@257' on page 54 undefined on input line 640.
-
-
-LaTeX Warning: Reference `footdir@258' on page 54 undefined on input line 640.
-
-
-LaTeX Warning: Reference `footdir@259' on page 54 undefined on input line 640.
-
-
-LaTeX Warning: Reference `footdir@260' on page 54 undefined on input line 640.
-
-
 Underfull \hbox (badness 5077) in paragraph at lines 640--641
 [][]\TU/phv/b/n/10 MK Ultra ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 The expo-
 []
@@ -2872,67 +2375,6 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [54]
-
-LaTeX Warning: Reference `footdir@261' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@262' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@263' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@264' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@265' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@266' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@267' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@268' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@269' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@270' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@271' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@272' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@273' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@274' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@275' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@276' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@277' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@278' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@279' on page 55 undefined on input line 661.
-
-
-LaTeX Warning: Reference `footdir@280' on page 55 undefined on input line 661.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 661--662
 [][]\TU/phv/b/n/10 Russia’s Military Industrial[]
  []
@@ -2979,20 +2421,8 @@ Package multicol Warning: I moved some lines to the next page.
 
 [55]
 
-LaTeX Warning: Reference `footdir@281' on page 56 undefined on input line 663.
-
-
-LaTeX Warning: Reference `footdir@282' on page 56 undefined on input line 663.
-
-
 LaTeX Warning: Citation `https://doi.org/10.1023/A:1005328611460' on page 56 un
 defined on input line 663.
-
-
-LaTeX Warning: Reference `footdir@283' on page 56 undefined on input line 663.
-
-
-LaTeX Warning: Reference `footdir@284' on page 56 undefined on input line 663.
 
 
 Package multicol Warning: I moved some lines to the next page.
@@ -3006,12 +2436,6 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [57]
-
-LaTeX Warning: Reference `footdir@285' on page 58 undefined on input line 665.
-
-
-LaTeX Warning: Reference `footdir@286' on page 58 undefined on input line 665.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 58 might be wrong on input line 666
@@ -3451,77 +2875,11 @@ ex-text;!
 Missing character: There is no 👇 (U+1F447) in font [lmroman10-regular]:mapping=
 tex-text;!
 
-LaTeX Warning: Reference `footdir@287' on page 59 undefined on input line 693.
-
-
-LaTeX Warning: Reference `footdir@288' on page 59 undefined on input line 693.
-
-
-LaTeX Warning: Reference `footdir@289' on page 59 undefined on input line 696.
-
-
-LaTeX Warning: Reference `footdir@290' on page 59 undefined on input line 696.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 59 might be wrong on input line 697
 .
 
 [59]
-
-LaTeX Warning: Reference `footdir@291' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@292' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@293' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@294' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@295' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@296' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@297' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@298' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@299' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@300' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@301' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@302' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@303' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@304' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@305' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@306' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@307' on page 60 undefined on input line 705.
-
-
-LaTeX Warning: Reference `footdir@308' on page 60 undefined on input line 705.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 60 might be wrong on input line 706
@@ -3547,42 +2905,6 @@ Package multicol Warning: I moved some lines to the next page.
 
 [64]
 
-LaTeX Warning: Reference `footdir@309' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@310' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@311' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@312' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@313' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@314' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@315' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@316' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@317' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@318' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@319' on page 65 undefined on input line 708.
-
-
-LaTeX Warning: Reference `footdir@320' on page 65 undefined on input line 708.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 65 might be wrong on input line 709
 .
@@ -3595,47 +2917,11 @@ Package multicol Warning: I moved some lines to the next page.
 
 [66]
 
-LaTeX Warning: Reference `footdir@321' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@322' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@323' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@324' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@325' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@326' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@327' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@328' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@329' on page 67 undefined on input line 714.
-
-
-LaTeX Warning: Reference `footdir@330' on page 67 undefined on input line 714.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 67 might be wrong on input line 715
 .
 
 [67]
-
-LaTeX Warning: Reference `footdir@331' on page 68 undefined on input line 742.
-
-
-LaTeX Warning: Reference `footdir@332' on page 68 undefined on input line 742.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 68 might be wrong on input line 743
@@ -3643,113 +2929,17 @@ Package multicol Warning: I moved some lines to the next page.
 
 [68]
 
-LaTeX Warning: Reference `footdir@333' on page 69 undefined on input line 747.
-
-
-LaTeX Warning: Reference `footdir@334' on page 69 undefined on input line 747.
-
-
-LaTeX Warning: Reference `footdir@335' on page 69 undefined on input line 747.
-
-
-LaTeX Warning: Reference `footdir@336' on page 69 undefined on input line 747.
-
-
-LaTeX Warning: Reference `footdir@337' on page 69 undefined on input line 747.
-
-
-LaTeX Warning: Reference `footdir@338' on page 69 undefined on input line 747.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 69 might be wrong on input line 748
 .
 
 [69]
 
-LaTeX Warning: Reference `footdir@339' on page 70 undefined on input line 752.
-
-
-LaTeX Warning: Reference `footdir@340' on page 70 undefined on input line 752.
-
-
-LaTeX Warning: Reference `footdir@341' on page 70 undefined on input line 752.
-
-
-LaTeX Warning: Reference `footdir@342' on page 70 undefined on input line 752.
-
-
-LaTeX Warning: Reference `footdir@343' on page 70 undefined on input line 752.
-
-
-LaTeX Warning: Reference `footdir@344' on page 70 undefined on input line 752.
-
-
-LaTeX Warning: Reference `footdir@345' on page 70 undefined on input line 752.
-
-
-LaTeX Warning: Reference `footdir@346' on page 70 undefined on input line 752.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 70 might be wrong on input line 753
 .
 
 [70]
-
-LaTeX Warning: Reference `footdir@347' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@348' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@349' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@350' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@351' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@352' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@353' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@354' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@355' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@356' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@357' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@358' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@359' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@360' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@361' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@362' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@363' on page 71 undefined on input line 766.
-
-
-LaTeX Warning: Reference `footdir@364' on page 71 undefined on input line 766.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 71 might be wrong on input line 766
@@ -3775,30 +2965,11 @@ Package multicol Warning: I moved some lines to the next page.
 
 [74]
 
-LaTeX Warning: Reference `footdir@365' on page 75 undefined on input line 770.
-
-
-LaTeX Warning: Reference `footdir@366' on page 75 undefined on input line 770.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 75 might be wrong on input line 778
 .
 
 [75] [76]
-
-LaTeX Warning: Reference `footdir@367' on page 77 undefined on input line 785.
-
-
-LaTeX Warning: Reference `footdir@368' on page 77 undefined on input line 785.
-
-
-LaTeX Warning: Reference `footdir@369' on page 77 undefined on input line 785.
-
-
-LaTeX Warning: Reference `footdir@370' on page 77 undefined on input line 785.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -3815,21 +2986,9 @@ l.803 }
        
 ? 
 
-LaTeX Warning: Reference `footdir@371' on page 78 undefined on input line 803.
-
-
-LaTeX Warning: Reference `footdir@372' on page 78 undefined on input line 803.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 803--804
 [][]\TU/phv/b/n/10 The obsession with quantum[]
  []
-
-
-LaTeX Warning: Reference `footdir@373' on page 78 undefined on input line 822.
-
-
-LaTeX Warning: Reference `footdir@374' on page 78 undefined on input line 822.
 
 
 Package multicol Warning: I moved some lines to the next page.
@@ -3837,12 +2996,6 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [78]
-
-LaTeX Warning: Reference `footdir@375' on page 79 undefined on input line 831.
-
-
-LaTeX Warning: Reference `footdir@376' on page 79 undefined on input line 831.
-
 Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
@@ -3983,12 +3136,6 @@ Missing character: There is no ر (U+0631) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no ة (U+0629) in font [lmroman8-regular]:mapping=te
 x-text;!
-
-LaTeX Warning: Reference `footdir@377' on page 79 undefined on input line 831.
-
-
-LaTeX Warning: Reference `footdir@378' on page 79 undefined on input line 831.
-
 Missing character: There is no ל (U+05DC) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman8-regular]:mapping=te
@@ -4108,41 +3255,11 @@ x-text;!
 Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
 x-text;!
 
-LaTeX Warning: Reference `footdir@379' on page 79 undefined on input line 831.
-
-
-LaTeX Warning: Reference `footdir@380' on page 79 undefined on input line 831.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 79 might be wrong on input line 834
 .
 
 [79]
-
-LaTeX Warning: Reference `footdir@381' on page 80 undefined on input line 872.
-
-
-LaTeX Warning: Reference `footdir@382' on page 80 undefined on input line 872.
-
-
-LaTeX Warning: Reference `footdir@383' on page 80 undefined on input line 875.
-
-
-LaTeX Warning: Reference `footdir@384' on page 80 undefined on input line 875.
-
-
-LaTeX Warning: Reference `footdir@385' on page 80 undefined on input line 875.
-
-
-LaTeX Warning: Reference `footdir@386' on page 80 undefined on input line 875.
-
-
-LaTeX Warning: Reference `footdir@387' on page 80 undefined on input line 875.
-
-
-LaTeX Warning: Reference `footdir@388' on page 80 undefined on input line 875.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 80 might be wrong on input line 879
@@ -4150,47 +3267,17 @@ Package multicol Warning: I moved some lines to the next page.
 
 [80]
 
-LaTeX Warning: Reference `footdir@389' on page 81 undefined on input line 888.
-
-
-LaTeX Warning: Reference `footdir@390' on page 81 undefined on input line 888.
-
-
-LaTeX Warning: Reference `footdir@391' on page 81 undefined on input line 888.
-
-
-LaTeX Warning: Reference `footdir@392' on page 81 undefined on input line 888.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 81 might be wrong on input line 889
 .
 
 [81]
 
-LaTeX Warning: Reference `footdir@393' on page 82 undefined on input line 890.
-
-
-LaTeX Warning: Reference `footdir@394' on page 82 undefined on input line 890.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 82 might be wrong on input line 898
 .
 
 [82]
-
-LaTeX Warning: Reference `footdir@395' on page 83 undefined on input line 900.
-
-
-LaTeX Warning: Reference `footdir@396' on page 83 undefined on input line 900.
-
-
-LaTeX Warning: Reference `footdir@397' on page 83 undefined on input line 904.
-
-
-LaTeX Warning: Reference `footdir@398' on page 83 undefined on input line 904.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 83 might be wrong on input line 905
@@ -4200,22 +3287,6 @@ Package multicol Warning: I moved some lines to the next page.
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
 (Font)              using `TU/ptm/b/n' instead on input line 1084.
-
-
-LaTeX Warning: Reference `footdir@399' on page 84 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@400' on page 84 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@401' on page 84 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@402' on page 84 undefined on input line 1084.
-
 
 
 Underfull \hbox (badness 7925) in paragraph at lines 1084--1084
@@ -4234,61 +3305,11 @@ LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
 
 [84]
 
-LaTeX Warning: Reference `footdir@403' on page 85 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@404' on page 85 undefined on input line 1084.
-
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 85 might be wrong on input line 108
 4.
 
-[85]
-
-LaTeX Warning: Reference `footdir@405' on page 86 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@406' on page 86 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@407' on page 86 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@408' on page 86 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@409' on page 86 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@410' on page 86 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@411' on page 86 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@412' on page 86 undefined on input line 1084.
-
-
-[86]
-
-LaTeX Warning: Reference `footdir@413' on page 87 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@414' on page 87 undefined on input line 1084.
-
-
-
+[85] [86]
 Underfull \hbox (badness 5274) in paragraph at lines 1084--1084
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
@@ -4299,31 +3320,6 @@ Package multicol Warning: I moved some lines to the next page.
 4.
 
 [87]
-
-LaTeX Warning: Reference `footdir@415' on page 88 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@416' on page 88 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@417' on page 88 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@418' on page 88 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@419' on page 88 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@420' on page 88 undefined on input line 1084.
-
-
-
 Underfull \hbox (badness 5316) in paragraph at lines 1084--1084
 [][]\TU/phv/b/n/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 Syntopi
 con,[]
@@ -4335,22 +3331,6 @@ Package multicol Warning: I moved some lines to the next page.
 4.
 
 [88]
-
-LaTeX Warning: Reference `footdir@421' on page 89 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@422' on page 89 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@423' on page 89 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@424' on page 89 undefined on input line 1084.
-
-
 ! Missing } inserted.
 <inserted text> 
                 }
@@ -4358,80 +3338,23 @@ l.1084 }
         
 ? 
 
-LaTeX Warning: Reference `footdir@425' on page 89 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@426' on page 89 undefined on input line 1084.
-
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 89 might be wrong on input line 108
 4.
 
 [89]
 
-LaTeX Warning: Reference `footdir@427' on page 90 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@428' on page 90 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@429' on page 90 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@430' on page 90 undefined on input line 1084.
-
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 90 might be wrong on input line 108
 4.
 
 [90]
-
-LaTeX Warning: Reference `footdir@431' on page 91 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@432' on page 91 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@433' on page 91 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@434' on page 91 undefined on input line 1084.
-
-
-
 Overfull \hbox (166.93018pt too wide) in paragraph at lines 1084--1084
 [][][]\TU/ptm/b/n/8 [”China’s Trade Surplus Reaches a Record of Nearly $\OT1/cm
 r/m/n/8 1\OML/cmm/m/it/8 Trillion; [][]January\OT1/cmr/m/n/8 12\OML/cmm/m/it/8 
 th; \OT1/cmr/m/n/8 2025]\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 [[]\OML/cmm/m/it/8 Chi
 na[]sTradeSurplusClimbsPast$\TU/ptm/b/n/8 1[]
  []
-
-
-LaTeX Warning: Reference `footdir@435' on page 91 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@436' on page 91 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@437' on page 91 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@438' on page 91 undefined on input line 1084.
-
 
 
 Package multicol Warning: I moved some lines to the next page.
@@ -4455,80 +3378,8 @@ Package multicol Warning: I moved some lines to the next page.
 4.
 
 [93]
-
-LaTeX Warning: Reference `footdir@439' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@440' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@441' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@442' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@443' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@444' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@445' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@446' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@447' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@448' on page 94 undefined on input line 1084.
-
-
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
-
-LaTeX Warning: Reference `footdir@449' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@450' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@451' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@452' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@453' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@454' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@455' on page 94 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@456' on page 94 undefined on input line 1084.
-
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 94 might be wrong on input line 108
@@ -5754,38 +4605,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 1084--1084
  []
 
 
-LaTeX Warning: Reference `footdir@457' on page 96 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@458' on page 96 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@459' on page 96 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@460' on page 96 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@461' on page 96 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@462' on page 96 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@463' on page 96 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@464' on page 96 undefined on input line 1084.
-
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 96 might be wrong on input line 108
 4.
@@ -5798,49 +4617,17 @@ Package multicol Warning: I moved some lines to the next page.
 
 [97]
 
-LaTeX Warning: Reference `footdir@465' on page 98 undefined on input line 1084.
-
-
-
-LaTeX Warning: Reference `footdir@466' on page 98 undefined on input line 1084.
-
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 98 might be wrong on input line 108
 4.
 
 [98] [99]
-
-LaTeX Warning: Reference `footdir@467' on page 100 undefined on input line 1084
-.
-
-
-LaTeX Warning: Reference `footdir@468' on page 100 undefined on input line 1084
-.
-
 ! Extra }, or forgotten \endgroup.
 \entry ...\ {(#2)}\ \textit {#3}\ $\bullet $\ {#4}
                                                   
 l.1084 }
         
 ? 
-
-LaTeX Warning: Reference `footdir@469' on page 100 undefined on input line 1090
-.
-
-
-LaTeX Warning: Reference `footdir@470' on page 100 undefined on input line 1090
-.
-
-
-LaTeX Warning: Reference `footdir@471' on page 100 undefined on input line 1090
-.
-
-
-LaTeX Warning: Reference `footdir@472' on page 100 undefined on input line 1090
-.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 1090--1090
 [][]\TU/phv/b/n/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
@@ -5863,14 +4650,6 @@ Package multicol Warning: I moved some lines to the next page.
 07.
 
 [101]
-
-LaTeX Warning: Reference `footdir@473' on page 102 undefined on input line 1126
-.
-
-
-LaTeX Warning: Reference `footdir@474' on page 102 undefined on input line 1126
-.
-
 ! You can't use `macro parameter character #' in horizontal mode.
 <argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
                                                   المتحري يكشف جذور اهتمام إ...
@@ -5878,27 +4657,11 @@ l.1126 }
         
 ? 
 
-LaTeX Warning: Reference `footdir@475' on page 102 undefined on input line 1126
-.
-
-
-LaTeX Warning: Reference `footdir@476' on page 102 undefined on input line 1126
-.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 102 might be wrong on input line 11
 27.
 
 [102]
-
-LaTeX Warning: Reference `footdir@477' on page 103 undefined on input line 1129
-.
-
-
-LaTeX Warning: Reference `footdir@478' on page 103 undefined on input line 1129
-.
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 103 might be wrong on input line 11
@@ -5906,41 +4669,17 @@ Package multicol Warning: I moved some lines to the next page.
 
 [103]
 
-LaTeX Warning: Reference `footdir@479' on page 104 undefined on input line 1132
-.
-
-
-LaTeX Warning: Reference `footdir@480' on page 104 undefined on input line 1132
-.
-
-
-LaTeX Warning: Reference `footdir@481' on page 104 undefined on input line 1132
-.
-
-
-LaTeX Warning: Reference `footdir@482' on page 104 undefined on input line 1132
-.
-
-
-LaTeX Warning: Reference `footdir@483' on page 104 undefined on input line 1132
-.
-
-
-LaTeX Warning: Reference `footdir@484' on page 104 undefined on input line 1132
-.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 104 might be wrong on input line 11
 33.
 
 [104]
 
-LaTeX Warning: Reference `footdir@485' on page 105 undefined on input line 1153
+LaTeX Warning: Reference `footdir@487' on page 105 undefined on input line 1153
 .
 
 
-LaTeX Warning: Reference `footdir@486' on page 105 undefined on input line 1153
+LaTeX Warning: Reference `footdir@488' on page 105 undefined on input line 1153
 .
 
 
@@ -5962,10 +4701,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23302 strings out of 473832
- 538837 string characters out of 5729480
- 1121853 words of memory out of 5000000
- 45911 multiletter control sequences out of 15000+600000
+ 23383 strings out of 473832
+ 539663 string characters out of 5729480
+ 1126646 words of memory out of 5000000
+ 45992 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,23129b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
