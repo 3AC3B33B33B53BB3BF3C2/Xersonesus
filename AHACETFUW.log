@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  24 JAN 2026 21:35
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  24 JAN 2026 21:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3293,14 +3293,14 @@ Package multicol Warning: I moved some lines to the next page.
 [84]
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/b/n' instead on input line 1096.
+(Font)              using `TU/ptm/b/n' instead on input line 1098.
 
 
-LaTeX Warning: Reference `footdir@402' on page 85 undefined on input line 1096.
+LaTeX Warning: Reference `footdir@402' on page 85 undefined on input line 1098.
 
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 1096--1096
+Underfull \hbox (badness 7925) in paragraph at lines 1098--1098
 [][]\TU/phv/b/n/10 Solomon, King ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 King
 []
  []
@@ -3308,42 +3308,42 @@ Underfull \hbox (badness 7925) in paragraph at lines 1096--1096
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 85 might be wrong on input line 109
-6.
+8.
 
 
 LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
-(Font)              using `TU/phv/m/n' instead on input line 1096.
+(Font)              using `TU/phv/m/n' instead on input line 1098.
 
 [85]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 86 might be wrong on input line 109
-6.
+8.
 
 [86]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 87 might be wrong on input line 109
-6.
+8.
 
 [87]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 88 might be wrong on input line 109
-6.
+8.
 
 [88]
-Underfull \hbox (badness 5274) in paragraph at lines 1096--1096
+Underfull \hbox (badness 5274) in paragraph at lines 1098--1098
 [][]\TU/phv/b/n/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 89 might be wrong on input line 109
-6.
+8.
 
 [89]
-Underfull \hbox (badness 5316) in paragraph at lines 1096--1096
+Underfull \hbox (badness 5316) in paragraph at lines 1098--1098
 [][]\TU/phv/b/n/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 Syntopi
 con,[]
  []
@@ -3351,34 +3351,34 @@ con,[]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 90 might be wrong on input line 109
-6.
+8.
 
 [90]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 91 might be wrong on input line 109
-6.
+8.
 
 [91]
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1096 }
+l.1098 }
         
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 92 might be wrong on input line 109
-6.
+8.
 
 [92]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 93 might be wrong on input line 109
-6.
+8.
 
 [93]
-Overfull \hbox (166.93018pt too wide) in paragraph at lines 1096--1096
+Overfull \hbox (166.93018pt too wide) in paragraph at lines 1098--1098
 [][][]\TU/ptm/b/n/8 [”China’s Trade Surplus Reaches a Record of Nearly $\OT1/cm
 r/m/n/8 1\OML/cmm/m/it/8 Trillion; [][]January\OT1/cmr/m/n/8 12\OML/cmm/m/it/8 
 th; \OT1/cmr/m/n/8 2025]\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 [[]\OML/cmm/m/it/8 Chi
@@ -3388,16 +3388,16 @@ na[]sTradeSurplusClimbsPast$\TU/ptm/b/n/8 1[]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 94 might be wrong on input line 109
-6.
+8.
 
 [94]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 95 might be wrong on input line 109
-6.
+8.
 
 [95]
-Underfull \hbox (badness 5119) in paragraph at lines 1096--1096
+Underfull \hbox (badness 5119) in paragraph at lines 1098--1098
 []\TU/phv/b/n/10 mark, Norway, Sweden, Finland,[]
  []
 
@@ -3407,7 +3407,7 @@ b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 97 might be wrong on input line 109
-6.
+8.
 
 [97]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
@@ -4621,89 +4621,108 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1096--1096
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1098
 [][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
 []
  []
 
 
+Underfull \hbox (badness 8113) in paragraph at lines 1098--1098
+[]\TU/phv/b/n/10 unipolar moment occured slowly,[]
+ []
+
+
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 98 might be wrong on input line 109
-6.
+8.
 
 [98]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 99 might be wrong on input line 109
-6.
+8.
 
 [99]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 100 might be wrong on input line 10
-96.
+98.
 
 [100]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 101 might be wrong on input line 10
-96.
+98.
 
-[101]
+[101] [102]
 ! Extra }, or forgotten \endgroup.
 \entry ...\ {(#2)}\ \textit {#3}\ $\bullet $\ {#4}
                                                   
-l.1096 }
+l.1098 }
         
 ? 
-[102]
-Underfull \hbox (badness 10000) in paragraph at lines 1102--1102
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1104
 [][]\TU/phv/b/n/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1102--1102
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1104
 []\TU/phv/b/n/10 Leibniz’ binary number system[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 103 might be wrong on input line 11
-02.
+04.
 
 [103]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 104 might be wrong on input line 11
-21.
+04.
 
 [104]
 ! You can't use `macro parameter character #' in horizontal mode.
 <argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
                                                   المتحري يكشف جذور اهتمام إ...
-l.1138 }
+l.1140 }
         
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 105 might be wrong on input line 11
-39.
+41.
 
 [105]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 106 might be wrong on input line 11
-45.
+41.
 
 [106]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 107 might be wrong on input line 11
-45.
+47.
 
 [107]
 
-[108] (./AHACETFUW.aux)
+LaTeX Warning: Reference `footdir@495' on page 108 undefined on input line 1167
+.
+
+
+LaTeX Warning: Reference `footdir@496' on page 108 undefined on input line 1167
+.
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 108 might be wrong on input line 11
+68.
+
+[108]
+
+[109] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -4720,12 +4739,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23393 strings out of 473832
- 539791 string characters out of 5729480
- 1126554 words of memory out of 5000000
- 46002 multiletter control sequences out of 15000+600000
+ 23394 strings out of 473832
+ 539810 string characters out of 5729480
+ 1128731 words of memory out of 5000000
+ 46003 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,23129b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (108 pages).
+Output written on AHACETFUW.pdf (109 pages).
