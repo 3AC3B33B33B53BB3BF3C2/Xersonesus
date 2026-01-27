@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  26 JAN 2026 23:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  26 JAN 2026 23:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2165,7 +2165,7 @@ Package multicol Warning: I moved some lines to the next page.
 [40]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 41 might be wrong on input line 498
+(multicol)                Footnotes on page 41 might be wrong on input line 493
 .
 
 [41]
@@ -2241,6 +2241,9 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [52]
 
@@ -2924,9 +2927,6 @@ ex-text;!
 Missing character: There is no 👇 (U+1F447) in font [lmroman10-regular]:mapping=
 tex-text;!
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 65 might be wrong on input line 725
-.
 
 [65]
 
@@ -2973,7 +2973,7 @@ Package multicol Warning: I moved some lines to the next page.
 [72]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 73 might be wrong on input line 741
+(multicol)                Footnotes on page 73 might be wrong on input line 740
 .
 
 [73]
@@ -3021,7 +3021,7 @@ Package multicol Warning: I moved some lines to the next page.
 [80]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 81 might be wrong on input line 791
+(multicol)                Footnotes on page 81 might be wrong on input line 788
 .
 
 [81]
@@ -3322,6 +3322,9 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [85]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [86]
 
@@ -3343,21 +3346,16 @@ Package multicol Warning: I moved some lines to the next page.
 
 [89]
 
+LaTeX Warning: Reference `footdir@424' on page 90 undefined on input line 926.
+
+
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
 (Font)              using `TU/ptm/b/n' instead on input line 1115.
-
-
-LaTeX Warning: Reference `footdir@424' on page 90 undefined on input line 1115.
-
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 90 might be wrong on input line 111
 5.
-
-
-LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
-(Font)              using `TU/phv/m/n' instead on input line 1115.
 
 [90]
 Underfull \hbox (badness 7925) in paragraph at lines 1115--1115
@@ -3369,6 +3367,10 @@ Underfull \hbox (badness 7925) in paragraph at lines 1115--1115
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 91 might be wrong on input line 111
 5.
+
+
+LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
+(Font)              using `TU/phv/m/n' instead on input line 1115.
 
 [91]
 
@@ -3393,17 +3395,17 @@ Package multicol Warning: I moved some lines to the next page.
 5.
 
 [94]
-Underfull \hbox (badness 5316) in paragraph at lines 1115--1115
-[][]\TU/phv/b/n/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 Syntopi
-con,[]
- []
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 95 might be wrong on input line 111
 5.
 
 [95]
+Underfull \hbox (badness 5316) in paragraph at lines 1115--1115
+[][]\TU/phv/b/n/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 Syntopi
+con,[]
+ []
+
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 96 might be wrong on input line 111
@@ -4705,18 +4707,14 @@ Package multicol Warning: I moved some lines to the next page.
 
 [106]
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 107 might be wrong on input line 11
-15.
-
-[107]
+[107] [108]
 ! Extra }, or forgotten \endgroup.
 \entry ...\ {(#2)}\ \textit {#3}\ $\bullet $\ {#4}
                                                   
 l.1115 }
         
 ? 
-[108]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1121--1121
 [][]\TU/phv/b/n/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
  []
@@ -4735,7 +4733,7 @@ Package multicol Warning: I moved some lines to the next page.
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 110 might be wrong on input line 11
-41.
+38.
 
 [110]
 ! You can't use `macro parameter character #' in horizontal mode.
@@ -4753,15 +4751,32 @@ Package multicol Warning: I moved some lines to the next page.
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 112 might be wrong on input line 11
-64.
+61.
 
 [112]
+
+LaTeX Warning: Reference `footdir@519' on page 113 undefined on input line 1163
+.
+
+
+LaTeX Warning: Reference `footdir@520' on page 113 undefined on input line 1163
+.
+
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 113 might be wrong on input line 11
 64.
 
 [113]
+
+LaTeX Warning: Reference `footdir@521' on page 114 undefined on input line 1184
+.
+
+
+LaTeX Warning: Reference `footdir@522' on page 114 undefined on input line 1184
+.
+
+
 
 [114] (./AHACETFUW.aux)
  ***********
@@ -4775,12 +4790,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 23424 strings out of 473832
- 540224 string characters out of 5729480
- 1131874 words of memory out of 5000000
- 46033 multiletter control sequences out of 15000+600000
+ 23430 strings out of 473832
+ 540314 string characters out of 5729480
+ 1133888 words of memory out of 5000000
+ 46039 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,12n,107p,23129b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
