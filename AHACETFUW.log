@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  26 JAN 2026 23:20
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  26 JAN 2026 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2182,12 +2182,6 @@ ster such[]
  []
 
 
-Overfull \hbox (116.44122pt too wide) in paragraph at lines 511--512
-[]$\OT1/cmr/m/n/10 18\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 000\OML/cmm/m/it/10 dro
-nefortheNebraskaStatePatrol:Itrecentlyspent$\TU/phv/b/n/10 15,000[]
- []
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 42 might be wrong on input line 512
 .
@@ -2250,14 +2244,14 @@ Package multicol Warning: I moved some lines to the next page.
 
 [52]
 
-LaTeX Warning: Reference `footdir@232' on page 53 undefined on input line 594.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 53 might be wrong on input line 597
 .
 
 [53]
+
+LaTeX Warning: Reference `footdir@240' on page 54 undefined on input line 603.
+
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 54 might be wrong on input line 604
@@ -3337,9 +3331,6 @@ Package multicol Warning: I moved some lines to the next page.
 
 [87]
 
-LaTeX Warning: Reference `footdir@416' on page 88 undefined on input line 910.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 88 might be wrong on input line 911
 .
@@ -3354,6 +3345,10 @@ Package multicol Warning: I moved some lines to the next page.
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
 (Font)              using `TU/ptm/b/n' instead on input line 1115.
+
+
+LaTeX Warning: Reference `footdir@424' on page 90 undefined on input line 1115.
+
 
 
 Package multicol Warning: I moved some lines to the next page.
@@ -4756,30 +4751,6 @@ Package multicol Warning: I moved some lines to the next page.
 
 [111]
 
-LaTeX Warning: Reference `footdir@511' on page 112 undefined on input line 1163
-.
-
-
-LaTeX Warning: Reference `footdir@512' on page 112 undefined on input line 1163
-.
-
-
-LaTeX Warning: Reference `footdir@513' on page 112 undefined on input line 1163
-.
-
-
-LaTeX Warning: Reference `footdir@514' on page 112 undefined on input line 1163
-.
-
-
-LaTeX Warning: Reference `footdir@515' on page 112 undefined on input line 1163
-.
-
-
-LaTeX Warning: Reference `footdir@516' on page 112 undefined on input line 1163
-.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 112 might be wrong on input line 11
 64.
@@ -4791,15 +4762,6 @@ Package multicol Warning: I moved some lines to the next page.
 64.
 
 [113]
-
-LaTeX Warning: Reference `footdir@517' on page 114 undefined on input line 1184
-.
-
-
-LaTeX Warning: Reference `footdir@518' on page 114 undefined on input line 1184
-.
-
-
 
 [114] (./AHACETFUW.aux)
  ***********
@@ -4813,14 +4775,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  23424 strings out of 473832
- 540233 string characters out of 5729480
- 1131814 words of memory out of 5000000
+ 540224 string characters out of 5729480
+ 1131874 words of memory out of 5000000
  46033 multiletter control sequences out of 15000+600000
  563994 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
