@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  12 FEB 2026 14:12
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  14 FEB 2026 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6062,47 +6062,47 @@ Package multicol Warning: I moved some lines to the next page.
 
 [126] [127]
 ! Extra }, or forgotten \endgroup.
-l.1197 }
+l.1200 }
         
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1203--1203
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1206
 [][]\TU/phv/b/n/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1203--1203
+Underfull \hbox (badness 10000) in paragraph at lines 1206--1206
 []\TU/phv/b/n/10 Leibniz’ binary number system[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 128 might be wrong on input line 12
-03.
+06.
 
 [128]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 129 might be wrong on input line 12
-06.
+09.
 
 [129]
 ! You can't use `macro parameter character #' in horizontal mode.
 <argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
                                                   المتحري يكشف جذور اهتمام إ...
-l.1241 }
+l.1244 }
         
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 130 might be wrong on input line 12
-42.
+45.
 
 [130]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 131 might be wrong on input line 12
-42.
+45.
 
 [131]
 
@@ -6110,23 +6110,48 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 132 might be wrong on input line 12
 50.
 
+
+! Package polyglossia Error: The current main sans serif font,
+(polyglossia)                lmroman10-regular, does not contain the
+(polyglossia)                "Cyrillic" script!
+(polyglossia)                Please define \cyrillicfontsf with
+(polyglossia)                \newfontfamily command
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.1250 
+       
+? 
+Missing character: There is no Ю (U+042E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ш (U+0448) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no м (U+043C) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no а (U+0430) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no н (U+043D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no Н (U+041D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
+ex-text;!
 [132]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 133 might be wrong on input line 12
-50.
+53.
 
-[133]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 134 might be wrong on input line 12
-70.
-
-[134]
+[133] [134]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 135 might be wrong on input line 12
-70.
+73.
 
 [135]
 
@@ -6149,7 +6174,7 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  23536 strings out of 473832
  541955 string characters out of 5729480
- 1220648 words of memory out of 5000000
+ 1220651 words of memory out of 5000000
  46144 multiletter control sequences out of 15000+600000
  564002 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
