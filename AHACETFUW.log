@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  15 FEB 2026 22:08
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  16 FEB 2026 19:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3378,25 +3378,9 @@ Package multicol Warning: I moved some lines to the next page.
 [91] [92]
 
 [93]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.856 }
-       
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 856--857
-[][]\TU/phv/b/n/10 The obsession with quantum[]
+Underfull \hbox (badness 10000) in paragraph at lines 853--854
+[][]\TU/phv/b/n/10 Quartermaster General Mont-[]
  []
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 94 might be wrong on input line 877
-.
 
 [94]
 
@@ -3406,7 +3390,34 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.902 }
+l.859 }
+       
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--860
+[][]\TU/phv/b/n/10 The obsession with quantum[]
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 95 might be wrong on input line 860
+.
+
+[95]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 96 might be wrong on input line 893
+.
+
+[96]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.905 }
        
 ? 
 
@@ -3416,15 +3427,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.902 }
+l.905 }
        
 ? 
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 95 might be wrong on input line 903
-.
-
-[95]
 Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
@@ -3685,138 +3690,132 @@ Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
 x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 96 might be wrong on input line 909
-.
-
-[96]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 97 might be wrong on input line 947
+(multicol)                Footnotes on page 97 might be wrong on input line 912
 .
 
 [97]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 98 might be wrong on input line 961
+(multicol)                Footnotes on page 98 might be wrong on input line 912
 .
 
 [98]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 99 might be wrong on input line 966
+(multicol)                Footnotes on page 99 might be wrong on input line 964
 .
 
 [99]
-Underfull \hbox (badness 5681) in paragraph at lines 970--971
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 100 might be wrong on input line 96
+7.
+
+[100]
+Underfull \hbox (badness 5681) in paragraph at lines 973--974
 []\TU/phv/b/n/10 National Security Agency (NSA),[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 100 might be wrong on input line 97
-1.
+(multicol)                Footnotes on page 101 might be wrong on input line 97
+4.
 
-[100] [101]
+[101] [102] [103]
 
-LaTeX Warning: Reference `footdir@474' on page 102 undefined on input line 983.
+LaTeX Warning: Reference `footdir@480' on page 104 undefined on input line 993.
 
 
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 102 might be wrong on input line 98
-8.
-
-[102]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 103 might be wrong on input line 99
-1.
+(multicol)                Footnotes on page 104 might be wrong on input line 99
+4.
 
-[103]
+[104]
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/b/n' instead on input line 1166.
+(Font)              using `TU/ptm/b/n' instead on input line 1169.
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 1166--1166
+Underfull \hbox (badness 7925) in paragraph at lines 1169--1169
 [][]\TU/phv/b/n/10 Solomon, King ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 King
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 104 might be wrong on input line 11
-66.
+(multicol)                Footnotes on page 105 might be wrong on input line 11
+69.
 
 
 LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
-(Font)              using `TU/phv/m/n' instead on input line 1166.
-
-[104]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 105 might be wrong on input line 11
-66.
+(Font)              using `TU/phv/m/n' instead on input line 1169.
 
 [105]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 106 might be wrong on input line 11
-66.
+69.
 
 [106]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 107 might be wrong on input line 11
-66.
+69.
 
 [107]
-Underfull \hbox (badness 5274) in paragraph at lines 1166--1166
-[][]\TU/phv/b/n/10 In contrast with the Shahed,[]
- []
-
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 108 might be wrong on input line 11
-66.
+69.
 
 [108]
-Underfull \hbox (badness 5316) in paragraph at lines 1166--1166
-[][]\TU/phv/b/n/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 Syntopi
-con,[]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 109 might be wrong on input line 11
+69.
+
+[109]
+Underfull \hbox (badness 5274) in paragraph at lines 1169--1169
+[][]\TU/phv/m/it/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 109 might be wrong on input line 11
-66.
-
-[109]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 110 might be wrong on input line 11
-66.
+69.
 
 [110]
+Underfull \hbox (badness 5316) in paragraph at lines 1169--1169
+[][]\TU/phv/m/it/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/m/it/10 Synto
+picon,[]
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 111 might be wrong on input line 11
+69.
+
+[111]
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1166 }
+l.1169 }
         
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 111 might be wrong on input line 11
-66.
-
-[111]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 112 might be wrong on input line 11
-66.
+69.
 
 [112]
-Overfull \hbox (166.93018pt too wide) in paragraph at lines 1166--1166
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 113 might be wrong on input line 11
+69.
+
+[113]
+Overfull \hbox (166.93018pt too wide) in paragraph at lines 1169--1169
 [][][]\TU/ptm/b/n/8 [”China’s Trade Surplus Reaches a Record of Nearly $\OT1/cm
 r/m/n/8 1\OML/cmm/m/it/8 Trillion; [][]January\OT1/cmr/m/n/8 12\OML/cmm/m/it/8 
 th; \OT1/cmr/m/n/8 2025]\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 [[]\OML/cmm/m/it/8 Chi
@@ -3825,29 +3824,29 @@ na[]sTradeSurplusClimbsPast$\TU/ptm/b/n/8 1[]
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 113 might be wrong on input line 11
-66.
-
-[113]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 114 might be wrong on input line 11
-66.
+69.
 
 [114]
-Underfull \hbox (badness 5119) in paragraph at lines 1166--1166
-[]\TU/phv/b/n/10 mark, Norway, Sweden, Finland,[]
- []
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 115 might be wrong on input line 11
+69.
 
 [115]
+Underfull \hbox (badness 5119) in paragraph at lines 1169--1169
+[]\TU/phv/m/it/10 mark, Norway, Sweden, Finland,[]
+ []
+
+[116]
 Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
 b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 116 might be wrong on input line 11
-66.
+(multicol)                Footnotes on page 117 might be wrong on input line 11
+69.
 
-[116]
+[117]
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -5059,39 +5058,39 @@ ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
-[][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
-[]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 117 might be wrong on input line 11
-66.
-
-[117]
-Underfull \hbox (badness 8113) in paragraph at lines 1166--1166
-[]\TU/phv/b/n/10 unipolar moment occured slowly,[]
- []
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 118 might be wrong on input line 11
-66.
 
 [118]
+Underfull \hbox (badness 10000) in paragraph at lines 1169--1169
+[][]\TU/phv/m/it/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/m/it/10 Duri
+ng[]
+ []
+
+
+Underfull \hbox (badness 8113) in paragraph at lines 1169--1169
+[]\TU/phv/m/it/10 unipolar moment occured slowly,[]
+ []
+
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 119 might be wrong on input line 11
-66.
+69.
 
 [119]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 120 might be wrong on input line 11
-66.
+69.
 
 [120]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 121 might be wrong on input line 11
+69.
+
+[121]
 Missing character: There is no С (U+0421) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
@@ -5593,7 +5592,7 @@ x-text;!
 ! Undefined control sequence.
 <argument> ...Германский империализм (Готовит\ETC.
                                                   
-l.1166 }
+l.1169 }
         
 ? 
 Missing character: There is no м (U+043C) in font [lmroman10-regular]:mapping=t
@@ -5629,59 +5628,18 @@ ex-text;!
 ! Extra }, or forgotten \endgroup.
 \entry ...\ {(#2)}\ \textit {#3}\ $\bullet $\ {#4}
                                                   
-l.1166 }
+l.1169 }
         
 ? 
 
-Underfull \hbox (badness 5091) in paragraph at lines 1166--1167
-[]\TU/Helvetica(1)/m/n/10 вый Восток []\TU/phv/b/n/10 is not to be con-[]
+Underfull \hbox (badness 5091) in paragraph at lines 1169--1170
+[]\TU/Helvetica(1)/m/n/10 вый Восток []\TU/phv/m/it/10 is not to be con-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 121 might be wrong on input line 11
-67.
-
-
-! Package polyglossia Error: The current main sans serif font,
-(polyglossia)                lmroman10-regular, does not contain the
-(polyglossia)                "Cyrillic" script!
-(polyglossia)                Please define \cyrillicfontsf with
-(polyglossia)                \newfontfamily command
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.1167 
-       
-? 
-Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no к (U+043A) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no Н (U+041D) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ы (U+044B) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no й (U+0439) in font [lmroman10-regular]:mapping=t
-ex-text;!
-[121]
-
-Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 122 might be wrong on input line 11
-67.
+70.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -5693,42 +5651,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
-       
-? 
-Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no к (U+043A) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no Н (U+041D) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ы (U+044B) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no й (U+0439) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
-! Package polyglossia Error: The current main sans serif font,
-(polyglossia)                lmroman10-regular, does not contain the
-(polyglossia)                "Cyrillic" script!
-(polyglossia)                Please define \cyrillicfontsf with
-(polyglossia)                \newfontfamily command
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5757,7 +5680,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 123 might be wrong on input line 11
-67.
+70.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -5769,7 +5692,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5804,7 +5727,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5833,7 +5756,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 124 might be wrong on input line 11
-67.
+70.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -5845,7 +5768,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5880,7 +5803,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5909,7 +5832,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 125 might be wrong on input line 11
-67.
+70.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -5921,7 +5844,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5956,7 +5879,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5985,7 +5908,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 126 might be wrong on input line 11
-67.
+70.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -5997,7 +5920,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6032,7 +5955,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1167 
+l.1170 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6061,7 +5984,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 127 might be wrong on input line 11
-74.
+70.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -6073,8 +5996,8 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1174 }
-        
+l.1170 
+       
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
 ex-text;!
@@ -6108,8 +6031,8 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1174 }
-        
+l.1170 
+       
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
 ex-text;!
@@ -6137,56 +6060,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 128 might be wrong on input line 11
-93.
-
-[128]
-! Extra }, or forgotten \endgroup.
-l.1198 }
-        
-? 
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 129 might be wrong on input line 12
-01.
-
-[129]
-Underfull \hbox (badness 10000) in paragraph at lines 1204--1204
-[][]\TU/phv/b/n/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1204--1204
-[]\TU/phv/b/n/10 Leibniz’ binary number system[]
- []
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 130 might be wrong on input line 12
-04.
-
-[130]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 131 might be wrong on input line 12
-27.
-
-[131]
-! You can't use `macro parameter character #' in horizontal mode.
-<argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
-                                                  المتحري يكشف جذور اهتمام إ...
-l.1242 }
-        
-? 
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 132 might be wrong on input line 12
-43.
-
-[132]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 133 might be wrong on input line 12
-48.
+70.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -6198,7 +6072,128 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1248 
+l.1170 
+       
+? 
+Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no к (U+043A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no Н (U+041D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ы (U+044B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no й (U+0439) in font [lmroman10-regular]:mapping=t
+ex-text;!
+
+! Package polyglossia Error: The current main sans serif font,
+(polyglossia)                lmroman10-regular, does not contain the
+(polyglossia)                "Cyrillic" script!
+(polyglossia)                Please define \cyrillicfontsf with
+(polyglossia)                \newfontfamily command
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.1170 
+       
+? 
+Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no к (U+043A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no Н (U+041D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ы (U+044B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no й (U+0439) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[128]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 129 might be wrong on input line 11
+96.
+
+[129]
+! Extra }, or forgotten \endgroup.
+l.1201 }
+        
+? 
+[130]
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1207
+[][]\TU/phv/m/it/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1207--1207
+[]\TU/phv/m/it/10 Leibniz’ binary number system[]
+ []
+
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 131 might be wrong on input line 12
+07.
+
+[131]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 132 might be wrong on input line 12
+27.
+
+[132]
+! You can't use `macro parameter character #' in horizontal mode.
+<argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
+                                                  المتحري يكشف جذور اهتمام إ...
+l.1245 }
+        
+? 
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 133 might be wrong on input line 12
+46.
+
+[133]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 134 might be wrong on input line 12
+49.
+
+[134]
+
+! Package polyglossia Error: The current main sans serif font,
+(polyglossia)                lmroman10-regular, does not contain the
+(polyglossia)                "Cyrillic" script!
+(polyglossia)                Please define \cyrillicfontsf with
+(polyglossia)                \newfontfamily command
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.1254 
        
 ? 
 Missing character: There is no Ю (U+042E) in font [lmroman10-regular]:mapping=t
@@ -6219,57 +6214,32 @@ Missing character: There is no Н (U+041D) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
 ex-text;!
-[133]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 134 might be wrong on input line 12
-51.
-
-[134]
-
-LaTeX Warning: Reference `footdir@603' on page 135 undefined on input line 1270
-.
-
-
-LaTeX Warning: Reference `footdir@604' on page 135 undefined on input line 1270
-.
-
-
-LaTeX Warning: Reference `footdir@605' on page 135 undefined on input line 1270
-.
-
-
-LaTeX Warning: Reference `footdir@606' on page 135 undefined on input line 1270
-.
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 135 might be wrong on input line 12
-71.
-
 [135]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 136 might be wrong on input line 12
-71.
 
 [136]
 
-LaTeX Warning: Reference `footdir@607' on page 137 undefined on input line 1272
-.
-
-
-LaTeX Warning: Reference `footdir@608' on page 137 undefined on input line 1272
-.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 137 might be wrong on input line 12
-73.
+74.
 
 [137]
 
-[138] (./AHACETFUW.aux)
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 138 might be wrong on input line 12
+74.
+
+[138]
+
+LaTeX Warning: Reference `footdir@609' on page 139 undefined on input line 1275
+.
+
+
+LaTeX Warning: Reference `footdir@610' on page 139 undefined on input line 1275
+.
+
+
+
+[139] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -6286,12 +6256,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23543 strings out of 473832
- 542060 string characters out of 5729480
- 1236655 words of memory out of 5000000
- 46151 multiletter control sequences out of 15000+600000
+ 23548 strings out of 473832
+ 542135 string characters out of 5729480
+ 1236782 words of memory out of 5000000
+ 46156 multiletter control sequences out of 15000+600000
  564002 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,13n,107p,25425b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,13n,107p,25425b,819s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on AHACETFUW.pdf (138 pages).
+Output written on AHACETFUW.pdf (139 pages).
