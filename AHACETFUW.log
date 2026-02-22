@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  19 FEB 2026 22:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  22 FEB 2026 00:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2328,82 +2328,84 @@ Package multicol Warning: I moved some lines to the next page.
 .
 
 [38]
+Missing character: There is no х (U+0445) in font [lmroman10-regular]:mapping=t
+ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 39 might be wrong on input line 460
+(multicol)                Footnotes on page 39 might be wrong on input line 462
 .
 
 [39]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 40 might be wrong on input line 463
+(multicol)                Footnotes on page 40 might be wrong on input line 462
 .
 
 [40]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 41 might be wrong on input line 466
+(multicol)                Footnotes on page 41 might be wrong on input line 465
 .
 
 [41]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 42 might be wrong on input line 472
+(multicol)                Footnotes on page 42 might be wrong on input line 474
 .
 
 [42]
 
-LaTeX Warning: Reference `footdir@196' on page 43 undefined on input line 478.
+LaTeX Warning: Reference `footdir@198' on page 43 undefined on input line 480.
 
 Missing character: There is no ​ (U+200B) in font [lmroman8-regular]:mapping=te
 x-text;!
 
-LaTeX Warning: Reference `footdir@198' on page 43 undefined on input line 478.
+LaTeX Warning: Reference `footdir@200' on page 43 undefined on input line 480.
 
 
-LaTeX Warning: Reference `footdir@200' on page 43 undefined on input line 478.
+LaTeX Warning: Reference `footdir@202' on page 43 undefined on input line 480.
 
 
-LaTeX Warning: Reference `footdir@201' on page 43 undefined on input line 478.
+LaTeX Warning: Reference `footdir@203' on page 43 undefined on input line 480.
 
 
-LaTeX Warning: Reference `footdir@202' on page 43 undefined on input line 478.
+LaTeX Warning: Reference `footdir@204' on page 43 undefined on input line 480.
 
 
-LaTeX Warning: Reference `footdir@204' on page 43 undefined on input line 478.
+LaTeX Warning: Reference `footdir@206' on page 43 undefined on input line 480.
 
 ! Misplaced alignment tab character &.
 <argument> ...g of the Metropolitan Capital Bank &
                                                    Trust in Chicago, Illinoi...
-l.478 }
+l.480 }
        
 ? 
 ! Misplaced alignment tab character &.
 <argument> ...ajor Western bullion banks like MCB&
                                                   T off guard, fundamentals ...
-l.478 }
+l.480 }
        
 ? 
 ! Misplaced alignment tab character &.
 <argument> ...e of the Metropolitan Capital Bank &
                                                    Trust in Chicago and othe...
-l.478 }
+l.480 }
        
 ? 
 ! Misplaced alignment tab character &.
 <argument> ...in Chicago and other banks like MCB&
                                                   T failed; the idea that a ...
-l.478 }
+l.480 }
        
 ? 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.478 }
+l.480 }
        
 ? 
 
-Overfull \hbox (2230.34673pt too wide) in paragraph at lines 478--478
+Overfull \hbox (2234.01273pt too wide) in paragraph at lines 480--480
 []$\OT1/cmr/m/n/8 600\OML/cmm/m/it/8 billionsincethe\OT1/cmr/m/n/8 2013\OML/cmm
 /m/it/8 :\OT1/cmr/m/n/8 5)\OML/cmm/m/it/8 EvenworsethanpreferenceordumpsisChina
 []sactivemanipulationofU:S:Treasuries:ChinahasbeguntoutilizeU:S:Treasurytodiver
@@ -2419,7 +2421,7 @@ ailedStateorchestratedshortsalecouldnotpreventgoldfromregaining\OT1/cmr/m/n/8 5
  []
 
 
-Overfull \hbox (5668.51134pt too wide) in paragraph at lines 478--478
+Overfull \hbox (5668.51134pt too wide) in paragraph at lines 480--480
 []$[]\OML/cmm/m/it/8 Orchestratedtocoincidewithseveralmajoreventssimultaneously
 ; JPMorganChase[]sattempttocrashthemarketofpreciousmetalsthroughashortsale[][]f
 ollowedthefirstshowingofMelaniaTrump[]sfilm; theheavilyredactedreleaseoftheEpst
@@ -2447,7 +2449,7 @@ assivesell \OMS/cmsy/m/n/8 ^^@$[]
  []
 
 
-Overfull \hbox (1004.30875pt too wide) in paragraph at lines 478--478
+Overfull \hbox (1004.30875pt too wide) in paragraph at lines 480--480
 []$\OML/cmm/m/it/8 offcouldtriggeralowerthresholdforthesestrugglingbankstoexitt
 hemarketsafelyalsobegantocollidewithaharshreality; asseveralbanksalreadyonthech
 oppingblocklookedripefordisintegration:BankslikeZionsBancorporation; RegionsFin
@@ -2462,138 +2464,142 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.478 }
+l.480 }
        
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 43 might be wrong on input line 489
+(multicol)                Footnotes on page 43 might be wrong on input line 481
 .
 
 [43]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 44 might be wrong on input line 492
+(multicol)                Footnotes on page 44 might be wrong on input line 491
 .
 
 [44]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 45 might be wrong on input line 494
+.
+
+[45]
 ! Missing } inserted.
 <inserted text> 
                 }
-l.496 \end{multicols}
+l.498 \end{multicols}
                      
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 45 might be wrong on input line 513
+(multicol)                Footnotes on page 46 might be wrong on input line 525
 .
 
-[45] [46]
+[46]
 ! Undefined control sequence.
 <argument> ...ipped through the cracks)\footnotea 
                                                   {In the era of the algorit...
-l.541 }
+l.543 }
        
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 541--541
+Underfull \hbox (badness 10000) in paragraph at lines 543--543
 [][][]\TU/ptm/m/it/8 Described as sounding like a pitch for a Hollywood blockbu
 ster such[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 47 might be wrong on input line 542
+(multicol)                Footnotes on page 47 might be wrong on input line 544
 .
 
 [47]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 48 might be wrong on input line 542
+(multicol)                Footnotes on page 48 might be wrong on input line 544
 .
 
 [48]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 49 might be wrong on input line 542
+(multicol)                Footnotes on page 49 might be wrong on input line 544
 .
 
 [49]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 50 might be wrong on input line 542
+(multicol)                Footnotes on page 50 might be wrong on input line 544
 .
 
 [50]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 51 might be wrong on input line 545
+(multicol)                Footnotes on page 51 might be wrong on input line 550
 .
 
 [51]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 52 might be wrong on input line 548
+(multicol)                Footnotes on page 52 might be wrong on input line 550
 .
 
 [52]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 53 might be wrong on input line 548
+(multicol)                Footnotes on page 53 might be wrong on input line 550
 .
 
 [53]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 54 might be wrong on input line 569
+(multicol)                Footnotes on page 54 might be wrong on input line 571
 .
 
 [54]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 55 might be wrong on input line 569
+(multicol)                Footnotes on page 55 might be wrong on input line 573
 .
 
-[55]
-
-[56]
+[55] [56]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 57 might be wrong on input line 593
+(multicol)                Footnotes on page 57 might be wrong on input line 597
 .
 
 [57]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 58 might be wrong on input line 627
+(multicol)                Footnotes on page 58 might be wrong on input line 629
 .
 
 [58]
 
+LaTeX Warning: Reference `footdir@282' on page 59 undefined on input line 637.
+
+
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 59 might be wrong on input line 634
+(multicol)                Footnotes on page 59 might be wrong on input line 638
 .
 
 [59]
 
-LaTeX Warning: Reference `footdir@280' on page 60 undefined on input line 635.
-
-
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 60 might be wrong on input line 636
+(multicol)                Footnotes on page 60 might be wrong on input line 638
 .
 
 [60]
 Missing character: There is no ≡ (U+2261) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Overfull \hbox (0.16756pt too wide) in paragraph at lines 647--647
+Overfull \hbox (0.16756pt too wide) in paragraph at lines 649--649
 []\TU/phv/b/n/10 present day design for photonic proces-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 61 might be wrong on input line 647
+(multicol)                Footnotes on page 61 might be wrong on input line 649
 .
 
 [61]
@@ -2713,103 +2719,108 @@ Missing character: There is no м (U+043C) in font [lmroman8-regular]:mapping=te
 x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 62 might be wrong on input line 651
+(multicol)                Footnotes on page 62 might be wrong on input line 653
 .
 
 [62]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 63 might be wrong on input line 651
+(multicol)                Footnotes on page 63 might be wrong on input line 653
 .
 
 [63]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 64 might be wrong on input line 683
+.
+
 [64]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 65 might be wrong on input line 685
+(multicol)                Footnotes on page 65 might be wrong on input line 687
 .
 
 [65]
-Underfull \hbox (badness 5203) in paragraph at lines 687--688
+Underfull \hbox (badness 5203) in paragraph at lines 689--690
 []\TU/phv/b/n/10 commander captured the Cimme-[]
  []
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 66 might be wrong on input line 689
-.
-
-[66]
-Underfull \hbox (badness 5077) in paragraph at lines 694--695
+Underfull \hbox (badness 5077) in paragraph at lines 696--697
 [][]\TU/phv/b/n/10 MK Ultra ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 The expo-
 []
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 67 might be wrong on input line 695
+(multicol)                Footnotes on page 66 might be wrong on input line 697
 .
 
-[67]
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
 [][]\TU/phv/b/n/10 Russia’s Military Industrial[]
  []
 
 
-Underfull \hbox (badness 7907) in paragraph at lines 712--713
+Underfull \hbox (badness 7907) in paragraph at lines 714--715
 []\TU/phv/b/n/10 Industrial Courier (i.e., []\TU/Helvetica(1)/m/n/10 Военно-[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
 []\TU/phv/b/n/10 Russian military: the Military-[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
 []\TU/phv/b/n/10 ([]\TU/Helvetica(1)/m/n/10 Военно-Промышленная Комис-[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
 []\TU/Helvetica(1)/m/n/10 Промышленный Комплекс[]\TU/phv/b/n/10 )) or[]
  []
 
 
-Underfull \hbox (badness 5446) in paragraph at lines 712--713
+Underfull \hbox (badness 5446) in paragraph at lines 714--715
 [][]\TU/phv/b/n/10 In a country famous for its[]
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 712--713
+Underfull \hbox (badness 6775) in paragraph at lines 714--715
 []\TU/phv/b/n/10 papers such as Iskra (i.e., []\TU/Helvetica(1)/m/n/10 Ис-[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 712--713
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
 []\TU/phv/b/n/10 Bulletin of the Left Opposi-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 68 might be wrong on input line 713
+(multicol)                Footnotes on page 67 might be wrong on input line 715
+.
+
+[67]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 68 might be wrong on input line 715
 .
 
 [68]
 
 LaTeX Warning: Citation `https://doi.org/10.1023/A:1005328611460' on page 69 un
-defined on input line 714.
+defined on input line 716.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 69 might be wrong on input line 715
+(multicol)                Footnotes on page 69 might be wrong on input line 717
 .
 
 [69]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 70 might be wrong on input line 717
+(multicol)                Footnotes on page 70 might be wrong on input line 719
 .
 
 [70]
@@ -3247,16 +3258,10 @@ Missing character: There is no 👇 (U+1F447) in font [lmroman10-regular]:mappin
 tex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 71 might be wrong on input line 749
+(multicol)                Footnotes on page 71 might be wrong on input line 751
 .
 
 [71]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 72 might be wrong on input line 749
-.
-
-[72]
 Missing character: There is no п (U+043F) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no р (U+0440) in font [lmroman8-regular]:mapping=te
@@ -3402,161 +3407,165 @@ x-text;!
 ! Misplaced alignment tab character &.
 <argument> ...bed as a Ringling Bros. and Barnum &
                                                    Bailey Circus). The prima...
-l.764 }
+l.766 }
        
 ? 
 ! Misplaced alignment tab character &.
 <argument> Marxism, History &
                               Socialist Consciousness
-l.764 }
+l.766 }
        
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 73 might be wrong on input line 764
+(multicol)                Footnotes on page 72 might be wrong on input line 766
+.
+
+[72]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 73 might be wrong on input line 766
 .
 
 [73]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 74 might be wrong on input line 764
+(multicol)                Footnotes on page 74 might be wrong on input line 766
 .
 
 [74]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 75 might be wrong on input line 764
+(multicol)                Footnotes on page 75 might be wrong on input line 766
 .
 
 [75]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 76 might be wrong on input line 764
+(multicol)                Footnotes on page 76 might be wrong on input line 766
 .
 
 [76]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 77 might be wrong on input line 764
+(multicol)                Footnotes on page 77 might be wrong on input line 766
 .
 
 [77]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 78 might be wrong on input line 764
+(multicol)                Footnotes on page 78 might be wrong on input line 766
 .
 
 [78]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 79 might be wrong on input line 764
+(multicol)                Footnotes on page 79 might be wrong on input line 766
 .
 
 [79]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 80 might be wrong on input line 764
+(multicol)                Footnotes on page 80 might be wrong on input line 766
 .
 
 [80]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 81 might be wrong on input line 764
+(multicol)                Footnotes on page 81 might be wrong on input line 766
 .
 
 [81]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 82 might be wrong on input line 768
+(multicol)                Footnotes on page 82 might be wrong on input line 770
 .
 
 [82]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 83 might be wrong on input line 768
+(multicol)                Footnotes on page 83 might be wrong on input line 770
 .
 
 [83]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 84 might be wrong on input line 771
+(multicol)                Footnotes on page 84 might be wrong on input line 773
 .
 
 [84]
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 85 might be wrong on input line 797
+.
+
 [85]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 86 might be wrong on input line 802
+(multicol)                Footnotes on page 86 might be wrong on input line 804
 .
 
 [86]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 87 might be wrong on input line 806
+(multicol)                Footnotes on page 87 might be wrong on input line 808
 .
 
 [87]
 Missing character: There is no М (U+041C) in font [lmroman8-regular]:mapping=te
 x-text;!
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 88 might be wrong on input line 808
-.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [88]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 89 might be wrong on input line 821
+(multicol)                Footnotes on page 89 might be wrong on input line 823
 .
 
 [89]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 90 might be wrong on input line 821
+(multicol)                Footnotes on page 90 might be wrong on input line 823
 .
 
 [90]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 91 might be wrong on input line 821
+(multicol)                Footnotes on page 91 might be wrong on input line 823
 .
 
 [91]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 92 might be wrong on input line 825
+(multicol)                Footnotes on page 92 might be wrong on input line 829
 .
 
 [92]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 93 might be wrong on input line 833
+(multicol)                Footnotes on page 93 might be wrong on input line 835
 .
 
 [93]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 94 might be wrong on input line 841
+(multicol)                Footnotes on page 94 might be wrong on input line 843
 .
 
 [94]
-Underfull \hbox (badness 10000) in paragraph at lines 855--856
+Underfull \hbox (badness 10000) in paragraph at lines 857--858
 [][]\TU/phv/b/n/10 Quartermaster General Mont-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 95 might be wrong on input line 856
+(multicol)                Footnotes on page 95 might be wrong on input line 858
 .
 
 [95]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 96 might be wrong on input line 856
-.
-
-[96]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -3564,17 +3573,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.861 }
+l.863 }
        
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 861--862
+Underfull \hbox (badness 10000) in paragraph at lines 863--864
 [][]\TU/phv/b/n/10 The obsession with quantum[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 97 might be wrong on input line 882
+(multicol)                Footnotes on page 96 might be wrong on input line 864
+.
+
+[96]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 97 might be wrong on input line 890
 .
 
 [97]
@@ -3585,7 +3600,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.907 }
+l.909 }
        
 ? 
 
@@ -3595,15 +3610,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.907 }
+l.909 }
        
 ? 
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 98 might be wrong on input line 908
-.
-
-[98]
 Missing character: There is no ا (U+0627) in font [lmroman8-regular]:mapping=te
 x-text;!
 Missing character: There is no س (U+0633) in font [lmroman8-regular]:mapping=te
@@ -3864,72 +3873,73 @@ Missing character: There is no ר (U+05E8) in font [lmroman8-regular]:mapping=te
 x-text;!
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 99 might be wrong on input line 914
+(multicol)                Footnotes on page 98 might be wrong on input line 914
+.
+
+[98]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 99 might be wrong on input line 916
 .
 
 [99]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 100 might be wrong on input line 95
-5.
+8.
 
 [100]
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 101 might be wrong on input line 96
-6.
+(multicol)                Footnotes on page 101 might be wrong on input line 97
+0.
 
 [101]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 102 might be wrong on input line 97
-1.
+3.
 
 [102]
-Underfull \hbox (badness 5681) in paragraph at lines 975--976
+Underfull \hbox (badness 5681) in paragraph at lines 977--978
 []\TU/phv/b/n/10 National Security Agency (NSA),[]
  []
-
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 103 might be wrong on input line 97
-6.
 
 [103] [104]
 ! Misplaced alignment tab character &.
 <argument> ...93 contributes to PRISM: Political &
                                                    Rights Issues & Social Mo...
-l.991 }
+l.993 }
        
 ? 
 ! Misplaced alignment tab character &.
 <argument> ...o PRISM: Political & Rights Issues &
                                                    Social Movements, a colla...
-l.991 }
+l.993 }
        
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 105 might be wrong on input line 99
-2.
+4.
 
 [105]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 106 might be wrong on input line 99
-4.
+7.
 
 [106]
 
 LaTeX Font Warning: Font shape `TU/ptm/b/it' undefined
-(Font)              using `TU/ptm/b/n' instead on input line 1170.
+(Font)              using `TU/ptm/b/n' instead on input line 1172.
 
 
-LaTeX Warning: Reference `footdir@488' on page 107 undefined on input line 1170
+LaTeX Warning: Reference `footdir@490' on page 107 undefined on input line 1172
 .
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 1170--1170
+Underfull \hbox (badness 7925) in paragraph at lines 1172--1172
 [][]\TU/phv/b/n/10 Solomon, King ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 King
 []
  []
@@ -3937,74 +3947,77 @@ Underfull \hbox (badness 7925) in paragraph at lines 1170--1170
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 107 might be wrong on input line 11
-70.
+72.
 
 
 LaTeX Font Warning: Font shape `TU/phv/m/it' undefined
-(Font)              using `TU/phv/m/n' instead on input line 1170.
+(Font)              using `TU/phv/m/n' instead on input line 1172.
 
 [107]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 108 might be wrong on input line 11
-70.
+72.
 
 [108]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 109 might be wrong on input line 11
-70.
+72.
 
 [109]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 110 might be wrong on input line 11
-70.
+72.
 
 [110]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 111 might be wrong on input line 11
-70.
+72.
 
 [111]
-Underfull \hbox (badness 5274) in paragraph at lines 1170--1170
-[][]\TU/phv/b/n/10 In contrast with the Shahed,[]
+Underfull \hbox (badness 5274) in paragraph at lines 1172--1172
+[][]\TU/phv/m/it/10 In contrast with the Shahed,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 112 might be wrong on input line 11
-70.
+72.
 
 [112]
-Underfull \hbox (badness 5316) in paragraph at lines 1170--1170
-[][]\TU/phv/b/n/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 Syntopi
-con,[]
+Underfull \hbox (badness 5316) in paragraph at lines 1172--1172
+[][]\TU/phv/m/it/10 Syntopicon ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/m/it/10 Synto
+picon,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 113 might be wrong on input line 11
-70.
+72.
 
 [113]
 ! Missing } inserted.
 <inserted text> 
                 }
-l.1170 }
+l.1172 }
         
 ? 
 
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 114 might be wrong on input line 11
+72.
 
 [114]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 115 might be wrong on input line 11
-70.
+72.
 
 [115]
-Overfull \hbox (166.93018pt too wide) in paragraph at lines 1170--1170
+Overfull \hbox (166.93018pt too wide) in paragraph at lines 1172--1172
 [][][]\TU/ptm/b/n/8 [”China’s Trade Surplus Reaches a Record of Nearly $\OT1/cm
 r/m/n/8 1\OML/cmm/m/it/8 Trillion; [][]January\OT1/cmr/m/n/8 12\OML/cmm/m/it/8 
 th; \OT1/cmr/m/n/8 2025]\OML/cmm/m/it/8 ; \OT1/cmr/m/n/8 [[]\OML/cmm/m/it/8 Chi
@@ -4014,33 +4027,28 @@ na[]sTradeSurplusClimbsPast$\TU/ptm/b/n/8 1[]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 116 might be wrong on input line 11
-70.
+72.
 
 [116]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 117 might be wrong on input line 11
-70.
+72.
 
 [117]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 118 might be wrong on input line 11
-70.
-
-[118]
-Underfull \hbox (badness 5119) in paragraph at lines 1170--1170
-[]\TU/phv/b/n/10 mark, Norway, Sweden, Finland,[]
+Underfull \hbox (badness 5119) in paragraph at lines 1172--1172
+[]\TU/phv/m/it/10 mark, Norway, Sweden, Finland,[]
  []
 
+[118]
+Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
+b;language=dflt;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 119 might be wrong on input line 11
-70.
+72.
 
 [119]
-Missing character: There is no ‏ (U+200F) in font Baghdad Regular/OT:script=ara
-b;language=dflt;!
 Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
@@ -4663,635 +4671,625 @@ Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
 ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
+ex-text;!
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 120 might be wrong on input line 11
-70.
 
 [120]
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ח (U+05D7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ק (U+05E7) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ט (U+05D8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ע (U+05E2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ז (U+05D6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no מ (U+05DE) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ם (U+05DD) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no כ (U+05DB) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ת (U+05EA) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no צ (U+05E6) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no פ (U+05E4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no נ (U+05E0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ג (U+05D2) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ב (U+05D1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ש (U+05E9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no א (U+05D0) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ל (U+05DC) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ד (U+05D3) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ן (U+05DF) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ס (U+05E1) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ו (U+05D5) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ר (U+05E8) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no י (U+05D9) in font [lmroman10-regular]:mapping=t
-ex-text;!
-Missing character: There is no ה (U+05D4) in font [lmroman10-regular]:mapping=t
-ex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1170--1170
-[][]\TU/phv/b/n/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/b/n/10 During
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1172
+[][]\TU/phv/m/it/10 Undergrowth ()  $\OMS/cmsy/m/n/10 ^^O$ \TU/phv/m/it/10 Duri
+ng[]
  []
 
 
-Underfull \hbox (badness 8113) in paragraph at lines 1170--1170
-[]\TU/phv/b/n/10 unipolar moment occured slowly,[]
+Underfull \hbox (badness 8113) in paragraph at lines 1172--1172
+[]\TU/phv/m/it/10 unipolar moment occured slowly,[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 121 might be wrong on input line 11
-70.
+72.
 
 [121]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 122 might be wrong on input line 11
-70.
+72.
 
 [122]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 123 might be wrong on input line 11
-70.
+72.
 
 [123]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 124 might be wrong on input line 11
-70.
-
-[124]
 Missing character: There is no С (U+0421) in font [lmroman10-regular]:mapping=t
 ex-text;!
 Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
@@ -5793,7 +5791,7 @@ x-text;!
 ! Undefined control sequence.
 <argument> ...Германский империализм (Готовит\ETC.
                                                   
-l.1170 }
+l.1172 }
         
 ? 
 Missing character: There is no м (U+043C) in font [lmroman10-regular]:mapping=t
@@ -5829,18 +5827,18 @@ ex-text;!
 ! Extra }, or forgotten \endgroup.
 \entry ...\ {(#2)}\ \textit {#3}\ $\bullet $\ {#4}
                                                   
-l.1170 }
+l.1172 }
         
 ? 
 
-Underfull \hbox (badness 5091) in paragraph at lines 1170--1171
-[]\TU/Helvetica(1)/m/n/10 вый Восток []\TU/phv/b/n/10 is not to be con-[]
+Underfull \hbox (badness 5091) in paragraph at lines 1172--1173
+[]\TU/Helvetica(1)/m/n/10 вый Восток []\TU/phv/m/it/10 is not to be con-[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 125 might be wrong on input line 11
-71.
+(multicol)                Footnotes on page 124 might be wrong on input line 11
+73.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -5852,7 +5850,48 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
+       
+? 
+Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no с (U+0441) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no т (U+0442) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no к (U+043A) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no Н (U+041D) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no о (U+043E) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no в (U+0432) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no ы (U+044B) in font [lmroman10-regular]:mapping=t
+ex-text;!
+Missing character: There is no й (U+0439) in font [lmroman10-regular]:mapping=t
+ex-text;!
+[124]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 125 might be wrong on input line 11
+73.
+
+
+! Package polyglossia Error: The current main sans serif font,
+(polyglossia)                lmroman10-regular, does not contain the
+(polyglossia)                "Cyrillic" script!
+(polyglossia)                Please define \cyrillicfontsf with
+(polyglossia)                \newfontfamily command
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5887,7 +5926,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5916,7 +5955,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 126 might be wrong on input line 11
-71.
+73.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -5928,7 +5967,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5963,7 +6002,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -5992,7 +6031,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 127 might be wrong on input line 11
-71.
+73.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -6004,7 +6043,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6039,7 +6078,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6068,7 +6107,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 128 might be wrong on input line 11
-71.
+73.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -6080,7 +6119,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6115,7 +6154,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6144,7 +6183,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 129 might be wrong on input line 11
-71.
+73.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -6156,7 +6195,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6191,7 +6230,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6220,7 +6259,7 @@ ex-text;!
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 130 might be wrong on input line 11
-71.
+73.
 
 
 ! Package polyglossia Error: The current main sans serif font,
@@ -6232,7 +6271,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6267,7 +6306,7 @@ ex-text;!
 Type <return> to continue.
  ...                                              
                                                   
-l.1171 
+l.1173 
        
 ? 
 Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
@@ -6294,52 +6333,55 @@ Missing character: There is no й (U+0439) in font [lmroman10-regular]:mapping=t
 ex-text;!
 [130]
 
-[131] [132]
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 131 might be wrong on input line 11
+99.
+
+[131]
 ! Extra }, or forgotten \endgroup.
-l.1202 }
+l.1204 }
         
 ? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1208--1208
-[][]\TU/phv/b/n/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
+[132]
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1210
+[][]\TU/phv/m/it/10 Wooldbridge, Michael ()  $\OMS/cmsy/m/n/10 ^^O$[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1208--1208
-[]\TU/phv/b/n/10 Leibniz’ binary number system[]
+Underfull \hbox (badness 10000) in paragraph at lines 1210--1210
+[]\TU/phv/m/it/10 Leibniz’ binary number system[]
  []
 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 133 might be wrong on input line 12
-08.
+10.
 
 [133]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 134 might be wrong on input line 12
+30.
 
 [134]
 ! You can't use `macro parameter character #' in horizontal mode.
 <argument> "أول حرب بالوكالة في الشرق الأوسط".. ##
                                                   المتحري يكشف جذور اهتمام إ...
-l.1246 }
+l.1248 }
         
 ? 
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 135 might be wrong on input line 12
-47.
+49.
 
 [135]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 136 might be wrong on input line 12
-50.
+52.
 
 [136]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 137 might be wrong on input line 12
-55.
-
 
 ! Package polyglossia Error: The current main sans serif font,
 (polyglossia)                lmroman10-regular, does not contain the
@@ -6350,7 +6392,7 @@ Package multicol Warning: I moved some lines to the next page.
 Type <return> to continue.
  ...                                              
                                                   
-l.1255 
+l.1257 
        
 ? 
 Missing character: There is no Ю (U+042E) in font [lmroman10-regular]:mapping=t
@@ -6373,17 +6415,19 @@ Missing character: There is no В (U+0412) in font [lmroman10-regular]:mapping=t
 ex-text;!
 [137]
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 138 might be wrong on input line 12
-57.
-
 [138]
 
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 139 might be wrong on input line 12
-75.
+77.
 
-[139] [140]
+[139]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 140 might be wrong on input line 12
+77.
+
+[140]
 
 [141] (./AHACETFUW.aux)
  ***********
@@ -6402,10 +6446,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 23554 strings out of 473832
- 542208 string characters out of 5729480
- 1234681 words of memory out of 5000000
- 46162 multiletter control sequences out of 15000+600000
+ 23553 strings out of 473832
+ 542222 string characters out of 5729480
+ 1241857 words of memory out of 5000000
+ 46161 multiletter control sequences out of 15000+600000
  564002 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,13n,107p,26658b,819s stack positions out of 10000i,1000n,20000p,200000b,200000s
