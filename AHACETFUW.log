@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  6 MAR 2026 19:00
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.10.20)  12 MAR 2026 14:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7139,6 +7139,15 @@ Package multicol Warning: I moved some lines to the next page.
 
 [152]
 
+LaTeX Warning: Reference `footdir@659' on page 153 undefined on input line 1321
+.
+
+
+LaTeX Warning: Reference `footdir@660' on page 153 undefined on input line 1321
+.
+
+
+
 [153] (./AHACETFUW.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -7151,12 +7160,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 23607 strings out of 473832
- 543023 string characters out of 5729480
+ 23609 strings out of 473832
+ 543053 string characters out of 5729480
  1256689 words of memory out of 5000000
- 46214 multiletter control sequences out of 15000+600000
+ 46216 multiletter control sequences out of 15000+600000
  564010 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,13n,107p,26664b,817s stack positions out of 10000i,1000n,20000p,200000b,200000s
